@@ -2,7 +2,8 @@ import streamlit as st
 import pickle
 
 st.title('Movie Recommended System')
-data = pickle.load(open('data.pkl', 'rb'))
+with open('data.pkl', 'rb') as file:
+    data = pickle.load(file)
 similarity = pickle.load(open('similarity.pkl', 'rb'))
 
 movies_list = data['title'].values
