@@ -1,0 +1,1303 @@
+,company,typename,ram,full_hd,ips_panel,touchscreen,4k_display,cpu_type,cpu_speed,cpu_brand,primary_memory_type,primary_memory_capacity,secondary_memory_type,secondary_memory_capacity,gpu_brand,os,weight,price,ppi
+0,apple,ultrabook,8,0,1,0,0,core i5,2.3,intel,ssd,128,no secondary memory,0,others,mac,1.37,11.17575450429821,226.98
+1,apple,ultrabook,8,0,0,0,0,core i5,1.8,intel,flash storage,128,no secondary memory,0,intel hd,mac,1.34,10.776777250841258,127.68
+2,hp,notebook,8,1,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,no os,1.86,10.329931067029484,141.21
+3,apple,ultrabook,16,0,1,0,0,core i7,2.7,intel,ssd,512,no secondary memory,0,amd radeon,mac,1.83,11.814475974541363,220.53
+4,apple,ultrabook,8,0,1,0,0,core i5,3.1,intel,ssd,256,no secondary memory,0,others,mac,1.37,11.473100993591625,226.98
+5,acer,notebook,4,0,0,0,0,a series,3.0,amd,hdd,500,no secondary memory,0,amd radeon,windows,2.1,9.967025573340116,100.45
+6,apple,ultrabook,16,0,1,0,0,core i7,2.2,intel,flash storage,256,no secondary memory,0,others,mac,2.04,11.644108101425259,220.53
+7,apple,ultrabook,8,0,0,0,0,core i5,1.8,intel,flash storage,256,no secondary memory,0,intel hd,mac,1.34,11.030615057027653,127.68
+8,asus,ultrabook,16,1,0,0,0,core i7,1.8,intel,ssd,512,no secondary memory,0,nvidia geforce,windows,1.3,11.285442512056921,157.35
+9,acer,ultrabook,8,1,1,0,0,core i5,1.6,intel,ssd,256,no secondary memory,0,intel uhd,windows,1.6,10.621951541079863,157.35
+10,hp,notebook,4,0,0,0,0,core i5,2.5,intel,hdd,500,no secondary memory,0,intel hd,no os,1.86,9.951658000911864,100.45
+11,hp,notebook,4,1,0,0,0,core i3,2.0,intel,hdd,500,no secondary memory,0,intel hd,no os,1.86,9.819076609666801,141.21
+12,apple,ultrabook,16,0,1,0,0,core i7,2.8,intel,ssd,256,no secondary memory,0,amd radeon,mac,1.83,11.775302037054288,220.53
+13,dell,notebook,4,1,0,0,0,core i3,2.0,intel,ssd,256,no secondary memory,0,amd radeon,windows,2.2,10.187966625858518,141.21
+14,apple,ultrabook,8,0,1,0,0,others,1.2,intel,ssd,256,no secondary memory,0,intel hd,mac,0.92,11.116330946588684,226.42
+15,apple,ultrabook,8,0,1,0,0,core i5,2.3,intel,ssd,256,no secondary memory,0,others,mac,1.37,11.301072187968007,226.98
+16,dell,notebook,8,1,0,0,0,core i7,2.7,intel,ssd,256,no secondary memory,0,amd radeon,windows,2.2,10.588945244611693,141.21
+17,apple,ultrabook,16,0,1,0,0,core i7,2.9,intel,ssd,512,no secondary memory,0,amd radeon,mac,1.83,11.933438384721946,220.53
+18,lenovo,notebook,8,1,0,0,0,core i3,2.4,intel,hdd,1024,no secondary memory,0,nvidia geforce,no os,2.2,10.188167121983652,141.21
+19,dell,ultrabook,8,1,1,1,0,core i5,1.6,intel,ssd,128,no secondary memory,0,intel uhd,windows,1.22,10.862092668762644,165.63
+20,asus,netbook,2,0,0,0,0,others,1.44,intel,flash storage,32,no secondary memory,0,intel hd,windows,0.98,9.23253523363588,135.09
+21,lenovo,gaming,8,1,1,0,0,core i5,2.5,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.5,10.882315804880687,141.21
+22,hp,notebook,4,0,0,0,0,others,1.5,amd,hdd,500,no secondary memory,0,amd radeon,no os,1.86,9.528520611153752,100.45
+23,dell,2 in 1 convertible,8,1,0,1,0,core i5,1.6,intel,ssd,256,no secondary memory,0,intel uhd,windows,1.62,10.683645110085203,165.63
+24,hp,ultrabook,8,1,0,0,0,core i7,1.8,intel,ssd,256,no secondary memory,0,intel hd,windows,1.91,10.46628456073464,141.21
+25,dell,notebook,4,0,0,0,0,core i3,2.0,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.3,10.01257242416226,100.45
+26,apple,ultrabook,8,0,0,0,0,core i5,1.6,intel,flash storage,128,no secondary memory,0,intel hd,mac,1.35,10.977716980635755,127.68
+27,dell,notebook,8,1,0,0,0,core i5,1.6,intel,ssd,256,no secondary memory,0,amd radeon,windows,2.2,10.660172753900062,141.21
+28,dell,ultrabook,8,1,0,0,0,core i7,1.9,intel,ssd,256,ssd,256,intel uhd,windows,1.88,11.144140923496169,141.21
+29,hp,notebook,8,1,0,0,0,core i5,1.6,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,2.5,10.773501439207065,127.34
+30,others,notebook,4,1,0,0,0,others,1.44,intel,flash storage,64,no secondary memory,0,intel hd,windows,1.89,9.476778634126267,141.21
+31,asus,notebook,2,0,0,0,0,others,1.5,amd,flash storage,32,no secondary memory,0,amd radeon,windows,1.65,9.268865850956626,111.94
+32,hp,notebook,4,1,0,0,0,a series,2.5,amd,hdd,500,no secondary memory,0,amd radeon,windows,2.71,10.060060439307305,127.34
+33,dell,ultrabook,16,0,0,1,0,core i7,1.8,intel,ssd,512,no secondary memory,0,intel uhd,windows,1.2,11.508719833687696,276.05
+34,apple,ultrabook,8,0,0,0,0,core i5,1.6,intel,flash storage,256,no secondary memory,0,intel hd,mac,1.35,10.881314302543597,127.68
+35,lenovo,notebook,4,0,0,0,0,celeron,1.1,intel,flash storage,64,no secondary memory,0,intel hd,windows,1.44,9.493013922696841,111.94
+36,acer,notebook,4,0,0,0,0,core i3,2.7,intel,hdd,1024,no secondary memory,0,intel hd,linux,2.1,9.880922874286703,100.45
+37,dell,notebook,8,1,1,0,0,core i5,1.6,intel,ssd,128,hdd,1024,amd radeon,windows,2.8,10.862092668762644,127.34
+38,hp,notebook,4,0,0,0,0,core i5,2.5,intel,hdd,1024,no secondary memory,0,intel hd,windows,1.86,10.167289244947353,100.45
+39,hp,notebook,8,1,0,0,0,core i5,1.6,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,2.1,10.754345923917311,141.21
+40,asus,notebook,4,1,0,0,0,core i3,2.0,intel,hdd,1024,no secondary memory,0,intel hd,linux,2.0,9.93914036985058,141.21
+41,dell,gaming,16,1,1,0,0,core i7,2.8,intel,ssd,256,hdd,1024,nvidia geforce,windows,2.65,11.288114524334732,141.21
+42,asus,notebook,8,0,0,0,0,core i5,2.5,intel,hdd,1024,no secondary memory,0,nvidia geforce,linux,2.3,10.235123470140175,100.45
+43,acer,notebook,4,1,1,0,0,core i5,1.6,intel,ssd,256,no secondary memory,0,intel uhd,windows,2.2,10.500590684075595,141.21
+44,dell,2 in 1 convertible,12,1,0,1,0,core i5,1.6,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,2.77,10.882315804880687,127.34
+45,apple,ultrabook,8,0,1,0,0,core i5,2.0,intel,ssd,256,no secondary memory,0,others,mac,1.37,11.233268703392177,226.98
+46,lenovo,notebook,4,0,0,0,0,core i3,2.0,intel,ssd,128,no secondary memory,0,intel hd,no os,2.2,9.88635767027266,100.45
+47,asus,gaming,8,1,0,0,0,ryzen,3.0,amd,ssd,256,hdd,1024,amd radeon,windows,3.2,11.144911042902732,127.34
+48,dell,notebook,4,1,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,amd radeon,windows,2.3,10.435465480609668,141.21
+49,asus,notebook,4,0,0,0,0,pentium,1.1,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,2.8,10.11974666035778,90.58
+50,lenovo,2 in 1 convertible,4,0,1,1,0,others,1.44,intel,flash storage,64,no secondary memory,0,intel hd,windows,0.69,9.740752129016979,224.17
+51,acer,notebook,8,1,1,0,0,core i7,1.8,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,2.2,10.710152686205081,141.21
+52,hp,notebook,4,1,0,0,0,a series,2.5,amd,ssd,256,no secondary memory,0,amd radeon,windows,1.86,9.963243561923871,141.21
+53,hp,notebook,8,1,0,0,0,core i7,1.8,intel,ssd,512,no secondary memory,0,intel uhd,windows,1.49,10.981350045485636,165.63
+54,acer,notebook,4,0,0,0,0,core i3,2.4,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.4,9.92620357881986,100.45
+55,dell,notebook,8,1,0,0,0,core i7,1.8,intel,ssd,256,no secondary memory,0,amd radeon,windows,2.13,10.619090211019358,141.21
+56,hp,notebook,4,1,0,0,0,core i3,2.0,intel,ssd,128,no secondary memory,0,intel hd,windows,1.91,10.060060439307305,141.21
+57,asus,notebook,4,0,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,2.0,10.34920489288084,100.45
+58,msi,gaming,16,1,0,0,0,core i7,2.8,intel,ssd,256,hdd,2048,nvidia geforce,windows,2.43,11.778996083184301,127.34
+59,asus,notebook,4,1,0,0,0,core i3,2.0,intel,ssd,256,no secondary memory,0,intel hd,linux,2.0,10.003839546462832,141.21
+60,dell,notebook,16,1,0,0,0,core i7,1.8,intel,ssd,256,hdd,2048,amd radeon,windows,2.8,11.144911042902732,127.34
+61,dell,ultrabook,8,1,0,0,0,core i5,1.6,intel,ssd,256,no secondary memory,0,intel uhd,windows,1.7,10.754345923917311,157.35
+62,lenovo,notebook,8,1,1,0,0,core i3,2.7,intel,ssd,256,no secondary memory,0,intel hd,no os,1.7,10.370822624347584,157.35
+63,asus,notebook,8,1,0,0,0,core i5,1.6,intel,ssd,256,no secondary memory,0,intel uhd,windows,1.4,10.822504165817513,157.35
+64,hp,notebook,8,1,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.86,10.51225262382344,141.21
+65,asus,ultrabook,16,1,0,0,0,core i7,2.8,intel,ssd,512,no secondary memory,0,nvidia geforce,windows,1.8,11.56792715475193,141.21
+66,hp,notebook,4,0,0,0,0,core i3,2.0,intel,hdd,500,no secondary memory,0,amd radeon,windows,1.86,10.059353902616273,100.45
+67,hp,notebook,4,0,0,0,0,celeron,1.6,intel,ssd,32,no secondary memory,0,intel hd,windows,1.44,9.409283029786373,111.94
+68,lenovo,notebook,4,1,0,0,0,core i5,2.5,intel,hdd,1024,no secondary memory,0,intel hd,windows,1.9,10.283659467741664,141.21
+69,asus,gaming,12,1,0,0,0,core i7,2.8,intel,hdd,1024,no secondary memory,0,nvidia geforce,linux,3.0,10.830969824842061,127.34
+70,microsoft,ultrabook,4,0,0,1,0,core i5,2.5,intel,ssd,128,no secondary memory,0,intel hd,windows,1.25,10.968576149165093,200.84
+71,dell,ultrabook,8,1,1,0,0,core i7,1.8,intel,ssd,256,no secondary memory,0,amd radeon,windows,1.4,10.837272366712863,165.63
+72,dell,notebook,8,1,0,0,0,core i7,1.8,intel,ssd,256,no secondary memory,0,amd radeon,windows,2.2,10.744054237880762,141.21
+73,msi,gaming,8,1,0,0,0,core i5,2.5,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.7,10.974070668482735,127.34
+74,acer,notebook,8,0,0,0,0,core i3,2.0,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.1,9.93914036985058,111.94
+75,asus,gaming,8,1,0,0,0,core i7,2.8,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,2.2,10.830969824842061,141.21
+76,lenovo,notebook,8,1,0,0,0,core i5,2.5,intel,hdd,2048,no secondary memory,0,intel hd,no os,2.2,10.227464909398023,141.21
+77,dell,notebook,8,1,0,0,0,core i7,1.8,intel,ssd,128,hdd,1024,intel uhd,windows,2.02,10.726662495168894,141.21
+78,acer,notebook,4,1,0,0,0,core i3,2.7,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,2.2,10.248438032778301,141.21
+79,hp,notebook,8,1,0,0,0,core i5,1.6,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.5,10.860047678274917,127.34
+80,dell,ultrabook,8,1,1,0,0,core i5,1.6,intel,ssd,256,no secondary memory,0,intel uhd,windows,1.88,10.97512938629973,141.21
+81,apple,ultrabook,8,0,1,0,0,core i5,1.3,intel,ssd,512,no secondary memory,0,intel hd,mac,0.92,11.295425956041104,226.42
+82,hp,notebook,8,1,0,0,0,core i5,1.6,intel,ssd,256,no secondary memory,0,intel hd,windows,1.63,10.732493415479688,157.35
+83,lenovo,notebook,4,1,0,0,0,a series,2.5,amd,ssd,128,no secondary memory,0,others,windows,2.2,9.964522443121997,141.21
+84,acer,notebook,4,0,0,0,0,a series,3.0,amd,hdd,1024,no secondary memory,0,amd radeon,windows,2.1,9.954446791133256,100.45
+85,dell,gaming,16,1,1,0,0,core i7,2.8,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.65,11.18267988243989,141.21
+86,hp,ultrabook,8,1,1,0,0,core i7,1.8,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,1.83,10.525211768465944,141.21
+87,hp,notebook,8,1,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.96,10.370806017452681,141.21
+88,asus,gaming,16,1,1,0,0,core i7,2.8,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.2,11.254189968552817,141.21
+89,dell,ultrabook,8,1,1,0,0,core i7,1.8,intel,ssd,256,no secondary memory,0,intel uhd,windows,1.21,11.383485348791732,165.63
+90,asus,gaming,8,1,0,0,0,others,3.0,amd,hdd,1024,no secondary memory,0,amd radeon,windows,2.45,10.525211768465944,141.21
+91,acer,notebook,8,1,0,0,0,core i7,1.8,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,2.2,10.510802297245792,141.21
+92,hp,notebook,16,1,0,0,0,core i7,1.8,intel,ssd,512,no secondary memory,0,intel uhd,windows,1.49,11.063134731790107,165.63
+93,dell,gaming,8,1,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,2.65,11.061462490597744,141.21
+94,asus,ultrabook,8,1,0,0,0,core i7,2.7,intel,ssd,256,no secondary memory,0,intel hd,windows,1.25,10.931153634628432,157.35
+95,acer,2 in 1 convertible,8,1,1,1,0,core i5,1.6,intel,ssd,256,no secondary memory,0,intel uhd,windows,1.5,10.717261720884188,165.63
+96,dell,notebook,8,1,0,0,0,core i7,2.7,intel,hdd,1024,no secondary memory,0,amd radeon,linux,2.2,10.372323938318187,141.21
+97,dell,notebook,4,1,0,0,0,core i3,2.0,intel,ssd,256,no secondary memory,0,amd radeon,linux,2.2,10.159709917169616,141.21
+98,asus,notebook,6,1,0,0,0,core i3,2.4,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,2.0,10.333403292740233,141.21
+99,hp,gaming,12,1,1,0,0,core i7,2.8,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.62,11.105659536357711,141.21
+100,hp,notebook,8,1,0,0,0,core i7,2.7,intel,ssd,256,no secondary memory,0,amd radeon,windows,1.91,10.55342238395318,141.21
+101,hp,notebook,4,1,0,0,0,others,1.5,amd,hdd,500,no secondary memory,0,amd radeon,windows,2.1,9.83063294843456,141.21
+102,dell,notebook,8,1,0,0,0,core i5,1.6,intel,hdd,1024,no secondary memory,0,amd radeon,linux,2.2,10.447907320733034,141.21
+103,hp,ultrabook,8,1,1,0,0,core i7,2.7,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,1.38,10.99575173454406,165.63
+104,microsoft,ultrabook,8,0,0,1,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.25,11.17598591917709,200.84
+105,hp,notebook,6,1,1,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,1.58,10.46628456073464,157.35
+106,lenovo,notebook,4,1,0,0,0,core i3,2.0,intel,hdd,1024,no secondary memory,0,intel hd,windows,1.85,10.003598463097253,141.21
+107,asus,ultrabook,8,1,1,0,0,core i7,2.7,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,1.3,11.05978744833005,157.35
+108,msi,gaming,16,1,0,0,0,core i7,2.8,intel,ssd,256,hdd,1024,nvidia geforce,windows,2.2,11.144911042902732,141.21
+109,lenovo,notebook,8,1,1,0,0,core i7,2.7,intel,ssd,256,no secondary memory,0,intel hd,windows,1.58,11.275358392990295,157.35
+110,asus,ultrabook,16,1,0,0,0,core i7,1.8,intel,ssd,256,hdd,1024,nvidia geforce,windows,1.5,11.116014069333293,141.21
+111,dell,ultrabook,8,0,0,1,0,core i7,2.4,intel,ssd,256,no secondary memory,0,others,windows,1.23,11.204674904025435,276.05
+112,lenovo,2 in 1 convertible,8,1,1,1,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.37,11.219074000897615,165.63
+113,hp,notebook,4,0,1,0,0,core i5,1.6,intel,hdd,500,no secondary memory,0,intel uhd,windows,1.63,10.55758616512496,111.94
+114,dell,ultrabook,8,1,1,0,0,core i5,1.6,intel,ssd,256,no secondary memory,0,intel uhd,windows,1.21,11.371282634834179,165.63
+115,hp,2 in 1 convertible,8,1,1,1,0,core i5,1.6,intel,ssd,256,no secondary memory,0,intel uhd,windows,1.26,11.219066890473874,165.63
+116,hp,notebook,8,1,0,0,0,core i7,1.8,intel,ssd,512,no secondary memory,0,intel uhd,windows,1.63,10.963974208231726,157.35
+117,dell,notebook,8,1,1,0,0,core i7,1.8,intel,ssd,256,hdd,1024,nvidia geforce,windows,2.16,11.00582589085148,141.21
+118,asus,notebook,4,1,0,0,0,core i3,2.0,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,2.0,10.310615277730193,127.34
+119,asus,notebook,8,1,0,0,0,core i7,1.8,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,1.7,10.994857679947177,141.21
+120,acer,notebook,6,1,1,1,0,core i3,2.4,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.1,10.147261623643049,141.21
+121,msi,gaming,16,1,0,0,0,core i7,2.8,intel,ssd,256,hdd,2048,nvidia geforce,windows,1.8,11.690461589827628,141.21
+122,lenovo,notebook,8,1,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,nvidia geforce,no os,2.2,10.419692282932575,141.21
+123,hp,notebook,16,1,0,0,0,core i7,1.8,intel,ssd,512,no secondary memory,0,nvidia geforce,windows,2.5,11.123120297421588,127.34
+124,acer,notebook,4,0,0,0,0,a series,3.0,amd,ssd,256,no secondary memory,0,amd radeon,windows,2.1,10.087028365734811,100.45
+125,hp,notebook,4,0,0,0,0,celeron,1.6,intel,hdd,500,no secondary memory,0,intel hd,no os,1.86,9.532389087931671,100.45
+126,hp,notebook,8,1,0,0,0,core i5,1.6,intel,hdd,1024,no secondary memory,0,intel uhd,windows,1.63,10.675061366393813,157.35
+127,asus,notebook,4,0,0,0,0,others,1.5,amd,ssd,64,no secondary memory,0,amd radeon,windows,1.65,9.60314635709751,111.94
+128,dell,notebook,16,1,0,0,0,core i7,1.8,intel,ssd,256,hdd,2048,amd radeon,windows,2.8,11.216927309554451,127.34
+129,hp,notebook,8,1,0,0,0,core i5,1.6,intel,ssd,256,no secondary memory,0,intel uhd,windows,2.5,10.808592759018333,127.34
+130,dell,notebook,8,0,0,0,0,core i5,2.5,intel,hdd,1024,no secondary memory,0,amd radeon,windows,2.36,10.435449913278095,100.45
+131,dell,notebook,4,1,0,0,0,core i3,2.0,intel,hdd,1024,no secondary memory,0,amd radeon,windows,2.2,10.082583913974387,141.21
+132,acer,ultrabook,8,1,1,0,0,core i7,1.8,intel,ssd,256,no secondary memory,0,intel uhd,windows,1.6,10.760018088869778,157.35
+133,acer,notebook,4,1,0,0,0,core i3,2.7,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,2.2,10.324700017611931,141.21
+134,hp,notebook,8,0,0,0,0,core i7,2.7,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.05,10.369151780182765,100.45
+135,hp,notebook,8,1,0,0,0,core i7,1.8,intel,ssd,256,no secondary memory,0,intel uhd,windows,1.63,10.871243723980001,157.35
+136,lenovo,notebook,4,0,0,0,0,celeron,1.1,intel,hdd,1024,no secondary memory,0,intel hd,no os,1.9,9.506417606236345,100.45
+137,asus,gaming,8,1,0,0,0,core i5,2.5,intel,ssd,128,hdd,1024,nvidia geforce,windows,3.0,10.81931097523836,127.34
+138,lenovo,notebook,4,1,0,0,0,core i5,2.5,intel,hdd,1024,no secondary memory,0,nvidia geforce,no os,2.2,10.188167121983652,141.21
+139,hp,notebook,4,1,1,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.32,10.525211768465944,165.63
+140,acer,notebook,4,1,1,0,0,core i3,2.7,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,3.0,10.460196261867386,127.34
+141,lenovo,notebook,8,1,1,0,0,core i5,1.6,intel,ssd,256,no secondary memory,0,amd radeon,windows,1.75,10.993085164157163,157.35
+142,lenovo,gaming,8,1,1,0,0,core i7,2.8,intel,ssd,256,no secondary memory,0,nvidia geforce,no os,2.4,10.742904151497525,141.21
+143,toshiba,notebook,4,0,0,0,0,core i5,2.3,intel,hdd,500,no secondary memory,0,intel hd,windows,2.1,10.375818471540954,100.45
+144,hp,notebook,4,0,0,0,0,a series,2.5,amd,ssd,256,no secondary memory,0,amd radeon,windows,1.86,9.88635767027266,100.45
+145,asus,ultrabook,8,1,0,0,0,core i7,1.8,intel,ssd,256,no secondary memory,0,intel uhd,windows,1.25,10.977716980635755,157.35
+146,hp,ultrabook,8,0,1,1,1,others,1.2,intel,ssd,512,no secondary memory,0,intel hd,windows,0.97,11.583439099510642,352.47
+147,asus,notebook,4,1,0,0,0,celeron,1.1,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.0,9.816202683605532,141.21
+148,msi,gaming,16,1,0,0,0,core i7,2.8,intel,ssd,256,hdd,1024,nvidia geforce,windows,2.9,11.590859366057948,127.34
+149,acer,notebook,4,0,0,0,0,core i3,2.0,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.1,10.078119620845703,100.45
+150,dell,gaming,16,1,0,0,0,core i7,2.8,intel,ssd,512,no secondary memory,0,nvidia geforce,windows,2.56,11.105867639160346,141.21
+151,dell,gaming,8,1,0,0,0,core i7,2.8,intel,hybrid,1024,no secondary memory,0,nvidia geforce,windows,2.62,10.776844060703754,141.21
+152,lenovo,notebook,4,0,0,0,0,core i5,2.5,intel,ssd,128,no secondary memory,0,intel hd,windows,1.9,10.186161103256786,100.45
+153,msi,gaming,16,1,0,0,0,core i7,2.8,intel,ssd,256,hdd,1024,nvidia geforce,windows,2.8,11.519893134285821,127.34
+154,hp,ultrabook,4,1,0,0,0,core i5,2.7,intel,ssd,256,no secondary memory,0,intel hd,windows,1.48,10.962127485638561,157.35
+155,hp,notebook,6,1,0,0,0,core i5,1.6,intel,ssd,256,no secondary memory,0,amd radeon,windows,1.91,10.403666298916729,141.21
+156,lenovo,2 in 1 convertible,4,1,1,1,0,core i3,2.4,intel,ssd,256,no secondary memory,0,intel hd,windows,1.74,10.419692282932575,157.35
+157,asus,2 in 1 convertible,8,1,0,1,0,core i5,1.6,intel,ssd,256,no secondary memory,0,intel hd,windows,1.1,11.157152970843999,165.63
+158,dell,2 in 1 convertible,8,1,0,1,0,core i7,1.8,intel,ssd,256,no secondary memory,0,intel uhd,windows,1.56,10.931153634628432,141.21
+159,toshiba,notebook,4,0,0,0,0,core i3,2.2,intel,hdd,500,no secondary memory,0,intel hd,windows,2.1,10.078119620845703,100.45
+160,asus,notebook,4,0,0,0,0,a series,3.0,amd,hdd,1024,no secondary memory,0,amd radeon,windows,2.03,9.974497588178817,100.45
+161,acer,notebook,4,1,1,0,0,core i5,1.6,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,3.0,10.666403303650696,127.34
+162,dell,notebook,8,1,0,0,0,core i5,1.6,intel,ssd,256,no secondary memory,0,amd radeon,windows,2.13,10.56586207442882,141.21
+163,lenovo,gaming,16,1,1,0,0,core i7,2.8,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,2.5,10.959350991490268,141.21
+164,acer,notebook,4,0,0,0,0,celeron,1.1,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.1,9.827763506006608,100.45
+165,msi,gaming,16,1,1,0,0,core i7,2.8,intel,ssd,256,hdd,1024,nvidia geforce,windows,2.4,11.470547260182666,141.21
+166,acer,notebook,4,0,0,0,0,pentium,1.1,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.1,9.871367688573907,100.45
+167,dell,gaming,8,1,0,0,0,core i7,2.8,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.56,10.942047420233004,141.21
+168,acer,notebook,8,1,1,0,0,core i5,1.6,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,3.0,10.725492220020703,127.34
+169,hp,notebook,4,1,1,0,0,core i5,1.6,intel,hdd,500,no secondary memory,0,intel uhd,windows,1.49,10.60095339424009,165.63
+170,others,ultrabook,8,1,1,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.05,11.18267988243989,199.69
+171,hp,notebook,6,1,1,0,0,core i5,2.5,intel,hdd,2048,no secondary memory,0,amd radeon,windows,2.71,10.525211768465944,127.34
+172,lenovo,notebook,4,0,0,0,0,a series,2.9,amd,hdd,500,no secondary memory,0,amd radeon,no os,2.2,9.708902303129879,100.45
+173,toshiba,notebook,4,0,0,0,0,core i3,2.4,intel,hdd,500,no secondary memory,0,intel hd,windows,2.0,10.167923515707006,100.45
+174,hp,notebook,8,1,0,0,0,core i5,1.6,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,2.5,10.803190260734986,127.34
+175,dell,notebook,8,0,0,0,0,core i3,2.4,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.3,10.104611236292678,100.45
+176,acer,notebook,4,0,0,0,0,core i3,2.0,intel,ssd,128,no secondary memory,0,intel hd,windows,2.1,10.082583913974387,100.45
+177,msi,gaming,32,1,0,0,0,core i7,2.9,intel,ssd,512,hdd,1024,nvidia,windows,4.4,11.912578515747587,119.72
+178,lenovo,notebook,8,1,0,0,0,core i5,2.5,intel,ssd,128,hdd,1024,others,windows,1.9,10.676292135779944,141.21
+179,hp,2 in 1 convertible,8,0,1,1,1,core i5,1.6,intel,ssd,256,no secondary memory,0,intel uhd,windows,1.29,11.288114524334732,331.26
+180,dell,notebook,16,1,0,0,0,core i7,1.8,intel,ssd,256,hdd,2048,amd radeon,linux,2.02,10.931153634628432,141.21
+181,dell,ultrabook,8,1,0,0,0,core i5,1.6,intel,ssd,256,no secondary memory,0,intel uhd,windows,1.23,11.219074000897615,165.63
+182,lenovo,2 in 1 convertible,16,0,1,1,1,core i7,1.8,intel,ssd,512,no secondary memory,0,intel uhd,windows,1.4,11.49796125761926,316.97
+183,toshiba,notebook,8,0,0,0,0,core i5,2.5,intel,ssd,128,no secondary memory,0,intel hd,windows,2.0,10.651384247866982,100.45
+184,others,notebook,8,1,1,0,0,core i5,1.6,intel,ssd,256,no secondary memory,0,nvidia geforce,no os,1.95,11.064804181259648,141.21
+185,dell,notebook,16,1,0,1,0,core i7,1.8,intel,ssd,512,no secondary memory,0,nvidia geforce,windows,2.77,11.320925866649002,127.34
+186,dell,notebook,16,0,0,1,1,core i7,2.8,intel,ssd,512,no secondary memory,0,nvidia geforce,windows,2.06,11.757534260666517,282.42
+187,lenovo,gaming,8,1,1,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,nvidia geforce,no os,2.4,10.633572072102883,141.21
+188,acer,ultrabook,8,1,1,0,0,core i5,1.2,intel,ssd,256,no secondary memory,0,intel hd,windows,1.12,10.872255357854845,165.63
+189,dell,notebook,8,1,0,0,0,core i7,1.8,intel,ssd,128,hdd,1024,amd radeon,windows,2.8,10.964896292206694,127.34
+190,lenovo,2 in 1 convertible,16,0,0,1,0,core i7,2.7,intel,ssd,1024,no secondary memory,0,intel hd,windows,1.42,11.921470624845266,209.8
+191,others,notebook,4,1,1,0,0,celeron,1.1,intel,flash storage,32,no secondary memory,0,intel hd,windows,1.3,9.536242657247662,157.35
+192,others,ultrabook,8,1,1,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,nvidia geforce,no os,1.3,10.883216262672645,165.63
+193,lenovo,notebook,8,0,0,0,0,core i5,1.6,intel,ssd,256,no secondary memory,0,nvidia geforce,no os,2.8,10.523780128994506,106.11
+194,dell,2 in 1 convertible,8,1,1,1,0,core i7,1.8,intel,hdd,1024,no secondary memory,0,intel uhd,windows,1.62,10.70777173269934,165.63
+195,hp,notebook,8,1,1,0,0,core i5,1.6,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,2.5,10.793391597686284,127.34
+196,razer,gaming,32,0,0,1,1,core i7,2.9,intel,ssd,1024,no secondary memory,0,nvidia geforce,windows,3.49,12.69144112852859,254.67
+197,hp,notebook,8,1,0,0,0,core i5,1.6,intel,ssd,512,no secondary memory,0,intel uhd,windows,1.49,10.841452101115571,165.63
+198,hp,gaming,16,1,1,0,0,core i7,2.8,intel,ssd,256,hdd,1024,nvidia geforce,windows,3.35,11.204674904025435,127.34
+199,hp,notebook,8,1,0,0,0,core i7,1.8,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,2.5,10.927333190631044,127.34
+200,dell,gaming,16,0,1,0,1,core i7,2.8,intel,ssd,512,hdd,1024,nvidia geforce,windows,2.65,11.495795582706762,282.42
+201,lenovo,notebook,4,0,0,0,0,core i5,2.3,intel,ssd,128,no secondary memory,0,intel hd,windows,2.1,10.176070200274824,100.45
+202,acer,notebook,8,1,0,0,0,core i7,2.7,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,2.23,10.584910269399515,141.21
+203,lenovo,gaming,16,1,1,0,0,core i7,2.8,intel,ssd,512,hdd,1024,nvidia geforce,windows,3.2,11.442360501250736,141.21
+204,dell,workstation,16,0,0,0,1,others,3.0,intel,ssd,256,hdd,1024,nvidia,windows,2.8,12.000095897837829,282.42
+205,lenovo,gaming,16,1,0,0,0,core i7,2.8,intel,ssd,512,no secondary memory,0,nvidia geforce,no os,2.4,11.21835894902589,141.21
+206,dell,notebook,6,0,0,1,0,core i3,2.4,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.3,10.060060439307305,100.45
+207,dell,ultrabook,8,0,1,1,1,core i7,1.8,intel,ssd,256,no secondary memory,0,intel uhd,windows,1.21,11.550632725739694,331.26
+208,dell,ultrabook,8,1,0,0,0,core i7,1.8,intel,ssd,256,no secondary memory,0,intel uhd,windows,1.2,11.254189968552817,165.63
+209,lenovo,notebook,8,0,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,2.2,10.367478139624735,100.45
+210,acer,notebook,8,1,0,0,0,core i7,2.8,intel,hdd,1024,no secondary memory,0,nvidia geforce,linux,2.4,10.633572072102883,141.21
+211,asus,gaming,16,1,0,0,0,core i7,2.8,intel,ssd,256,hdd,1024,nvidia geforce,windows,2.9,11.224776083346523,127.34
+212,hp,notebook,4,1,0,0,0,core i3,2.0,intel,hdd,500,no secondary memory,0,intel hd,no os,2.1,9.83063294843456,141.21
+213,lenovo,notebook,8,1,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,no os,2.2,10.283659467741664,141.21
+214,others,ultrabook,8,1,1,0,0,core i7,2.7,intel,ssd,512,no secondary memory,0,intel hd,windows,1.05,11.288114524334732,199.69
+215,dell,ultrabook,8,1,1,0,0,core i7,1.8,intel,ssd,256,no secondary memory,0,amd radeon,windows,1.4,10.812765149769957,165.63
+216,lenovo,notebook,8,0,0,0,0,core i5,2.5,intel,hdd,1024,no secondary memory,0,nvidia geforce,no os,2.8,10.353987209883721,106.11
+217,hp,notebook,8,1,0,0,0,core i7,1.8,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,1.63,10.913845510249093,157.35
+218,dell,ultrabook,8,1,0,0,0,core i5,1.6,intel,ssd,256,no secondary memory,0,intel uhd,windows,1.6,11.02220830408089,157.35
+219,dell,2 in 1 convertible,16,1,0,1,0,core i7,1.8,intel,ssd,512,no secondary memory,0,intel uhd,windows,1.62,11.129394827810977,165.63
+220,dell,notebook,8,1,0,0,0,core i5,1.6,intel,ssd,256,no secondary memory,0,amd radeon,linux,2.2,10.493749207677107,141.21
+221,lenovo,2 in 1 convertible,8,1,1,0,0,core i5,1.6,intel,ssd,256,no secondary memory,0,intel uhd,windows,1.74,10.776844060703754,157.35
+222,toshiba,ultrabook,8,1,0,0,0,core i7,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.2,11.193004457928666,165.63
+223,hp,notebook,8,1,0,0,0,core i5,1.6,intel,hdd,1024,no secondary memory,0,intel uhd,windows,2.1,10.65264448747927,141.21
+224,dell,gaming,16,1,1,0,0,core i7,2.8,intel,ssd,256,hdd,1024,nvidia geforce,windows,4.42,11.78198877907636,127.34
+225,acer,notebook,8,1,0,0,0,core i7,2.7,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,2.2,10.699393467053342,141.21
+226,dell,notebook,16,1,0,1,0,core i7,2.7,intel,hdd,1024,no secondary memory,0,amd radeon,windows,2.3,10.73134152841412,141.21
+227,asus,notebook,8,1,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,2.0,10.620651995737777,141.21
+228,asus,notebook,8,1,0,0,0,core i5,2.5,intel,ssd,256,hdd,500,nvidia geforce,windows,2.69,10.767905453702943,127.34
+229,hp,notebook,8,1,0,0,0,core i7,2.7,intel,hdd,1024,no secondary memory,0,others,windows,1.9,11.121545493946522,141.21
+230,asus,notebook,4,0,0,0,0,core i3,2.4,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.37,9.964497511865233,100.45
+231,hp,notebook,4,0,0,0,0,others,1.5,amd,hdd,500,no secondary memory,0,amd radeon,windows,2.1,9.77465368069266,100.45
+232,lenovo,gaming,16,1,1,0,0,core i7,2.8,intel,ssd,256,hdd,1024,nvidia geforce,windows,3.2,11.288114524334732,141.21
+233,dell,notebook,8,1,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.6,10.73132994821639,157.35
+234,acer,2 in 1 convertible,8,1,1,1,0,core i5,2.3,intel,ssd,256,no secondary memory,0,intel hd,windows,1.6,10.510802297245792,165.63
+235,dell,notebook,16,1,0,0,0,core i7,2.7,intel,ssd,256,no secondary memory,0,amd radeon,linux,2.36,10.776844060703754,141.21
+236,acer,notebook,4,0,0,0,0,core i3,2.0,intel,hdd,1024,no secondary memory,0,intel hd,linux,2.1,9.941707765355826,100.45
+237,asus,notebook,4,1,0,0,0,a series,2.5,amd,ssd,128,hdd,1024,amd radeon,windows,2.2,10.329931067029484,141.21
+238,asus,gaming,32,1,0,0,0,core i7,2.9,intel,ssd,512,hdd,1024,nvidia geforce,windows,4.7,12.241725462844625,127.34
+239,acer,gaming,8,1,1,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,2.5,10.716080385838357,141.21
+240,lenovo,notebook,8,0,0,0,0,core i3,2.0,intel,ssd,128,no secondary memory,0,intel hd,windows,2.2,10.353987209883721,100.45
+241,asus,notebook,8,1,0,0,0,core i7,1.8,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.1,11.018720942220474,127.34
+242,asus,notebook,8,1,0,0,0,core i7,2.7,intel,ssd,128,hdd,1024,nvidia geforce,no os,2.69,10.765658261746038,127.34
+243,dell,gaming,8,1,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,2.56,10.754345923917311,141.21
+244,lenovo,2 in 1 convertible,8,1,1,1,0,core i7,2.7,intel,ssd,256,no secondary memory,0,intel hd,windows,1.38,10.959350991490268,158.48
+245,dell,notebook,8,1,0,0,0,core i7,1.8,intel,ssd,128,hdd,2048,amd radeon,windows,2.2,10.868202667404223,141.21
+246,hp,notebook,8,0,0,1,0,core i5,2.5,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.04,10.301710499387234,100.45
+247,asus,gaming,16,1,0,0,0,core i7,2.9,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,3.6,11.981595204981144,127.34
+248,hp,notebook,4,1,1,0,0,core i5,1.6,intel,hdd,500,no secondary memory,0,intel uhd,windows,1.49,10.490273717104664,165.63
+249,apple,ultrabook,8,0,1,0,0,core i5,3.1,intel,ssd,512,no secondary memory,0,others,mac,1.37,11.596266113070396,226.98
+250,dell,2 in 1 convertible,8,1,1,1,0,core i7,1.8,intel,hdd,1024,no secondary memory,0,intel uhd,windows,2.08,10.683645110085203,141.21
+251,asus,gaming,16,1,0,0,0,core i7,2.8,intel,ssd,256,hdd,1024,nvidia geforce,windows,4.3,11.470547260182666,127.34
+252,asus,notebook,4,0,0,0,0,a series,3.0,amd,hdd,1024,no secondary memory,0,amd radeon,windows,1.68,10.126163794678414,100.45
+253,lenovo,2 in 1 convertible,8,1,1,1,0,core i7,1.8,intel,ssd,512,no secondary memory,0,intel uhd,windows,1.37,11.49796125761926,158.48
+254,acer,notebook,4,1,1,0,0,core i3,2.7,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,3.0,10.529494430257945,127.34
+255,dell,ultrabook,8,1,0,0,0,core i5,1.6,intel,ssd,256,no secondary memory,0,intel uhd,windows,1.41,10.830969824842061,165.63
+256,hp,notebook,8,0,0,0,0,a series,2.5,amd,ssd,128,no secondary memory,0,amd radeon,windows,1.91,10.075655653681803,100.45
+257,hp,notebook,16,1,1,0,0,core i7,1.8,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,2.9,10.94064137183354,127.34
+258,msi,gaming,16,1,0,0,0,core i7,2.8,intel,ssd,512,hdd,1024,nvidia geforce,windows,4.14,11.799206957067087,127.34
+259,lenovo,2 in 1 convertible,8,1,1,1,0,core i7,2.8,intel,ssd,512,no secondary memory,0,nvidia geforce,windows,2.0,11.413356147904066,141.21
+260,dell,notebook,8,1,0,0,0,core i7,1.8,intel,ssd,128,hdd,1024,amd radeon,windows,2.8,11.016097416448089,127.34
+261,lenovo,notebook,4,1,0,0,0,core i3,2.0,intel,ssd,256,no secondary memory,0,intel hd,no os,2.2,10.07138558866436,141.21
+262,hp,notebook,4,1,1,0,0,core i5,1.6,intel,hdd,500,no secondary memory,0,intel hd,windows,2.1,10.55758616512496,141.21
+263,dell,notebook,4,1,0,0,0,core i5,2.5,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.18,10.463245044716745,141.21
+264,dell,notebook,8,1,0,0,0,core i5,2.5,intel,hdd,1024,no secondary memory,0,amd radeon,windows,2.24,10.312386757378574,141.21
+265,dell,2 in 1 convertible,8,1,0,1,0,core i5,1.6,intel,ssd,256,no secondary memory,0,intel uhd,windows,2.67,10.658921971998408,141.21
+266,asus,2 in 1 convertible,8,1,0,1,0,core i7,1.8,intel,ssd,512,ssd,512,intel uhd,windows,1.1,11.288114524334732,165.63
+267,lenovo,notebook,4,1,0,0,0,core i5,2.5,intel,hdd,1024,no secondary memory,0,intel hd,no os,2.2,10.121890283901031,141.21
+268,hp,notebook,8,1,0,0,0,core i7,1.8,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,2.5,10.901156223342602,127.34
+269,lenovo,notebook,8,1,0,0,0,core i7,1.8,intel,ssd,256,no secondary memory,0,intel uhd,windows,2.05,10.755482933704386,141.21
+270,apple,ultrabook,8,0,1,0,0,core i5,2.9,intel,ssd,512,no secondary memory,0,others,mac,1.37,11.555699377258929,226.98
+271,asus,gaming,16,1,0,0,0,ryzen,3.0,amd,ssd,256,hdd,1024,amd radeon,windows,3.2,11.320925866649002,127.34
+272,dell,notebook,8,1,0,0,0,core i7,1.8,intel,ssd,256,no secondary memory,0,amd radeon,linux,2.14,10.575526769218673,141.21
+273,lenovo,2 in 1 convertible,16,0,0,1,0,core i7,2.6,intel,ssd,512,no secondary memory,0,intel hd,windows,1.36,11.799206957067087,209.8
+274,toshiba,notebook,8,0,0,0,0,core i7,2.5,intel,hdd,500,no secondary memory,0,nvidia geforce,windows,2.2,10.675061366393813,100.45
+275,dell,notebook,12,0,0,0,0,core i7,2.7,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.3,10.545140629073934,100.45
+276,dell,notebook,8,1,0,0,0,core i7,1.8,intel,ssd,128,hdd,1024,amd radeon,linux,2.8,10.977716980635755,127.34
+277,acer,notebook,8,1,1,0,0,core i7,1.8,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,2.2,10.588945244611693,141.21
+278,lenovo,notebook,4,0,0,0,0,core i3,2.0,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.8,10.167923515707006,106.11
+279,lenovo,notebook,8,1,0,0,0,core i7,1.8,intel,hdd,2048,no secondary memory,0,nvidia geforce,no os,2.8,10.71962021254348,127.34
+280,lenovo,notebook,6,0,0,0,0,core i7,2.7,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.8,10.73132994821639,106.11
+281,dell,notebook,4,1,0,0,0,core i3,2.0,intel,hdd,1024,no secondary memory,0,amd radeon,linux,2.25,10.034684221813931,141.21
+282,lenovo,gaming,8,1,1,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,2.5,10.695781181367428,141.21
+283,lenovo,notebook,6,1,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,2.2,10.336863503805128,141.21
+284,acer,notebook,8,1,1,0,0,core i7,1.8,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,3.0,10.833075088777523,141.21
+285,acer,notebook,12,1,1,1,0,core i7,2.7,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.15,10.46628456073464,141.21
+286,lenovo,notebook,8,1,1,0,0,core i7,2.7,intel,ssd,256,no secondary memory,0,intel hd,windows,1.95,10.975895486507364,141.21
+287,asus,ultrabook,8,1,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,1.7,10.860047678274917,141.21
+288,lenovo,gaming,16,1,1,0,0,core i7,2.8,intel,ssd,256,hdd,1024,nvidia geforce,windows,2.5,11.047982926769505,141.21
+289,lenovo,notebook,8,1,0,0,0,core i7,2.7,intel,hdd,1024,no secondary memory,0,nvidia geforce,no os,2.2,10.466299655381638,141.21
+290,acer,notebook,2,0,0,0,0,celeron,1.5,intel,ssd,16,no secondary memory,0,intel hd,chrome os,2.19,9.268865850956626,100.45
+291,asus,gaming,8,1,0,0,0,core i7,2.8,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,3.0,11.054745420841801,127.34
+292,hp,notebook,8,0,0,0,0,core i3,2.0,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.54,10.167923515707006,106.11
+293,dell,notebook,8,1,0,0,0,core i7,2.8,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,2.0,11.487085674623,141.21
+294,lenovo,notebook,8,1,0,0,0,core i5,1.6,intel,ssd,256,no secondary memory,0,intel uhd,windows,2.05,10.580858947180335,141.21
+295,lenovo,gaming,8,1,1,0,0,core i7,2.8,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,3.2,11.144911042902732,141.21
+296,acer,notebook,8,1,0,0,0,core i7,2.8,intel,ssd,256,no secondary memory,0,nvidia geforce,linux,2.5,10.862092668762644,141.21
+297,dell,workstation,16,1,0,0,0,core i7,2.9,intel,ssd,256,no secondary memory,0,nvidia,windows,3.42,11.942792671929018,127.34
+298,lenovo,notebook,6,1,0,0,0,a series,2.4,amd,hdd,1024,no secondary memory,0,amd radeon,windows,2.4,10.188167121983652,141.21
+299,asus,ultrabook,16,1,0,0,0,core i7,2.7,intel,ssd,512,no secondary memory,0,nvidia geforce,windows,1.63,11.267217235406594,141.21
+300,asus,notebook,4,0,0,0,0,core i3,2.4,intel,ssd,128,no secondary memory,0,intel hd,windows,1.3,10.208009042782656,111.94
+301,asus,gaming,16,1,0,0,0,core i7,2.8,intel,ssd,256,hdd,1024,nvidia geforce,windows,2.9,11.635675345406062,127.34
+302,lenovo,notebook,6,0,0,0,0,core i5,2.5,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,2.8,10.450993742936223,106.11
+303,lenovo,notebook,8,0,0,0,0,core i5,2.5,intel,hdd,2048,no secondary memory,0,nvidia geforce,no os,2.2,10.283659467741664,100.45
+304,asus,gaming,8,1,0,0,0,core i7,2.8,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.5,11.118388427393754,141.21
+305,lenovo,notebook,4,0,0,0,0,pentium,1.1,intel,hdd,1024,no secondary memory,0,intel hd,no os,2.2,9.861637425502058,100.45
+306,hp,2 in 1 convertible,16,1,0,1,0,core i7,2.8,intel,ssd,256,no secondary memory,0,intel hd,windows,1.28,11.563884703567355,165.63
+307,toshiba,notebook,8,1,1,0,0,core i7,2.5,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,2.2,10.925417481232905,141.21
+308,lenovo,notebook,8,1,0,0,0,core i5,2.5,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.3,10.683645110085203,141.21
+309,hp,notebook,4,1,0,0,0,core i3,2.0,intel,hdd,1024,no secondary memory,0,intel hd,windows,1.86,10.126163794678414,141.21
+310,lenovo,notebook,8,1,1,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.1,10.882315804880687,165.63
+311,dell,ultrabook,16,0,1,1,1,core i7,1.8,intel,ssd,1024,no secondary memory,0,intel uhd,windows,1.21,11.799206957067087,331.26
+312,msi,gaming,16,1,1,0,0,core i7,2.8,intel,ssd,256,hdd,1024,nvidia geforce,windows,2.8,11.624777346052767,141.21
+313,acer,notebook,8,1,0,0,0,a series,2.2,amd,ssd,256,no secondary memory,0,amd radeon,windows,2.23,10.126163794678414,141.21
+314,asus,2 in 1 convertible,2,0,0,1,0,celeron,1.1,intel,flash storage,32,no secondary memory,0,intel hd,windows,1.1,9.592332123898705,135.09
+315,dell,notebook,8,1,0,0,0,core i5,1.6,intel,ssd,128,hdd,1024,amd radeon,windows,2.33,10.71371352082809,141.21
+316,hp,2 in 1 convertible,16,0,1,1,1,core i7,1.8,intel,ssd,1024,no secondary memory,0,intel uhd,windows,1.29,11.778996083184301,331.26
+317,lenovo,notebook,4,0,0,0,0,celeron,1.6,intel,flash storage,16,no secondary memory,0,intel hd,chrome os,1.45,10.106570019156923,117.83
+318,hp,notebook,8,1,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.95,10.863113597896751,157.35
+319,acer,notebook,4,0,0,0,0,pentium,1.6,intel,flash storage,128,no secondary memory,0,intel hd,windows,1.4,10.159709917169616,135.09
+320,hp,notebook,8,1,0,0,0,core i7,2.7,intel,ssd,256,no secondary memory,0,intel hd,windows,1.48,11.13950771057468,157.35
+321,lenovo,notebook,4,0,0,0,0,core i5,2.5,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,2.79,10.353987209883721,106.11
+322,asus,notebook,8,1,0,0,0,core i7,2.7,intel,ssd,256,no secondary memory,0,intel hd,windows,2.0,10.97315700921406,157.35
+323,hp,notebook,8,1,1,0,0,core i7,1.8,intel,hdd,1024,no secondary memory,0,intel uhd,windows,2.1,10.780175546294757,100.45
+324,acer,notebook,8,0,0,0,0,a series,2.7,amd,ssd,256,no secondary memory,0,amd radeon,windows,2.2,10.46628456073464,100.45
+325,lenovo,notebook,4,0,0,0,0,celeron,1.1,intel,flash storage,32,no secondary memory,0,intel hd,windows,1.44,9.652314828500415,111.94
+326,acer,notebook,6,0,0,0,0,core i5,2.5,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.23,10.283659467741664,100.45
+327,asus,ultrabook,8,1,0,0,0,core i7,2.7,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,1.7,10.932011190999587,141.21
+328,hp,ultrabook,8,1,0,0,0,core i7,2.7,intel,ssd,256,no secondary memory,0,intel hd,windows,1.26,11.172247597066484,176.23
+329,dell,notebook,32,0,0,1,1,core i7,2.8,intel,ssd,1024,no secondary memory,0,nvidia geforce,windows,2.06,11.853716362735458,282.42
+330,msi,gaming,8,1,0,0,0,core i7,2.8,intel,ssd,256,hdd,1024,nvidia geforce,windows,2.7,11.064804181259648,127.34
+331,toshiba,notebook,8,1,1,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,2.0,10.82462730886559,141.21
+332,asus,notebook,8,1,0,0,0,core i7,2.7,intel,ssd,256,hdd,1024,intel hd,windows,2.0,11.171498252707703,157.35
+333,lenovo,notebook,4,1,0,0,0,core i3,2.0,intel,hdd,1024,no secondary memory,0,intel hd,windows,1.85,10.082583913974387,141.21
+334,asus,gaming,8,1,0,0,0,core i7,2.8,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,2.5,10.882315804880687,141.21
+335,hp,notebook,8,1,0,0,0,core i5,2.6,intel,ssd,256,no secondary memory,0,intel hd,windows,1.48,11.120757161229305,157.35
+336,dell,ultrabook,8,1,1,0,0,core i5,1.6,intel,ssd,128,hdd,1024,nvidia geforce,windows,1.9,10.931153634628432,141.21
+337,hp,notebook,8,1,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.84,11.017847198171877,141.21
+338,asus,notebook,4,0,0,0,0,celeron,1.1,intel,hdd,1024,no secondary memory,0,intel hd,linux,2.0,9.59229595070829,100.45
+339,dell,notebook,8,1,0,0,0,core i5,1.6,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,2.0,11.016753943443987,141.21
+340,dell,notebook,4,0,0,0,0,celeron,1.6,intel,hdd,500,no secondary memory,0,intel hd,linux,2.2,9.591968284853534,100.45
+341,lenovo,notebook,12,1,0,0,0,a series,3.6,amd,hdd,2048,no secondary memory,0,amd radeon,windows,2.2,10.776844060703754,141.21
+342,hp,notebook,8,1,1,0,0,core i3,2.4,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,2.1,10.54924119319278,141.21
+343,lenovo,2 in 1 convertible,16,0,1,1,1,core i7,1.8,intel,ssd,512,no secondary memory,0,intel uhd,windows,1.4,11.624777346052767,316.97
+344,dell,ultrabook,8,1,0,0,0,core i7,1.8,intel,ssd,256,no secondary memory,0,intel uhd,windows,1.2,11.340108040487776,165.63
+345,lenovo,gaming,16,1,1,0,0,core i7,2.8,intel,ssd,256,hdd,2048,nvidia geforce,windows,2.4,11.004648590381796,141.21
+346,hp,notebook,2,0,0,0,0,celeron,1.6,intel,flash storage,32,no secondary memory,0,intel hd,windows,1.44,9.606772808053499,111.94
+347,dell,ultrabook,16,1,0,0,0,core i7,1.9,intel,ssd,512,ssd,256,intel uhd,windows,1.88,11.358282614046644,141.21
+348,asus,2 in 1 convertible,4,0,0,1,0,celeron,1.1,intel,flash storage,32,no secondary memory,0,intel hd,windows,1.5,9.902487052202545,135.09
+349,dell,ultrabook,8,1,0,0,0,core i5,1.6,intel,hdd,1024,no secondary memory,0,amd radeon,windows,1.9,10.472336016417996,141.21
+350,dell,notebook,16,0,0,1,1,core i7,2.8,intel,ssd,512,no secondary memory,0,nvidia geforce,windows,2.06,11.590080376201223,282.42
+351,hp,notebook,8,1,0,0,0,core i7,2.7,intel,ssd,256,no secondary memory,0,intel hd,windows,1.84,11.148752768718731,141.21
+352,msi,gaming,8,1,0,0,0,core i7,2.8,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.7,11.226196538130814,127.34
+353,hp,workstation,8,1,0,0,0,core i7,2.8,intel,ssd,256,no secondary memory,0,nvidia,windows,2.6,11.436206718478381,141.21
+354,toshiba,notebook,16,1,1,0,0,core i7,2.5,intel,ssd,512,no secondary memory,0,nvidia geforce,windows,2.4,11.221929106334594,141.21
+355,dell,notebook,8,1,0,0,0,core i7,1.8,intel,ssd,128,hdd,2048,amd radeon,windows,2.02,10.853784463945612,141.21
+356,lenovo,notebook,4,0,0,0,0,celeron,1.1,intel,hdd,1024,no secondary memory,0,intel hd,no os,2.2,9.750081678605417,100.45
+357,dell,gaming,8,1,0,0,0,core i5,2.5,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,2.65,10.882315804880687,141.21
+358,dell,notebook,8,0,0,1,0,core i5,2.5,intel,hdd,2048,no secondary memory,0,intel hd,windows,2.36,10.298790197292616,100.45
+359,dell,notebook,8,1,0,0,0,core i5,2.6,intel,ssd,256,no secondary memory,0,intel hd,windows,1.36,11.23889064370897,157.35
+360,hp,notebook,4,0,0,0,0,core i3,2.0,intel,hdd,500,no secondary memory,0,intel hd,windows,1.86,10.060060439307305,100.45
+361,asus,notebook,8,1,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,2.0,10.826745953725876,157.35
+362,lenovo,notebook,6,0,0,0,0,core i5,2.5,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.8,10.55342238395318,106.11
+363,hp,notebook,8,1,0,0,0,core i5,2.5,intel,hdd,1024,no secondary memory,0,intel hd,windows,1.86,10.435465480609668,141.21
+364,lenovo,notebook,8,0,0,0,0,core i3,2.0,intel,ssd,256,no secondary memory,0,nvidia geforce,no os,2.2,10.188167121983652,100.45
+365,hp,notebook,8,0,0,0,0,pentium,1.6,intel,hdd,2048,no secondary memory,0,intel hd,windows,2.04,9.93914036985058,100.45
+366,dell,notebook,8,1,0,0,0,core i5,1.6,intel,ssd,128,hdd,1024,amd radeon,windows,2.8,10.964896292206694,127.34
+367,lenovo,gaming,8,1,1,0,0,core i5,2.5,intel,ssd,128,hdd,1024,nvidia geforce,no os,2.4,10.671359943290625,141.21
+368,dell,notebook,8,1,0,0,0,core i7,2.7,intel,ssd,256,no secondary memory,0,amd radeon,windows,2.33,10.776844060703754,141.21
+369,hp,ultrabook,8,1,1,0,0,core i7,2.7,intel,ssd,256,no secondary memory,0,intel hd,windows,1.36,11.442932093149693,157.35
+370,asus,2 in 1 convertible,12,1,0,1,0,core i7,2.7,intel,ssd,512,hdd,2048,nvidia geforce,windows,2.26,10.977716980635755,141.21
+371,acer,notebook,4,0,0,0,0,a series,3.0,amd,ssd,128,no secondary memory,0,amd radeon,windows,2.1,10.030000372501505,100.45
+372,asus,gaming,16,1,1,0,0,ryzen,3.0,amd,ssd,256,hdd,1024,amd radeon,windows,3.25,11.671319016786894,127.34
+373,lenovo,notebook,4,0,0,0,0,a series,2.2,amd,ssd,128,no secondary memory,0,amd radeon,windows,2.6,10.167923515707006,106.11
+374,dell,2 in 1 convertible,8,1,0,1,0,core i7,1.8,intel,ssd,256,no secondary memory,0,intel uhd,windows,1.62,10.742915598437127,165.63
+375,hp,notebook,4,1,0,0,0,a series,3.0,amd,ssd,256,no secondary memory,0,amd radeon,windows,1.91,10.167903173071778,141.21
+376,lenovo,netbook,4,0,1,0,0,celeron,1.1,intel,ssd,128,no secondary memory,0,intel hd,windows,1.59,10.290919027754468,135.09
+377,dell,notebook,4,0,0,0,0,celeron,1.6,intel,hdd,500,no secondary memory,0,intel hd,windows,1.8,9.708902303129879,100.45
+378,asus,notebook,4,0,0,0,0,celeron,1.1,intel,flash storage,32,no secondary memory,0,intel hd,windows,1.5,9.631552837051986,111.94
+379,acer,notebook,8,1,0,0,0,core i7,2.8,intel,hdd,1024,no secondary memory,0,nvidia geforce,linux,2.4,10.716080385838357,141.21
+380,hp,gaming,8,1,1,0,0,core i7,2.8,intel,ssd,128,hdd,1024,nvidia geforce,windows,3.35,11.058109595587434,127.34
+381,lenovo,notebook,4,1,0,0,0,core i3,2.0,intel,ssd,128,no secondary memory,0,intel hd,no os,1.85,9.975737513942137,141.21
+382,asus,gaming,8,1,1,0,0,core i7,2.8,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.3,11.387117314043296,141.21
+383,lenovo,notebook,8,1,1,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,1.5,10.977716980635755,157.35
+384,asus,ultrabook,16,1,0,1,0,core i7,2.7,intel,ssd,512,no secondary memory,0,intel hd,windows,1.1,11.442303302623767,165.63
+385,lenovo,ultrabook,8,0,1,0,0,core i7,2.7,intel,ssd,512,no secondary memory,0,intel hd,windows,1.13,11.708368556654154,209.8
+386,lenovo,notebook,4,1,1,0,0,core i3,2.4,intel,ssd,128,no secondary memory,0,intel hd,windows,1.5,10.283659467741664,165.63
+387,dell,workstation,8,1,0,0,0,core i5,2.6,intel,hdd,500,no secondary memory,0,others,windows,2.23,11.197396851520583,141.21
+388,dell,workstation,8,1,1,0,0,core i7,2.7,intel,ssd,256,no secondary memory,0,nvidia,windows,2.0,11.641782951894859,141.21
+389,lenovo,2 in 1 convertible,16,0,0,1,0,core i7,2.7,intel,ssd,512,no secondary memory,0,intel hd,windows,1.42,11.803200572598556,209.8
+390,asus,gaming,8,1,0,0,0,core i7,2.8,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,3.0,10.921575017331362,127.34
+391,asus,gaming,16,1,0,0,0,core i7,2.8,intel,ssd,256,hdd,1024,nvidia geforce,windows,3.0,11.347679054569921,127.34
+392,acer,notebook,12,0,1,0,0,core i5,1.6,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,2.2,10.51801865313845,100.45
+393,msi,gaming,8,1,0,0,0,core i7,2.8,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,2.7,11.18267988243989,127.34
+394,dell,notebook,8,1,0,0,0,core i7,2.7,intel,ssd,256,no secondary memory,0,amd radeon,linux,2.33,10.63340509080982,141.21
+395,hp,ultrabook,4,1,0,0,0,a series,3.0,amd,ssd,256,no secondary memory,0,amd radeon,windows,1.91,10.188167121983652,141.21
+396,lenovo,notebook,8,1,1,0,0,core i7,1.8,intel,ssd,256,no secondary memory,0,amd radeon,windows,2.1,11.089972735869809,141.21
+397,lenovo,notebook,8,1,1,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.9,10.81931097523836,157.35
+398,dell,workstation,8,0,0,1,1,core i7,2.8,intel,ssd,256,no secondary memory,0,nvidia,windows,1.78,11.88100267529242,282.42
+399,lenovo,ultrabook,16,0,1,0,0,core i7,2.7,intel,ssd,1024,no secondary memory,0,intel hd,windows,1.13,11.848397201257859,209.8
+400,lenovo,notebook,4,0,0,0,0,celeron,1.1,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.2,9.699146128184514,100.45
+401,asus,gaming,16,1,0,0,0,core i7,2.8,intel,ssd,256,hdd,1024,nvidia geforce,windows,2.9,11.307930232161196,127.34
+402,lenovo,notebook,8,1,1,0,0,core i5,1.6,intel,ssd,256,hdd,1024,amd radeon,windows,2.1,11.018284165624754,141.21
+403,acer,notebook,8,1,0,0,0,core i7,2.8,intel,ssd,256,no secondary memory,0,nvidia geforce,linux,2.5,10.754345923917311,141.21
+404,msi,gaming,16,1,0,0,0,core i7,2.8,intel,ssd,256,hdd,1024,nvidia geforce,windows,2.8,11.69380197819145,127.34
+405,asus,ultrabook,8,1,0,0,0,core i7,2.7,intel,ssd,512,no secondary memory,0,intel hd,windows,1.1,11.510857728676223,157.35
+406,toshiba,ultrabook,16,1,0,0,0,core i7,2.5,intel,ssd,512,no secondary memory,0,intel hd,windows,1.2,11.44121633636619,165.63
+407,dell,ultrabook,8,1,0,0,0,core i7,2.8,intel,ssd,512,no secondary memory,0,intel hd,windows,1.36,11.402110098629437,157.35
+408,lenovo,notebook,4,1,0,0,0,core i3,2.0,intel,hdd,500,no secondary memory,0,intel hd,windows,2.2,9.989276182274935,141.21
+409,lenovo,notebook,2,0,0,0,0,celeron,1.1,intel,flash storage,32,no secondary memory,0,intel hd,windows,1.15,9.694068142879148,135.09
+410,lenovo,workstation,8,1,0,0,0,core i7,2.8,intel,ssd,512,no secondary memory,0,nvidia,windows,2.67,11.538242272954019,141.21
+411,lenovo,ultrabook,8,1,1,0,0,core i7,2.8,intel,ssd,512,no secondary memory,0,nvidia geforce,windows,1.7,11.547549475609573,209.8
+412,hp,notebook,4,1,0,0,0,core i3,2.0,intel,hdd,1024,no secondary memory,0,amd radeon,windows,2.1,10.126163794678414,141.21
+413,acer,2 in 1 convertible,8,1,1,1,0,core i7,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.6,10.646339954663231,165.63
+414,asus,2 in 1 convertible,8,1,1,1,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.27,10.808592759018333,165.63
+415,dell,notebook,4,1,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,amd radeon,linux,2.3,10.370655602825078,141.21
+416,dell,notebook,4,0,0,0,0,core i3,2.0,intel,ssd,128,no secondary memory,0,intel hd,windows,1.65,10.510802297245792,117.83
+417,hp,ultrabook,8,1,0,0,0,core i7,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.43,11.288781413322436,157.35
+418,dell,notebook,8,0,0,0,0,core i5,2.5,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.14,10.267037707951683,100.45
+419,lenovo,ultrabook,8,1,1,0,0,core i7,1.8,intel,ssd,256,no secondary memory,0,amd radeon,windows,1.75,11.078373145903868,157.35
+420,lenovo,2 in 1 convertible,16,0,1,1,1,core i7,2.8,intel,ssd,512,no secondary memory,0,nvidia geforce,windows,2.0,11.52464373704442,282.42
+421,others,notebook,6,0,1,0,0,celeron,1.1,intel,flash storage,64,no secondary memory,0,intel hd,windows,1.4,10.082583913974387,267.34
+422,hp,notebook,8,1,0,0,0,core i7,2.9,intel,ssd,256,no secondary memory,0,intel hd,windows,2.31,11.23889064370897,141.21
+423,asus,notebook,8,1,0,0,0,core i3,2.4,intel,hdd,1024,no secondary memory,0,nvidia geforce,linux,2.3,10.367478139624735,141.21
+424,dell,gaming,16,0,1,0,0,core i7,2.9,intel,ssd,256,hdd,1024,nvidia geforce,windows,4.42,11.912578515747587,169.78
+425,dell,gaming,8,1,1,0,0,core i7,2.8,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.62,11.030873869571886,141.21
+426,dell,notebook,8,1,0,0,0,core i7,1.8,intel,ssd,256,hdd,2048,amd radeon,windows,2.02,11.016447584958964,141.21
+427,dell,ultrabook,8,1,0,0,0,core i7,2.8,intel,ssd,256,no secondary memory,0,intel hd,linux,1.6,10.977716980635755,157.35
+428,hp,gaming,12,1,0,0,0,core i7,2.8,intel,ssd,256,hdd,1024,nvidia geforce,windows,3.35,11.575963360732533,127.34
+429,mediacom,2 in 1 convertible,4,1,1,1,0,celeron,1.1,intel,ssd,32,no secondary memory,0,intel hd,windows,1.16,9.67600459962282,189.91
+430,samsung,netbook,4,0,0,0,0,celeron,1.6,intel,flash storage,16,no secondary memory,0,intel hd,chrome os,1.15,9.570272405833974,135.09
+431,lenovo,notebook,8,1,1,0,0,core i7,2.7,intel,ssd,256,no secondary memory,0,intel hd,windows,1.4,10.89326663606744,165.63
+432,lenovo,notebook,4,1,1,0,0,core i3,2.7,intel,ssd,128,no secondary memory,0,intel hd,windows,1.7,10.370822624347584,157.35
+433,lenovo,workstation,16,0,1,0,1,core i7,2.8,intel,ssd,512,no secondary memory,0,nvidia geforce,windows,2.3,11.777361428141106,282.42
+434,lenovo,notebook,16,1,0,0,0,core i7,2.9,intel,ssd,512,no secondary memory,0,nvidia,windows,2.5,11.778996083184301,141.21
+435,asus,gaming,8,1,0,0,0,ryzen,3.2,amd,ssd,256,hdd,1024,amd radeon,windows,3.2,11.410999046046685,127.34
+436,hp,notebook,4,0,0,0,0,celeron,1.6,intel,hdd,500,no secondary memory,0,intel hd,windows,2.1,9.824885806178992,100.45
+437,others,ultrabook,16,0,0,1,0,core i7,1.3,intel,ssd,512,no secondary memory,0,intel hd,chrome os,1.1,11.671319016786894,234.51
+438,lenovo,ultrabook,24,0,0,0,0,core i7,2.7,intel,ssd,512,no secondary memory,0,intel hd,windows,1.32,11.751256776147379,209.8
+439,asus,notebook,4,1,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,linux,2.0,10.301710499387234,141.21
+440,lenovo,notebook,8,0,0,0,0,a series,2.5,amd,hdd,1024,no secondary memory,0,amd radeon,windows,2.8,10.227464909398023,106.11
+441,dell,notebook,4,1,0,0,0,core i5,1.6,intel,ssd,256,no secondary memory,0,amd radeon,windows,2.2,10.594300009749354,141.21
+442,lenovo,ultrabook,8,1,1,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.36,11.240291204162,176.23
+443,lenovo,notebook,4,1,0,0,0,pentium,1.1,intel,ssd,128,no secondary memory,0,intel hd,windows,2.2,9.83063294843456,141.21
+444,hp,gaming,8,1,1,0,0,core i7,2.8,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.2,10.977716980635755,141.21
+445,dell,notebook,8,1,0,0,0,core i5,2.8,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,1.64,11.047982926769505,157.35
+446,acer,notebook,4,0,0,0,0,core i5,2.5,intel,hdd,500,no secondary memory,0,intel hd,linux,2.4,10.066418147288134,100.45
+447,dell,workstation,8,1,0,0,0,others,3.0,intel,flash storage,64,hdd,1024,nvidia,windows,2.23,11.572957346444928,141.21
+448,msi,gaming,8,1,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,2.2,10.910678573104173,141.21
+449,microsoft,ultrabook,16,0,0,1,0,core i7,2.5,intel,ssd,512,no secondary memory,0,others,windows,1.25,11.83458800598367,200.84
+450,hp,notebook,8,0,0,0,0,core i5,2.5,intel,ssd,128,no secondary memory,0,intel hd,windows,1.91,10.353987209883721,100.45
+451,dell,workstation,16,1,1,0,0,core i7,2.7,intel,ssd,256,no secondary memory,0,nvidia,windows,2.17,11.563884703567355,141.21
+452,hp,workstation,8,1,1,0,0,core i7,2.9,intel,ssd,512,no secondary memory,0,intel hd,windows,2.31,11.311195008159336,141.21
+453,lenovo,notebook,8,1,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.65,11.179710318268073,157.35
+454,dell,notebook,8,1,0,0,0,core i7,1.8,intel,ssd,128,hdd,1024,amd radeon,windows,2.36,10.862092668762644,141.21
+455,dell,2 in 1 convertible,4,0,0,1,0,pentium,1.6,intel,hdd,500,no secondary memory,0,intel hd,windows,1.47,10.147261623643049,135.09
+456,dell,notebook,8,1,1,0,0,core i7,2.7,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,4.42,11.599202972743706,127.34
+457,microsoft,ultrabook,4,0,0,1,0,others,2.2,intel,ssd,128,no secondary memory,0,intel hd,windows,1.25,10.872255357854845,200.84
+458,microsoft,ultrabook,8,0,0,1,0,core i7,2.5,intel,ssd,256,no secondary memory,0,others,windows,1.25,11.470547260182666,200.84
+459,hp,notebook,8,0,0,0,0,core i3,2.0,intel,ssd,256,no secondary memory,0,intel hd,windows,2.5,10.436872881715978,106.11
+460,acer,notebook,4,1,0,0,0,core i3,2.0,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,2.23,10.274510273088076,141.21
+461,acer,netbook,4,0,0,0,0,celeron,1.6,intel,ssd,128,no secondary memory,0,intel hd,windows,1.4,10.050907057320817,135.09
+462,asus,notebook,8,1,0,0,0,core i5,2.5,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.37,10.594300009749354,141.21
+463,lenovo,notebook,8,1,1,0,0,core i7,2.7,intel,ssd,512,no secondary memory,0,amd radeon,no os,1.5,10.658921971998408,157.35
+464,lenovo,notebook,8,1,0,0,0,core i7,2.9,intel,ssd,256,no secondary memory,0,nvidia,windows,2.67,11.62048037119099,141.21
+465,asus,notebook,4,0,0,0,0,pentium,1.1,intel,hdd,500,no secondary memory,0,intel hd,windows,2.0,9.692588727638356,100.45
+466,acer,notebook,4,0,0,0,0,core i3,2.0,intel,hdd,500,no secondary memory,0,nvidia geforce,windows,2.2,10.126163794678414,100.45
+467,dell,notebook,8,1,0,0,0,core i5,1.6,intel,hdd,2048,no secondary memory,0,amd radeon,windows,2.02,10.607562803627763,141.21
+468,hp,gaming,12,1,1,0,0,core i7,2.8,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,3.78,11.413356147904066,127.34
+469,lenovo,ultrabook,12,0,1,0,0,core i7,2.6,intel,ssd,256,no secondary memory,0,intel hd,windows,1.4,11.502816945605918,209.8
+470,hp,2 in 1 convertible,8,0,1,1,1,core i7,1.8,intel,ssd,512,no secondary memory,0,intel uhd,windows,1.29,11.575963360732533,331.26
+471,hp,notebook,8,1,0,0,0,core i5,2.5,intel,hdd,500,no secondary memory,0,others,windows,1.9,11.026550473300178,141.21
+472,others,ultrabook,8,0,0,1,0,core i5,1.2,intel,ssd,128,no secondary memory,0,intel hd,chrome os,1.1,11.12626248382466,234.51
+473,dell,ultrabook,8,1,0,1,0,core i5,1.6,intel,ssd,256,no secondary memory,0,intel uhd,windows,1.42,11.49408682688711,165.63
+474,asus,notebook,12,0,1,0,1,core i7,2.6,intel,ssd,128,hdd,1024,intel hd,windows,2.06,11.144911042902732,282.42
+475,dell,notebook,8,0,0,0,0,core i3,2.3,intel,ssd,128,no secondary memory,0,intel hd,windows,1.79,10.58221121243035,111.94
+476,dell,workstation,8,1,0,0,0,core i7,2.8,intel,ssd,256,no secondary memory,0,nvidia,windows,1.78,11.762112832660845,141.21
+477,lenovo,notebook,8,1,0,0,0,core i5,2.5,intel,ssd,180,no secondary memory,0,intel hd,windows,1.7,11.19373786463554,157.35
+478,dell,notebook,8,1,0,0,0,core i5,1.6,intel,hdd,1024,no secondary memory,0,amd radeon,windows,2.2,10.490273717104664,141.21
+479,toshiba,notebook,8,1,1,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.05,11.39733681987678,165.63
+480,dell,notebook,8,1,1,0,0,core i7,1.8,intel,ssd,512,no secondary memory,0,nvidia geforce,windows,2.16,11.116014069333293,141.21
+481,dell,notebook,4,0,0,0,0,core i3,2.4,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.18,10.349904246767194,100.45
+482,hp,notebook,4,1,1,0,0,core i5,1.6,intel,ssd,128,no secondary memory,0,intel uhd,windows,1.49,10.56311104105693,165.63
+483,others,notebook,4,1,0,0,0,others,1.44,intel,flash storage,64,no secondary memory,0,intel hd,windows,1.89,9.492612084791938,141.21
+484,lenovo,notebook,4,0,0,0,0,core i3,2.0,intel,ssd,128,no secondary memory,0,intel hd,windows,2.3,10.312386757378574,100.45
+485,lenovo,notebook,8,1,1,0,0,core i5,1.6,intel,ssd,256,no secondary memory,0,intel uhd,windows,1.75,10.931153634628432,157.35
+486,dell,workstation,16,1,1,0,0,core i7,2.7,intel,ssd,512,no secondary memory,0,nvidia,windows,2.17,11.732612168264147,141.21
+487,dell,notebook,16,1,0,0,0,core i7,2.8,intel,ssd,512,no secondary memory,0,nvidia geforce,windows,2.06,11.52464373704442,141.21
+488,lenovo,ultrabook,16,1,1,0,0,core i7,2.7,intel,ssd,512,no secondary memory,0,intel hd,windows,1.36,11.469991241263699,176.23
+489,asus,ultrabook,16,1,0,0,0,core i7,2.7,intel,ssd,512,no secondary memory,0,intel hd,windows,0.91,11.551145677789926,176.23
+490,lenovo,notebook,8,1,1,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,2.3,10.89523504653771,141.21
+491,toshiba,ultrabook,32,1,0,1,0,core i7,2.7,intel,ssd,512,no secondary memory,0,intel hd,windows,1.05,11.912578515747587,165.63
+492,asus,gaming,8,1,0,0,0,core i7,2.8,intel,ssd,128,hdd,1024,nvidia geforce,windows,1.99,11.18342089766461,141.21
+493,acer,notebook,8,0,0,0,0,a series,2.5,amd,hdd,1024,no secondary memory,0,amd radeon,windows,2.2,10.336863503805128,100.45
+494,asus,gaming,24,1,1,1,0,core i7,2.6,intel,ssd,256,hdd,1024,nvidia geforce,windows,4.33,11.121545493946522,127.34
+495,lenovo,ultrabook,8,0,1,0,0,core i5,2.3,intel,ssd,180,no secondary memory,0,intel hd,windows,1.3,10.977716980635755,125.37
+496,lenovo,notebook,8,1,0,0,0,core i7,1.8,intel,ssd,256,no secondary memory,0,intel uhd,windows,2.17,10.776732778052072,141.21
+497,hp,notebook,8,1,0,0,0,core i7,2.8,intel,ssd,1024,no secondary memory,0,intel hd,windows,1.48,11.442360501250736,157.35
+498,lenovo,notebook,8,1,1,0,0,core i3,2.4,intel,ssd,256,no secondary memory,0,intel hd,windows,1.4,10.830969824842061,165.63
+499,lenovo,notebook,8,1,1,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,2.3,10.790103923492092,141.21
+500,asus,netbook,4,0,0,0,0,celeron,1.1,intel,flash storage,64,no secondary memory,0,intel hd,windows,1.2,9.804506643842341,135.09
+501,hp,notebook,8,0,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,amd radeon,windows,1.91,10.403650228597865,100.45
+502,lenovo,2 in 1 convertible,8,1,1,1,0,core i5,1.6,intel,ssd,256,no secondary memory,0,intel uhd,windows,1.4,11.352694739066088,158.48
+503,lenovo,notebook,4,0,0,0,0,celeron,1.1,intel,hdd,500,no secondary memory,0,intel hd,windows,2.1,9.67600459962282,111.94
+504,lenovo,netbook,4,0,0,0,0,celeron,1.6,intel,ssd,16,no secondary memory,0,intel hd,chrome os,1.25,9.555290852218356,135.09
+505,lenovo,notebook,8,1,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.44,10.830969824842061,165.63
+506,asus,notebook,8,1,0,0,0,core i7,2.7,intel,ssd,256,hdd,1024,intel hd,windows,2.0,11.085440489304405,141.21
+507,acer,notebook,4,1,1,0,0,core i5,1.6,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,2.2,10.393925962168344,141.21
+508,hp,ultrabook,8,1,1,0,0,core i7,2.7,intel,ssd,512,no secondary memory,0,intel hd,windows,1.34,11.16321819034709,165.63
+509,lenovo,gaming,8,1,1,0,0,core i7,2.8,intel,ssd,256,hdd,1024,nvidia geforce,no os,2.4,11.02220830408089,141.21
+510,dell,ultrabook,8,1,1,1,0,core i5,2.5,intel,ssd,128,no secondary memory,0,intel hd,windows,1.29,10.776844060703754,165.63
+511,acer,notebook,4,1,0,0,0,core i7,2.7,intel,hdd,500,no secondary memory,0,nvidia geforce,windows,2.2,10.435465480609668,141.21
+512,dell,notebook,8,1,0,0,0,core i5,2.5,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.18,10.704189639316835,141.21
+513,dell,notebook,16,1,0,0,0,core i7,1.8,intel,ssd,256,hdd,2048,amd radeon,windows,2.2,11.081544062127994,141.21
+514,others,notebook,16,1,1,0,0,core i7,1.8,intel,ssd,256,no secondary memory,0,nvidia geforce,no os,1.95,11.219752880538966,141.21
+515,asus,netbook,2,0,0,0,0,celeron,1.1,intel,flash storage,32,no secondary memory,0,intel hd,windows,1.1,9.47681923677686,135.09
+516,hp,notebook,4,0,0,1,0,core i5,1.6,intel,hdd,1024,no secondary memory,0,intel uhd,windows,2.04,10.23221271506474,100.45
+517,asus,gaming,24,1,0,0,0,core i7,2.8,intel,ssd,512,no secondary memory,0,nvidia geforce,windows,2.24,11.971204630519404,141.21
+518,hp,notebook,8,1,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,2.04,10.765658261746038,141.21
+519,asus,gaming,16,1,0,0,0,core i7,2.8,intel,ssd,256,hdd,1024,nvidia geforce,windows,3.0,11.291444530741918,127.34
+520,lenovo,gaming,8,1,1,0,0,core i7,2.8,intel,ssd,256,hdd,1024,nvidia geforce,windows,3.2,11.219074000897615,141.21
+521,hp,ultrabook,8,1,1,0,0,core i7,2.7,intel,ssd,256,no secondary memory,0,intel hd,windows,1.32,11.219074000897615,165.63
+522,dell,notebook,8,1,0,0,0,core i5,2.6,intel,ssd,256,no secondary memory,0,intel hd,windows,1.64,11.129965358864096,157.35
+523,hp,notebook,4,0,0,0,0,core i3,2.0,intel,ssd,128,no secondary memory,0,intel hd,windows,1.63,10.510802297245792,100.45
+524,dell,notebook,8,1,1,0,0,core i5,1.6,intel,ssd,128,hdd,1024,amd radeon,linux,2.8,10.765658261746038,127.34
+525,lenovo,notebook,8,1,0,0,0,core i5,2.3,intel,ssd,256,no secondary memory,0,intel hd,windows,2.02,11.17598591917709,157.35
+526,lenovo,notebook,4,1,0,0,0,core i7,2.7,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,2.2,10.658921971998408,141.21
+527,lenovo,notebook,8,0,0,0,0,core i3,2.0,intel,hdd,2048,no secondary memory,0,nvidia geforce,no os,2.2,10.104611236292678,100.45
+528,dell,notebook,4,1,0,0,0,core i5,2.5,intel,hdd,500,no secondary memory,0,amd radeon,windows,2.3,10.34717287346399,141.21
+529,dell,notebook,8,1,0,0,0,core i5,2.8,intel,ssd,256,no secondary memory,0,intel hd,windows,1.9,11.203223524960789,141.21
+530,dell,gaming,16,1,1,0,0,core i7,2.8,intel,ssd,128,hdd,1024,nvidia geforce,windows,4.42,11.98617625398169,127.34
+531,toshiba,notebook,8,1,1,0,0,core i5,2.5,intel,hdd,500,no secondary memory,0,intel hd,windows,2.0,10.732493415479688,141.21
+532,asus,notebook,8,0,1,0,1,core i7,2.7,intel,ssd,256,hdd,1024,nvidia geforce,windows,2.0,11.144911042902732,282.42
+533,mediacom,notebook,4,1,1,0,0,celeron,1.1,intel,ssd,32,no secondary memory,0,intel hd,windows,1.2,9.88635767027266,165.63
+534,asus,gaming,8,1,1,0,0,core i5,2.5,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.3,11.383485348791732,141.21
+535,dell,notebook,8,1,0,0,0,core i7,2.8,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,1.93,11.197396851520583,141.21
+536,dell,notebook,8,1,0,0,0,core i5,1.6,intel,ssd,256,no secondary memory,0,amd radeon,windows,2.2,10.656929888879828,141.21
+537,hp,notebook,4,1,0,0,0,pentium,1.6,intel,ssd,256,no secondary memory,0,intel hd,windows,1.86,9.964497511865233,141.21
+538,hp,gaming,12,1,0,0,0,core i7,2.8,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,2.62,11.470547260182666,127.34
+539,lenovo,notebook,8,1,1,0,0,core i7,2.7,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,1.87,10.73132994821639,157.35
+540,dell,ultrabook,8,0,0,1,0,core i7,1.8,intel,ssd,256,no secondary memory,0,intel uhd,windows,1.2,11.219074000897615,276.05
+541,dell,notebook,4,1,0,0,0,core i3,2.0,intel,ssd,128,no secondary memory,0,intel hd,windows,1.6,10.576614407105252,157.35
+542,hp,ultrabook,8,0,1,0,0,core i7,2.7,intel,ssd,256,no secondary memory,0,intel hd,windows,1.34,11.018720942220474,276.05
+543,acer,gaming,8,1,0,0,0,core i5,2.5,intel,hdd,1024,no secondary memory,0,nvidia geforce,linux,2.4,10.657669623681942,141.21
+544,asus,notebook,4,0,0,0,0,others,1.8,amd,hdd,500,no secondary memory,0,amd radeon,windows,2.0,9.83063294843456,100.45
+545,hp,notebook,4,1,0,0,0,core i3,2.4,intel,ssd,128,no secondary memory,0,intel hd,windows,2.1,10.534467797525002,141.21
+546,lenovo,notebook,4,1,0,0,0,core i5,2.5,intel,hdd,500,no secondary memory,0,intel hd,windows,1.87,10.641244744014543,157.35
+547,lenovo,notebook,4,1,0,0,0,core i5,2.3,intel,hdd,1024,no secondary memory,0,intel hd,no os,2.15,10.111883287444353,141.21
+548,hp,notebook,4,1,0,0,0,core i3,2.0,intel,hdd,500,no secondary memory,0,intel hd,windows,1.86,9.959497306919324,141.21
+549,lenovo,notebook,8,1,1,0,0,core i7,2.7,intel,ssd,512,no secondary memory,0,intel hd,windows,1.99,11.430859511915424,141.21
+550,lenovo,notebook,4,1,0,0,0,core i3,2.0,intel,ssd,128,no secondary memory,0,intel hd,windows,2.2,10.188167121983652,141.21
+551,dell,notebook,8,1,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.9,10.993953919758146,141.21
+552,dell,gaming,16,1,1,0,0,core i7,2.8,intel,ssd,256,hdd,1024,nvidia geforce,windows,4.42,11.876197639250138,127.34
+553,hp,notebook,8,0,0,0,0,core i3,2.0,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.65,10.274785901390397,106.11
+554,hp,notebook,8,1,0,0,0,core i7,2.7,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,2.63,11.130176383145796,127.34
+555,asus,notebook,4,0,0,0,0,celeron,1.1,intel,hdd,500,no secondary memory,0,intel hd,linux,2.0,9.387207078087174,100.45
+556,mediacom,notebook,4,1,1,0,0,others,1.44,intel,flash storage,32,no secondary memory,0,intel hd,windows,1.35,9.51682457139056,165.63
+557,lenovo,notebook,6,0,0,0,0,core i7,2.7,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.8,10.830969824842061,106.11
+558,hp,notebook,6,1,1,0,0,a series,2.5,amd,ssd,128,no secondary memory,0,amd radeon,windows,1.91,10.319265632006069,141.21
+559,dell,notebook,4,0,0,0,0,core i3,2.0,intel,hdd,1024,no secondary memory,0,amd radeon,windows,2.18,10.401887597548884,100.45
+560,acer,2 in 1 convertible,4,1,1,1,0,celeron,2.0,intel,flash storage,32,no secondary memory,0,intel hd,windows,1.25,9.83063294843456,189.91
+561,lenovo,notebook,4,1,0,0,0,core i3,2.7,intel,ssd,128,no secondary memory,0,intel hd,windows,2.05,10.421280845617712,141.21
+562,hp,ultrabook,16,0,1,1,0,others,1.2,intel,ssd,512,no secondary memory,0,intel hd,windows,1.16,11.558808550535495,276.05
+563,lenovo,notebook,8,1,1,0,0,core i7,2.8,intel,ssd,256,no secondary memory,0,nvidia,windows,3.4,11.981595204981144,127.34
+564,asus,notebook,8,1,0,0,0,core i5,2.5,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.5,10.70777173269934,141.21
+565,dell,ultrabook,8,0,1,1,1,core i5,1.6,intel,ssd,128,no secondary memory,0,intel uhd,windows,1.21,11.352694739066088,331.26
+566,dell,notebook,4,0,0,0,0,core i5,2.6,intel,hdd,500,no secondary memory,0,intel hd,windows,1.93,10.841452101115571,100.45
+567,others,notebook,8,0,0,0,0,core i5,2.5,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.2,10.580858947180335,100.45
+568,lenovo,notebook,4,1,0,0,0,pentium,1.1,intel,hdd,500,no secondary memory,0,intel hd,windows,2.2,9.816202683605532,141.21
+569,lenovo,notebook,4,0,0,0,0,core i5,2.5,intel,hdd,500,no secondary memory,0,intel hd,windows,2.02,10.87326596936077,111.94
+570,hp,workstation,8,0,0,0,0,core i5,2.8,intel,hdd,500,no secondary memory,0,nvidia,windows,3.14,11.504424937643845,106.11
+571,hp,notebook,8,0,0,0,0,pentium,1.6,intel,hdd,2048,no secondary memory,0,intel hd,windows,1.94,9.93914036985058,111.94
+572,hp,notebook,6,1,1,0,0,a series,3.0,amd,ssd,256,no secondary memory,0,amd radeon,windows,1.95,10.450993742936223,141.21
+573,lenovo,notebook,8,1,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,2.3,10.696986727022777,141.21
+574,lenovo,notebook,4,1,0,0,0,core i5,1.6,intel,hdd,500,no secondary memory,0,intel hd,windows,2.05,10.50497986449436,141.21
+575,mediacom,notebook,4,1,0,0,0,others,1.44,intel,ssd,32,no secondary memory,0,intel hd,windows,1.4,9.493013922696841,157.35
+576,toshiba,ultrabook,16,1,0,1,0,core i7,2.7,intel,ssd,512,no secondary memory,0,intel hd,windows,1.24,11.50657735831005,157.35
+577,lenovo,gaming,32,1,1,0,0,core i7,2.7,intel,ssd,256,hdd,1024,nvidia geforce,windows,4.6,11.862769612046066,127.34
+578,msi,gaming,16,1,0,0,0,core i7,2.9,intel,ssd,512,hdd,1024,nvidia geforce,windows,4.14,11.887251546940472,127.34
+579,dell,notebook,8,1,0,0,0,core i7,2.7,intel,ssd,256,no secondary memory,0,amd radeon,linux,2.2,10.594313290632387,141.21
+580,mediacom,notebook,4,1,1,0,0,celeron,1.1,intel,ssd,32,no secondary memory,0,intel hd,windows,1.45,9.93914036985058,157.35
+581,dell,notebook,8,0,0,0,0,core i5,2.6,intel,hdd,500,no secondary memory,0,intel hd,windows,1.9,10.891800296747501,100.45
+582,hp,notebook,4,1,0,0,0,core i3,2.4,intel,ssd,128,no secondary memory,0,intel hd,windows,1.49,10.55342238395318,165.63
+583,dell,notebook,16,1,0,0,0,core i7,2.8,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,1.93,11.313402488404476,141.21
+584,dell,netbook,4,0,0,0,0,celeron,1.6,intel,flash storage,16,no secondary memory,0,intel hd,chrome os,1.26,9.662536382571954,135.09
+585,msi,gaming,16,1,0,0,0,core i7,2.7,intel,ssd,128,hdd,1024,nvidia geforce,windows,4.5,11.737306010891047,127.34
+586,hp,gaming,16,1,1,0,0,core i7,2.8,intel,ssd,256,hdd,1024,nvidia geforce,windows,3.78,11.2874471903093,127.34
+587,lenovo,ultrabook,12,1,1,0,0,core i7,2.6,intel,ssd,256,no secondary memory,0,intel hd,windows,1.4,11.397934727218958,157.35
+588,lenovo,notebook,12,0,0,1,0,core i7,1.8,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.2,10.38737929394203,100.45
+589,asus,gaming,8,1,1,0,0,core i5,2.5,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.73,11.454295851800008,127.34
+590,asus,2 in 1 convertible,8,0,0,1,0,core i5,2.5,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.2,10.580858947180335,100.45
+591,lenovo,notebook,12,1,0,0,0,a series,3.6,amd,ssd,512,no secondary memory,0,amd radeon,windows,2.2,10.830969824842061,141.21
+592,dell,2 in 1 convertible,4,0,0,1,0,others,1.0,intel,ssd,128,no secondary memory,0,intel hd,windows,1.39,10.377478222959319,135.09
+593,samsung,notebook,16,1,0,0,0,core i7,2.8,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.5,11.413356147904066,141.21
+594,lenovo,notebook,4,1,0,0,0,core i3,2.0,intel,hdd,500,no secondary memory,0,intel hd,no os,2.8,10.246549458090433,127.34
+595,lenovo,notebook,8,0,0,0,0,core i3,2.3,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.29,10.104611236292678,100.45
+596,lenovo,2 in 1 convertible,8,1,1,1,0,core i7,2.7,intel,ssd,512,no secondary memory,0,intel hd,windows,1.37,11.588886005772773,165.63
+597,lenovo,notebook,8,1,1,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.7,11.271296098981416,157.35
+598,dell,2 in 1 convertible,8,1,0,1,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.34,11.396139931642935,176.23
+599,dell,workstation,8,1,0,1,0,core i7,2.8,intel,ssd,256,no secondary memory,0,nvidia,windows,2.06,11.450333208630004,141.21
+600,hp,notebook,8,1,0,0,0,core i7,2.7,intel,ssd,256,no secondary memory,0,intel hd,windows,1.84,11.081347155713406,141.21
+601,hp,notebook,4,0,0,0,0,core i3,2.4,intel,hdd,500,no secondary memory,0,intel hd,windows,2.1,10.480567381062476,100.45
+602,acer,notebook,4,1,0,0,0,celeron,1.1,intel,flash storage,32,no secondary memory,0,intel hd,windows,1.6,9.771618776997505,157.35
+603,msi,gaming,16,1,0,0,0,core i7,2.7,intel,ssd,128,hdd,1024,nvidia geforce,windows,4.14,11.671319016786894,127.34
+604,dell,notebook,4,0,0,0,0,core i3,2.0,intel,hdd,1024,no secondary memory,0,amd radeon,linux,2.18,10.11759843181949,100.45
+605,msi,gaming,16,0,0,0,1,core i7,2.8,intel,ssd,256,hdd,2048,nvidia geforce,windows,1.8,11.715790550995315,282.42
+606,toshiba,notebook,8,1,1,0,0,core i7,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,2.2,11.219074000897615,141.21
+607,lenovo,notebook,6,1,0,0,0,core i5,2.5,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.4,10.310615277730193,141.21
+608,lenovo,2 in 1 convertible,8,1,1,1,0,core i7,2.8,intel,ssd,256,no secondary memory,0,intel hd,windows,2.0,11.144911042902732,141.21
+609,acer,notebook,4,0,0,0,0,pentium,1.6,intel,flash storage,128,no secondary memory,0,intel hd,windows,1.6,9.83063294843456,111.94
+610,lenovo,notebook,32,0,1,0,1,others,3.1,intel,ssd,1024,no secondary memory,0,nvidia,windows,2.5,12.472347407870709,282.42
+611,dell,gaming,16,1,0,0,0,core i7,2.6,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,2.59,10.754357240630805,141.21
+612,dell,notebook,4,0,0,0,0,core i3,2.0,intel,hdd,1024,no secondary memory,0,intel hd,linux,2.18,10.07116025350907,100.45
+613,dell,notebook,4,0,0,0,0,core i3,2.0,intel,hdd,1024,no secondary memory,0,intel hd,linux,2.25,9.858883414720413,100.45
+614,dell,notebook,4,0,0,0,0,core i5,2.6,intel,hdd,500,no secondary memory,0,intel hd,linux,1.93,10.742904151497525,100.45
+615,asus,gaming,8,1,0,0,0,core i7,2.8,intel,ssd,128,hdd,1024,nvidia geforce,windows,3.0,11.038609189620306,127.34
+616,dell,notebook,4,1,0,0,0,core i5,2.5,intel,ssd,128,no secondary memory,0,amd radeon,linux,2.18,10.319441460358465,141.21
+617,hp,ultrabook,8,1,0,0,0,core i7,2.7,intel,ssd,512,no secondary memory,0,intel hd,windows,1.84,11.211900368986477,141.21
+618,msi,gaming,16,1,0,0,0,core i7,2.8,intel,ssd,256,hdd,1024,nvidia geforce,windows,2.94,11.702152954158652,141.21
+619,acer,2 in 1 convertible,4,0,1,1,0,celeron,1.6,intel,flash storage,32,no secondary memory,0,intel hd,chrome os,1.25,9.913097231314559,135.09
+620,hp,notebook,8,0,0,0,0,core i5,2.6,intel,ssd,256,no secondary memory,0,intel hd,windows,2.31,11.00021005668577,111.94
+621,lenovo,notebook,8,1,0,0,0,core i5,2.3,intel,ssd,256,no secondary memory,0,intel hd,windows,1.65,11.265171547683302,157.35
+622,dell,notebook,4,1,0,0,0,core i5,1.6,intel,hdd,1024,no secondary memory,0,amd radeon,windows,2.2,10.629713546415353,141.21
+623,others,notebook,8,0,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,2.2,10.658921971998408,100.45
+624,hp,notebook,4,0,0,0,0,core i5,2.3,intel,hdd,500,no secondary memory,0,intel hd,windows,1.88,10.812893840917726,100.45
+625,lenovo,notebook,8,1,0,0,0,core i7,2.7,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,2.2,10.776844060703754,141.21
+626,mediacom,notebook,2,1,0,0,0,others,1.44,intel,flash storage,32,no secondary memory,0,intel hd,windows,1.4,9.452024578163645,157.35
+627,lenovo,notebook,4,1,0,0,0,core i5,2.5,intel,ssd,128,no secondary memory,0,intel hd,no os,2.2,10.12402932214978,141.21
+628,asus,2 in 1 convertible,6,1,0,1,0,core i5,2.5,intel,hdd,1024,no secondary memory,0,intel hd,windows,1.5,10.435481047698904,165.63
+629,dell,notebook,8,1,0,0,0,core i7,2.8,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,2.0,11.482152806302976,141.21
+630,asus,ultrabook,16,1,0,0,0,core i7,2.7,intel,ssd,512,no secondary memory,0,intel hd,windows,1.1,11.525170191386666,157.35
+631,dell,gaming,16,1,0,0,0,core i7,2.8,intel,ssd,256,hdd,1024,nvidia geforce,windows,2.62,11.274682488942933,141.21
+632,lenovo,notebook,4,1,0,0,0,core i5,1.6,intel,ssd,256,no secondary memory,0,intel uhd,windows,1.8,10.695781181367428,141.21
+633,lenovo,notebook,4,1,0,0,0,core i3,2.0,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,2.2,10.336863503805128,141.21
+634,asus,notebook,8,0,0,0,0,celeron,1.1,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.0,9.964522443121997,100.45
+635,asus,notebook,8,1,0,0,0,core i5,2.5,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,1.99,10.785284350414285,141.21
+636,dell,ultrabook,8,0,0,1,0,core i5,1.6,intel,ssd,256,no secondary memory,0,intel uhd,windows,1.23,11.508719833687696,276.05
+637,lenovo,notebook,2,0,0,0,0,celeron,1.6,intel,flash storage,32,no secondary memory,0,intel hd,windows,1.42,9.493013922696841,111.94
+638,lenovo,2 in 1 convertible,8,1,1,1,0,core i7,2.7,intel,ssd,256,no secondary memory,0,intel hd,windows,1.37,11.447163155308857,165.63
+639,dell,notebook,16,0,0,1,1,core i7,2.8,intel,ssd,1024,no secondary memory,0,nvidia geforce,windows,2.06,11.758368289071829,282.42
+640,lenovo,gaming,8,1,1,0,0,core i7,2.8,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.5,10.9867750135825,141.21
+641,hp,notebook,8,0,0,0,0,a series,3.0,amd,hdd,1024,no secondary memory,0,amd radeon,windows,2.6,10.23111903892043,107.99
+642,lenovo,ultrabook,16,1,1,0,0,core i7,2.7,intel,ssd,512,no secondary memory,0,intel hd,windows,1.14,11.779404329770907,157.35
+643,asus,gaming,8,1,1,0,0,core i7,2.8,intel,hdd,1024,no secondary memory,0,nvidia geforce,no os,2.5,11.039464987704202,141.21
+644,acer,notebook,4,0,0,0,0,core i3,2.0,intel,hdd,500,no secondary memory,0,intel hd,windows,2.4,10.084808608996498,100.45
+645,lenovo,notebook,4,0,0,0,0,celeron,1.6,intel,flash storage,32,no secondary memory,0,intel hd,windows,1.43,9.588689132620203,111.94
+646,acer,ultrabook,8,1,1,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,others,windows,1.8,10.798847148587821,157.35
+647,razer,gaming,16,1,0,0,0,core i7,2.8,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,1.95,11.838443060873624,157.35
+648,toshiba,notebook,8,1,0,0,0,core i5,2.3,intel,ssd,256,no secondary memory,0,intel hd,windows,1.2,11.076412935176183,165.63
+649,lenovo,ultrabook,8,1,1,0,0,core i7,2.7,intel,ssd,256,no secondary memory,0,intel hd,windows,1.36,11.343269598606504,176.23
+650,asus,gaming,32,1,1,0,0,core i7,2.7,intel,ssd,512,no secondary memory,0,nvidia geforce,windows,3.8,11.912578515747587,127.34
+651,acer,gaming,8,1,0,0,0,core i5,2.5,intel,hdd,1024,no secondary memory,0,nvidia geforce,linux,2.4,10.53941655276426,141.21
+652,dell,ultrabook,8,1,0,0,0,core i5,1.6,intel,ssd,256,no secondary memory,0,intel uhd,windows,1.2,11.254810867861538,165.63
+653,msi,gaming,8,1,0,0,0,core i7,2.8,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.2,11.058781011551995,141.21
+654,hp,notebook,4,0,0,0,0,core i3,2.0,intel,hdd,500,no secondary memory,0,intel hd,no os,1.86,9.875184266803778,100.45
+655,toshiba,notebook,8,1,1,0,0,core i5,2.5,intel,hdd,500,no secondary memory,0,intel hd,windows,2.0,10.945351696133724,141.21
+656,dell,notebook,8,1,0,0,0,core i7,1.8,intel,ssd,256,no secondary memory,0,amd radeon,windows,2.2,10.798847148587821,141.21
+657,dell,notebook,16,1,0,0,0,core i7,1.8,intel,ssd,256,hdd,2048,amd radeon,windows,2.2,11.009948956147637,141.21
+658,lenovo,gaming,8,1,1,0,0,core i7,2.6,intel,ssd,128,hdd,1024,nvidia geforce,windows,3.31,11.06229896074271,141.21
+659,dell,gaming,32,0,1,0,1,core i7,2.8,intel,ssd,512,hdd,1024,nvidia geforce,windows,4.42,12.029883467208586,254.67
+660,dell,notebook,8,1,0,0,0,core i5,2.4,intel,ssd,256,no secondary memory,0,intel hd,windows,1.56,11.089517135798168,157.35
+661,lenovo,notebook,4,0,0,0,0,celeron,1.1,intel,hdd,500,no secondary memory,0,intel hd,windows,2.2,10.013431946154272,100.45
+662,lenovo,notebook,4,1,0,0,0,core i5,2.3,intel,hdd,500,no secondary memory,0,intel hd,windows,2.2,10.25782777312814,141.21
+663,hp,notebook,6,0,0,0,0,core i3,2.0,intel,hdd,1024,no secondary memory,0,amd radeon,windows,2.04,10.265276597141131,141.21
+664,msi,gaming,8,1,0,0,0,core i7,2.8,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.7,11.279922342434071,127.34
+665,toshiba,notebook,4,0,0,0,0,core i3,2.1,intel,ssd,128,no secondary memory,0,intel hd,windows,2.1,10.186161103256786,100.45
+666,dell,notebook,8,1,0,0,0,core i5,2.5,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.06,10.837272366712863,141.21
+667,hp,notebook,8,1,0,0,0,core i7,2.7,intel,hdd,1024,no secondary memory,0,amd radeon,windows,2.1,10.588945244611693,141.21
+668,toshiba,notebook,8,1,1,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,2.0,11.11283946349252,141.21
+669,acer,notebook,4,0,0,0,0,core i3,2.0,intel,ssd,128,no secondary memory,0,intel hd,linux,2.1,9.99658437558166,100.45
+670,microsoft,ultrabook,8,0,0,1,0,core i7,2.8,intel,ssd,256,no secondary memory,0,others,windows,1.25,11.50810436210751,200.84
+671,lenovo,notebook,8,1,0,0,0,core i5,2.5,intel,ssd,128,hdd,1024,amd radeon,windows,1.9,10.68236232805674,141.21
+672,lenovo,2 in 1 convertible,8,1,1,1,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.3,10.916751081300507,165.63
+673,lenovo,notebook,4,0,0,0,0,others,2.2,amd,ssd,128,no secondary memory,0,amd radeon,windows,2.2,9.83063294843456,100.45
+674,hp,2 in 1 convertible,4,1,1,1,0,core i3,2.4,intel,ssd,128,no secondary memory,0,nvidia geforce,windows,1.63,10.525211768465944,157.35
+675,msi,gaming,16,1,0,0,0,core i7,2.8,intel,ssd,256,hdd,1024,nvidia geforce,windows,2.4,11.14105450129298,141.21
+676,asus,ultrabook,8,1,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.1,11.009948956147637,157.35
+677,hp,2 in 1 convertible,8,0,0,1,0,celeron,1.1,intel,flash storage,64,no secondary memory,0,intel hd,chrome os,1.4,10.180118788800824,135.09
+678,others,ultrabook,8,1,1,0,0,core i7,1.8,intel,ssd,512,no secondary memory,0,intel hd,windows,1.09,11.715790550995315,141.21
+679,acer,gaming,16,1,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,2.5,11.144911042902732,141.21
+680,msi,gaming,8,1,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,2.2,10.881214059505867,141.21
+681,asus,notebook,4,0,0,0,0,celeron,1.1,intel,ssd,128,no secondary memory,0,intel hd,windows,1.86,10.013431946154272,100.45
+682,dell,gaming,16,1,0,0,0,core i5,2.5,intel,ssd,128,hdd,1024,nvidia geforce,windows,3.21,11.601643784304514,141.21
+683,hp,notebook,4,1,1,0,0,core i3,2.0,intel,ssd,256,no secondary memory,0,amd radeon,windows,2.5,10.525211768465944,127.34
+684,lenovo,2 in 1 convertible,8,1,1,1,0,core i7,1.8,intel,ssd,512,no secondary memory,0,intel uhd,windows,1.19,11.288114524334732,165.63
+685,dell,gaming,16,1,0,0,0,core i7,2.9,intel,ssd,256,hdd,1024,nvidia geforce,windows,3.49,11.917834418453076,141.21
+686,hp,notebook,4,0,0,0,0,core i5,2.5,intel,hdd,500,no secondary memory,0,amd radeon,windows,1.86,10.393289519853159,100.45
+687,dell,notebook,4,0,0,0,0,core i3,2.0,intel,hdd,1024,no secondary memory,0,amd radeon,windows,2.2,10.277575506201964,100.45
+688,hp,notebook,6,1,1,0,0,a series,2.4,amd,hdd,2048,no secondary memory,0,amd radeon,windows,2.65,10.319441460358465,127.34
+689,lenovo,notebook,4,0,0,0,0,celeron,1.6,intel,hdd,500,no secondary memory,0,intel hd,windows,2.1,9.73761240901231,100.45
+690,acer,notebook,4,0,0,0,0,celeron,1.6,intel,flash storage,32,no secondary memory,0,intel hd,chrome os,1.45,9.902487052202545,111.94
+691,lenovo,notebook,4,1,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.7,10.525211768465944,157.35
+692,hp,workstation,8,1,0,0,0,core i7,2.8,intel,hdd,500,no secondary memory,0,nvidia,windows,3.14,11.529366664679895,127.34
+693,lenovo,2 in 1 convertible,8,0,0,1,0,core i7,2.7,intel,ssd,256,no secondary memory,0,intel hd,windows,1.42,11.834974180925718,209.8
+694,toshiba,notebook,8,1,1,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.5,10.855945108418139,165.63
+695,acer,netbook,4,0,0,0,0,celeron,1.6,intel,flash storage,32,no secondary memory,0,intel hd,windows,1.4,9.570272405833974,135.09
+696,lenovo,2 in 1 convertible,16,1,0,1,0,core i7,2.7,intel,ssd,512,no secondary memory,0,intel hd,windows,1.38,11.442360501250736,157.35
+697,asus,2 in 1 convertible,4,1,0,1,0,others,0.9,intel,flash storage,64,no secondary memory,0,intel hd,chrome os,1.2,10.481345086360362,176.23
+698,toshiba,ultrabook,16,1,0,1,0,core i7,2.5,intel,ssd,512,no secondary memory,0,intel hd,windows,1.36,11.512991062818642,165.63
+699,hp,notebook,4,1,1,0,0,core i7,2.7,intel,hdd,500,no secondary memory,0,amd radeon,windows,2.1,10.510802297245792,141.21
+700,dell,gaming,8,1,0,0,0,core i5,2.5,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,2.56,10.683645110085203,141.21
+701,lenovo,notebook,4,1,0,0,0,a series,2.9,amd,ssd,256,no secondary memory,0,amd radeon,windows,2.2,9.964522443121997,141.21
+702,lenovo,notebook,8,0,0,0,0,a series,3.6,amd,hdd,1024,no secondary memory,0,amd radeon,windows,2.2,10.03701794516015,100.45
+703,lenovo,notebook,4,1,0,0,0,core i5,2.5,intel,hdd,1024,hdd,1024,intel hd,windows,2.1,10.407616604229947,141.21
+704,lenovo,notebook,4,0,0,0,0,core i3,2.0,intel,hdd,500,no secondary memory,0,intel hd,no os,1.9,10.084808608996498,100.45
+705,dell,notebook,8,1,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,2.18,10.653903140886465,141.21
+706,acer,2 in 1 convertible,8,1,1,1,0,core i5,1.6,intel,ssd,256,no secondary memory,0,intel uhd,windows,1.6,10.882315804880687,165.63
+707,lenovo,workstation,16,1,0,0,0,core i7,2.5,intel,ssd,512,no secondary memory,0,nvidia,windows,2.18,11.50120100127367,141.21
+708,lenovo,notebook,8,1,0,0,0,core i5,2.3,intel,ssd,256,no secondary memory,0,intel hd,windows,1.8,11.058109595587434,157.35
+709,hp,notebook,6,1,1,0,0,a series,2.5,amd,hdd,2048,no secondary memory,0,amd radeon,windows,2.71,10.460211448694732,127.34
+710,lenovo,gaming,8,1,1,0,0,core i7,2.8,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.5,11.105659536357711,141.21
+711,dell,notebook,8,1,0,0,0,core i5,2.8,intel,ssd,256,no secondary memory,0,nvidia geforce,linux,1.64,10.968576149165093,157.35
+712,dell,notebook,8,1,0,0,0,core i5,2.5,intel,hdd,1024,no secondary memory,0,intel hd,linux,1.98,10.56311104105693,141.21
+713,asus,notebook,4,1,0,0,0,celeron,1.1,intel,flash storage,32,no secondary memory,0,intel hd,windows,1.5,9.672654512737537,157.35
+714,dell,notebook,16,1,0,0,0,core i5,2.6,intel,ssd,512,no secondary memory,0,intel hd,windows,1.93,11.238652290084195,141.21
+715,lenovo,notebook,8,1,1,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,1.87,10.729080630533812,157.35
+716,dell,notebook,8,1,0,0,0,core i5,2.6,intel,ssd,256,no secondary memory,0,intel hd,windows,1.9,11.047982926769505,141.21
+717,lenovo,notebook,4,0,0,0,0,a series,2.0,amd,hdd,500,no secondary memory,0,amd radeon,windows,2.19,9.672654512737537,100.45
+718,mediacom,notebook,4,1,1,0,0,others,1.92,intel,hdd,32,no secondary memory,0,intel hd,windows,1.4,9.555290852218356,161.73
+719,hp,notebook,8,1,0,0,0,core i7,2.7,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,2.63,11.065637862008225,127.34
+720,lenovo,ultrabook,8,0,1,0,0,core i7,2.5,intel,ssd,512,no secondary memory,0,intel hd,windows,1.17,11.406054698346194,209.8
+721,hp,2 in 1 convertible,8,0,1,1,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.58,10.704907130109389,117.83
+722,lenovo,ultrabook,8,1,1,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.32,11.288114524334732,157.35
+723,dell,gaming,32,0,0,0,1,core i7,2.8,intel,ssd,1024,hdd,1024,nvidia geforce,windows,4.36,12.18061549450476,254.67
+724,msi,gaming,8,1,0,0,0,core i7,2.8,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.7,11.182294276166665,127.34
+725,lenovo,notebook,4,0,0,0,0,core i5,2.5,intel,hdd,1024,no secondary memory,0,intel hd,no os,1.9,10.169762238253803,100.45
+726,dell,notebook,8,1,0,0,0,core i5,1.6,intel,ssd,128,hdd,1024,amd radeon,windows,2.2,10.55342238395318,141.21
+727,dell,2 in 1 convertible,4,1,0,1,0,core i3,2.4,intel,hdd,1024,no secondary memory,0,intel hd,windows,1.71,10.450993742936223,165.63
+728,dell,notebook,8,0,0,0,0,core i5,2.5,intel,hdd,1024,no secondary memory,0,amd radeon,linux,2.32,10.354869812775314,100.45
+729,hp,notebook,4,1,0,0,0,a series,3.0,amd,hdd,1024,no secondary memory,0,amd radeon,windows,2.1,10.167923515707006,141.21
+730,acer,gaming,16,1,1,0,0,core i7,2.6,intel,ssd,128,hdd,1024,nvidia geforce,windows,4.2,11.543423631696015,127.34
+731,dell,notebook,12,0,0,0,0,core i5,2.5,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.25,10.450993742936223,100.45
+732,hp,notebook,6,1,0,0,0,a series,3.0,amd,ssd,128,hdd,1024,amd radeon,windows,2.1,10.452533389121816,141.21
+733,acer,notebook,4,0,0,0,0,core i5,2.5,intel,hdd,500,no secondary memory,0,intel hd,windows,2.4,10.301710499387234,100.45
+734,lenovo,notebook,8,1,1,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.44,10.842494310694015,165.63
+735,lenovo,notebook,4,1,0,0,0,core i7,2.7,intel,hdd,1024,no secondary memory,0,intel hd,windows,1.85,10.633572072102883,141.21
+736,hp,workstation,16,1,0,0,0,core i7,2.8,intel,ssd,256,no secondary memory,0,nvidia,windows,2.6,11.766670536842161,141.21
+737,dell,2 in 1 convertible,8,1,0,1,0,core i5,1.6,intel,hdd,1024,no secondary memory,0,intel uhd,windows,1.55,10.46628456073464,165.63
+738,msi,gaming,16,1,0,0,0,core i7,2.8,intel,ssd,256,hdd,1024,nvidia geforce,windows,1.8,11.622621578326617,141.21
+739,acer,notebook,4,0,0,0,0,core i3,2.0,intel,hdd,500,no secondary memory,0,intel hd,windows,2.4,9.993667321533172,100.45
+740,dell,notebook,8,1,0,0,0,core i7,2.7,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.0,11.071454247329665,141.21
+741,dell,notebook,8,0,0,0,0,core i3,2.0,intel,ssd,256,no secondary memory,0,intel hd,windows,2.0,10.475348066887987,100.45
+742,toshiba,notebook,8,1,1,1,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.25,11.311846686253432,157.35
+743,lenovo,2 in 1 convertible,8,1,0,1,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.7,10.882315804880687,157.35
+744,lenovo,workstation,16,0,1,0,1,core i7,2.8,intel,ssd,1024,no secondary memory,0,nvidia,windows,2.5,12.076935697460716,282.42
+745,acer,notebook,2,0,0,0,0,celeron,1.6,intel,flash storage,32,no secondary memory,0,intel hd,chrome os,1.68,9.77465368069266,111.94
+746,samsung,ultrabook,16,1,0,0,0,core i7,2.7,intel,ssd,256,no secondary memory,0,intel hd,windows,0.81,11.383485348791732,165.63
+747,hp,notebook,8,1,0,0,0,core i3,2.0,intel,ssd,256,no secondary memory,0,intel hd,windows,1.86,10.265276597141131,141.21
+748,dell,notebook,8,0,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.6,11.00261820682956,111.94
+749,hp,workstation,16,1,1,0,0,others,2.9,intel,ssd,256,no secondary memory,0,nvidia,windows,3.0,12.362417715920367,127.34
+750,lenovo,netbook,4,0,0,1,0,celeron,1.6,intel,ssd,128,no secondary memory,0,intel hd,windows,1.4,10.138875830266775,135.09
+751,hp,notebook,8,1,0,0,0,core i5,2.4,intel,ssd,256,no secondary memory,0,intel hd,windows,1.84,11.525170191386666,141.21
+752,asus,notebook,4,0,0,0,0,core i5,2.3,intel,hdd,1024,no secondary memory,0,nvidia geforce,no os,2.45,10.336863503805128,100.45
+753,lenovo,ultrabook,4,1,0,0,0,core i5,2.3,intel,ssd,180,no secondary memory,0,intel hd,windows,1.7,10.974983493740094,157.35
+754,asus,notebook,4,0,0,0,0,core i7,2.7,intel,ssd,256,no secondary memory,0,intel hd,windows,2.37,10.720679677569708,100.45
+755,lenovo,2 in 1 convertible,8,0,1,1,0,core i5,1.8,intel,ssd,256,no secondary memory,0,intel hd,windows,1.3,11.064804181259648,276.05
+756,hp,notebook,8,1,1,0,0,core i5,2.5,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.2,10.977716980635755,141.21
+757,hp,workstation,8,1,0,0,0,core i7,2.6,intel,ssd,256,no secondary memory,0,nvidia,windows,2.59,11.328642946747566,141.21
+758,dell,gaming,16,0,1,0,1,core i7,2.8,intel,ssd,256,hdd,1024,nvidia geforce,windows,4.42,11.937276374989834,282.42
+759,acer,notebook,4,0,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,2.1,10.370822624347584,100.45
+760,lenovo,gaming,8,1,1,0,0,core i7,2.8,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.5,10.930199891113121,141.21
+761,dell,ultrabook,16,1,0,0,0,core i7,2.8,intel,ssd,256,no secondary memory,0,intel hd,windows,1.18,11.503355013953577,176.23
+762,others,ultrabook,8,0,0,1,0,core i5,1.2,intel,ssd,256,no secondary memory,0,intel hd,chrome os,1.1,11.32736089528991,234.51
+763,asus,ultrabook,8,0,1,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.2,11.004648590381796,276.05
+764,dell,notebook,4,0,0,0,0,core i3,2.0,intel,hdd,500,no secondary memory,0,intel hd,windows,1.65,10.71962021254348,117.83
+765,acer,notebook,4,0,0,0,0,core i5,2.3,intel,ssd,128,no secondary memory,0,intel hd,windows,1.6,10.460196261867386,117.83
+766,asus,notebook,4,0,0,0,0,pentium,1.1,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,2.8,10.129017055203281,90.58
+767,dell,gaming,16,0,1,1,1,core i7,2.6,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.72,10.977716980635755,282.42
+768,samsung,ultrabook,8,1,0,1,0,core i7,2.7,intel,ssd,256,no secondary memory,0,intel hd,windows,1.31,11.352694739066088,165.63
+769,acer,notebook,4,0,0,0,0,pentium,1.1,intel,hdd,1024,no secondary memory,0,intel hd,linux,2.1,9.672654512737537,100.45
+770,dell,notebook,16,1,0,0,0,core i7,2.7,intel,ssd,256,no secondary memory,0,amd radeon,windows,2.3,11.049906506023682,141.21
+771,samsung,2 in 1 convertible,16,1,0,1,0,core i7,2.7,intel,ssd,256,no secondary memory,0,amd radeon,windows,1.71,11.470547260182666,146.86
+772,toshiba,notebook,4,0,1,0,0,core i5,2.3,intel,ssd,128,no secondary memory,0,intel hd,windows,1.75,10.90311893251045,111.94
+773,dell,gaming,8,1,0,0,0,core i7,2.8,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,2.62,10.977716980635755,141.21
+774,hp,ultrabook,4,0,0,0,0,core i5,2.3,intel,ssd,256,no secondary memory,0,intel hd,windows,1.26,11.10164829953126,125.37
+775,asus,2 in 1 convertible,12,1,0,1,0,core i7,2.7,intel,hdd,2048,no secondary memory,0,nvidia geforce,windows,2.3,10.70777173269934,141.21
+776,lenovo,notebook,16,0,0,0,1,core i7,2.7,intel,ssd,512,no secondary memory,0,nvidia,windows,2.5,11.74620626036131,282.42
+777,acer,notebook,4,1,1,0,0,core i3,2.4,intel,ssd,128,no secondary memory,0,intel hd,windows,1.8,10.430759589572256,157.35
+778,razer,gaming,16,1,0,0,0,core i7,2.8,intel,ssd,512,no secondary memory,0,nvidia geforce,windows,1.95,11.947682155153789,157.35
+779,asus,notebook,8,0,0,0,0,pentium,1.1,intel,ssd,128,no secondary memory,0,intel hd,windows,2.0,10.341859573386184,141.21
+780,dell,gaming,32,1,1,0,0,core i7,2.8,intel,ssd,1024,hdd,1024,nvidia geforce,windows,4.42,12.161134169078808,127.34
+781,asus,gaming,16,1,1,0,0,core i7,2.6,intel,ssd,256,hdd,1024,nvidia geforce,windows,4.3,11.737731633370338,127.34
+782,toshiba,ultrabook,16,1,1,0,0,core i7,2.6,intel,ssd,512,no secondary memory,0,nvidia geforce,windows,1.47,11.45090026279887,157.35
+783,lenovo,notebook,8,0,0,0,0,celeron,1.6,intel,hdd,1024,no secondary memory,0,intel hd,no os,2.2,9.771618776997505,100.45
+784,lenovo,ultrabook,16,1,0,0,0,core i7,2.7,intel,ssd,512,no secondary memory,0,intel hd,windows,1.7,11.715790550995315,157.35
+785,msi,gaming,16,1,1,0,0,core i7,2.8,intel,ssd,256,hdd,1024,nvidia geforce,windows,1.6,11.520422094890591,157.35
+786,msi,gaming,8,1,0,0,0,core i5,2.5,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.2,10.968576149165093,141.21
+787,lenovo,gaming,4,1,1,0,0,core i7,2.8,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,2.4,10.882315804880687,141.21
+788,acer,gaming,16,1,1,0,0,core i7,2.8,intel,ssd,256,hdd,1024,nvidia geforce,windows,4.2,11.715790550995315,127.34
+789,dell,gaming,8,1,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,2.62,10.868202667404223,141.21
+790,asus,gaming,8,1,0,0,0,core i7,2.8,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.24,11.175239371923306,141.21
+791,others,notebook,4,0,0,0,0,celeron,1.1,intel,flash storage,32,no secondary memory,0,intel hd,windows,1.22,9.288274088058772,157.35
+792,lenovo,2 in 1 convertible,8,1,1,1,0,core i7,2.7,intel,ssd,512,no secondary memory,0,intel hd,windows,1.37,11.561349847964168,165.63
+793,lenovo,2 in 1 convertible,8,1,0,1,0,core i5,2.5,intel,ssd,256,no secondary memory,0,amd radeon,windows,2.08,10.841452101115571,141.21
+794,apple,ultrabook,8,0,1,0,0,others,1.2,intel,flash storage,512,no secondary memory,0,intel hd,mac,0.92,11.036037392231934,226.42
+795,lenovo,2 in 1 convertible,8,0,1,1,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.42,11.72918457279188,209.8
+796,asus,notebook,4,0,0,0,0,celeron,1.1,intel,flash storage,32,no secondary memory,0,intel hd,windows,1.63,9.67600459962282,111.94
+797,dell,notebook,8,0,0,0,0,core i5,2.5,intel,ssd,128,no secondary memory,0,intel hd,windows,1.95,10.672595273898619,100.45
+798,lenovo,2 in 1 convertible,8,1,1,1,0,core i7,2.7,intel,ssd,256,no secondary memory,0,intel hd,windows,1.38,11.18267988243989,158.48
+799,dell,notebook,8,1,0,0,0,core i3,2.0,intel,ssd,256,no secondary memory,0,amd radeon,windows,2.0,10.580858947180335,141.21
+800,hp,workstation,8,1,0,0,0,core i7,2.8,intel,ssd,256,no secondary memory,0,nvidia,windows,3.14,11.608398086125698,141.21
+801,asus,notebook,8,1,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,2.37,10.977716980635755,141.21
+802,dell,ultrabook,8,1,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.29,11.288114524334732,165.63
+803,dell,notebook,8,0,0,1,1,core i5,2.5,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,2.06,11.442360501250736,282.42
+804,dell,netbook,4,0,0,0,0,pentium,1.1,intel,ssd,128,no secondary memory,0,intel hd,windows,1.63,10.587602061065226,135.09
+805,hp,netbook,8,0,0,0,0,core i5,2.6,intel,ssd,256,no secondary memory,0,intel hd,windows,1.26,11.211900368986477,125.37
+806,toshiba,notebook,4,0,0,0,0,core i5,2.3,intel,hdd,500,no secondary memory,0,intel hd,windows,2.1,10.634854945915771,100.45
+807,hp,notebook,8,0,0,0,0,a series,2.5,amd,hdd,2048,no secondary memory,0,amd radeon,windows,2.04,10.419692282932575,100.45
+808,dell,gaming,16,0,0,0,1,core i7,2.8,intel,ssd,512,no secondary memory,0,nvidia geforce,windows,2.62,11.401514683309674,282.42
+809,lenovo,notebook,4,1,0,0,0,core i5,2.5,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,2.4,10.38737929394203,141.21
+810,hp,gaming,12,1,1,0,0,core i7,2.8,intel,hdd,1024,no secondary memory,0,amd radeon,windows,3.74,11.442360501250736,127.34
+811,msi,gaming,16,1,0,0,0,core i7,2.8,intel,ssd,512,hdd,1024,nvidia geforce,windows,2.9,11.765015592318807,127.34
+812,samsung,ultrabook,8,1,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,0.81,11.288114524334732,165.63
+813,dell,notebook,8,1,0,0,0,core i7,2.7,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,1.98,10.843535435202426,141.21
+814,dell,notebook,8,1,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,amd radeon,windows,2.18,10.64735351248148,141.21
+815,lenovo,ultrabook,8,1,0,0,0,core i7,2.7,intel,ssd,256,no secondary memory,0,intel hd,windows,1.32,11.503355013953577,157.35
+816,razer,ultrabook,16,0,1,1,1,core i7,2.5,intel,ssd,512,no secondary memory,0,intel hd,windows,1.29,11.470547260182666,352.47
+817,hp,netbook,4,0,0,0,0,celeron,1.6,intel,flash storage,16,no secondary memory,0,intel hd,chrome os,1.23,9.928804360519917,135.09
+818,dell,gaming,16,1,1,0,0,core i7,2.8,intel,ssd,128,hdd,1024,nvidia geforce,windows,4.36,11.801613056717997,127.34
+819,dell,notebook,4,0,0,0,0,core i5,2.3,intel,hdd,500,no secondary memory,0,intel hd,windows,1.76,10.602278775481158,111.94
+820,lenovo,notebook,4,0,0,0,0,core i3,2.0,intel,hdd,500,no secondary memory,0,intel hd,windows,2.1,10.169762238253803,100.45
+821,toshiba,ultrabook,4,0,0,0,0,core i5,2.5,intel,ssd,128,no secondary memory,0,intel hd,windows,1.25,10.969494001455322,111.94
+822,lenovo,ultrabook,8,1,1,0,0,core i7,2.7,intel,ssd,512,no secondary memory,0,intel hd,windows,1.13,11.799206957067087,157.35
+823,msi,gaming,8,1,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,2.4,11.064804181259648,141.21
+824,lenovo,ultrabook,8,1,1,0,0,core i5,2.5,intel,flash storage,256,no secondary memory,0,intel hd,windows,1.13,11.511924964636645,157.35
+825,toshiba,notebook,4,0,0,0,0,pentium,2.1,intel,ssd,128,no secondary memory,0,intel hd,windows,1.75,10.188167121983652,111.94
+826,asus,2 in 1 convertible,8,1,0,1,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.1,11.189329334350775,165.63
+827,dell,notebook,4,0,0,0,0,core i3,2.0,intel,hdd,500,no secondary memory,0,intel hd,windows,1.76,10.34717287346399,111.94
+828,acer,netbook,4,0,1,0,0,celeron,1.6,intel,flash storage,32,no secondary memory,0,intel hd,chrome os,1.35,9.84767881570755,135.09
+829,acer,notebook,8,1,1,0,0,core i3,2.4,intel,ssd,128,no secondary memory,0,intel hd,windows,1.5,10.403666298916729,157.35
+830,razer,gaming,32,0,0,1,1,core i7,2.9,intel,ssd,512,no secondary memory,0,nvidia geforce,windows,3.49,12.587882562739948,254.67
+831,lenovo,ultrabook,16,0,1,0,0,core i7,2.6,intel,ssd,512,no secondary memory,0,intel hd,windows,1.1,11.624777346052767,209.8
+832,asus,notebook,4,1,0,0,0,core i5,2.5,intel,hdd,1024,no secondary memory,0,nvidia geforce,linux,2.1,10.227464909398023,141.21
+833,lenovo,notebook,8,1,0,0,0,core i5,2.3,intel,ssd,256,no secondary memory,0,intel hd,windows,1.7,11.053902605789805,157.35
+834,lenovo,notebook,8,1,1,0,0,core i5,2.6,intel,ssd,256,no secondary memory,0,intel hd,windows,1.32,11.38409159312676,157.35
+835,dell,gaming,16,1,0,0,0,core i7,2.8,intel,ssd,256,hdd,1024,nvidia geforce,windows,3.21,11.903833734541577,141.21
+836,asus,gaming,16,1,0,0,0,core i7,2.8,intel,ssd,256,hdd,1024,nvidia geforce,windows,2.9,11.766670536842161,127.34
+837,toshiba,notebook,4,0,0,0,0,core i3,2.4,intel,hdd,500,no secondary memory,0,intel hd,windows,2.0,10.481345086360362,100.45
+838,lenovo,notebook,4,0,0,0,0,celeron,1.6,intel,flash storage,16,no secondary memory,0,intel hd,chrome os,1.5,9.759386208561871,111.94
+839,asus,notebook,8,1,0,0,0,core i5,2.5,intel,hdd,128,no secondary memory,0,intel hd,windows,2.3,10.3556835631319,141.21
+840,asus,gaming,16,1,0,0,0,core i7,2.6,intel,ssd,512,hdd,1024,nvidia geforce,windows,2.73,11.470547260182666,127.34
+841,dell,gaming,32,1,1,0,0,core i7,2.8,intel,ssd,512,hdd,1024,nvidia geforce,windows,4.42,12.005934796968784,127.34
+842,hp,notebook,8,0,0,0,0,core i5,2.5,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,2.63,10.78900562574303,106.11
+843,dell,notebook,8,0,0,0,0,core i5,2.5,intel,ssd,128,no secondary memory,0,intel hd,windows,2.18,10.54643005647544,100.45
+844,hp,ultrabook,8,1,0,0,0,core i7,2.5,intel,ssd,512,no secondary memory,0,intel hd,windows,1.54,11.509254736080766,157.35
+845,dell,notebook,4,1,0,0,0,core i7,2.7,intel,ssd,256,no secondary memory,0,amd radeon,windows,2.18,10.580858947180335,141.21
+846,hp,2 in 1 convertible,4,0,0,1,0,celeron,1.1,intel,flash storage,32,no secondary memory,0,intel hd,chrome os,1.4,10.397183294038651,135.09
+847,asus,ultrabook,8,1,1,0,0,core i5,2.3,intel,ssd,512,no secondary memory,0,nvidia geforce,windows,1.45,10.908984051962848,165.63
+848,hp,2 in 1 convertible,8,1,0,1,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.28,11.706175092295874,165.63
+849,hp,ultrabook,8,1,0,0,0,core i7,2.5,intel,ssd,512,no secondary memory,0,intel hd,windows,1.54,11.267217235406594,157.35
+850,hp,notebook,4,0,0,0,0,celeron,1.6,intel,ssd,128,no secondary memory,0,intel hd,no os,1.86,9.67600459962282,100.45
+851,asus,gaming,16,1,0,0,0,core i7,2.8,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.1,11.52464373704442,141.21
+852,dell,notebook,8,1,0,0,0,core i7,2.7,intel,hdd,1024,no secondary memory,0,amd radeon,linux,2.83,10.738290533164013,127.34
+853,lenovo,ultrabook,8,1,1,0,0,core i7,2.8,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,1.96,11.526747893528283,157.35
+854,asus,notebook,8,1,1,0,0,core i7,2.7,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,2.3,10.643789274649537,141.21
+855,dell,notebook,8,1,0,0,0,core i5,2.5,intel,ssd,128,no secondary memory,0,intel hd,windows,1.9,10.826745953725876,141.21
+856,asus,notebook,4,0,0,0,0,pentium,1.1,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.0,10.082583913974387,100.45
+857,hp,2 in 1 convertible,8,1,0,1,0,core i7,2.8,intel,ssd,256,no secondary memory,0,intel hd,windows,1.28,11.822932862391923,165.63
+858,dell,notebook,8,1,0,1,0,core i5,2.3,intel,hdd,1024,no secondary memory,0,intel hd,windows,1.62,10.450993742936223,165.63
+859,lenovo,notebook,4,1,0,0,0,core i3,2.0,intel,hdd,1024,no secondary memory,0,intel hd,no os,2.2,10.126163794678414,141.21
+860,lenovo,notebook,8,1,1,0,0,core i5,2.5,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.3,10.721573439101286,141.21
+861,hp,notebook,8,1,0,0,0,core i5,2.6,intel,ssd,256,no secondary memory,0,amd radeon,windows,1.84,11.18267988243989,141.21
+862,toshiba,notebook,4,1,0,0,0,core i5,2.5,intel,ssd,128,no secondary memory,0,intel hd,windows,1.05,11.134075023561454,165.63
+863,lenovo,gaming,8,1,1,0,0,core i5,2.5,intel,hdd,1024,no secondary memory,0,nvidia geforce,no os,2.5,10.900173422280695,141.21
+864,dell,ultrabook,16,0,0,1,0,core i7,2.5,intel,ssd,512,no secondary memory,0,others,windows,1.29,11.68979217108122,276.05
+865,hp,notebook,4,1,0,0,0,core i5,2.3,intel,hdd,500,no secondary memory,0,intel hd,windows,2.07,10.78900562574303,141.21
+866,toshiba,ultrabook,8,0,0,0,0,core i5,2.3,intel,ssd,256,no secondary memory,0,intel hd,windows,1.2,10.974070668482735,117.83
+867,lenovo,2 in 1 convertible,8,1,1,1,0,core i7,2.7,intel,ssd,256,no secondary memory,0,intel hd,windows,1.37,11.551145677789926,165.63
+868,acer,notebook,8,1,1,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.56,10.780175546294757,157.35
+869,dell,workstation,8,1,0,0,0,core i7,2.8,intel,hdd,1024,no secondary memory,0,nvidia,windows,2.23,11.458805442305984,141.21
+870,lenovo,notebook,4,0,0,0,0,core i5,2.5,intel,hdd,500,no secondary memory,0,intel hd,windows,2.38,10.9368570721423,100.45
+871,lenovo,notebook,4,1,0,0,0,core i3,2.0,intel,hdd,1024,no secondary memory,0,amd radeon,no os,2.2,10.147261623643049,141.21
+872,toshiba,notebook,8,1,1,0,0,core i7,2.7,intel,ssd,256,no secondary memory,0,intel hd,windows,2.0,11.211180167298883,141.21
+873,lenovo,notebook,4,1,1,0,0,core i3,2.4,intel,ssd,180,no secondary memory,0,intel hd,windows,1.44,10.575431525444971,165.63
+874,samsung,ultrabook,16,1,0,0,0,core i7,2.7,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,1.23,11.49796125761926,146.86
+875,dell,ultrabook,8,1,0,0,0,core i7,2.8,intel,ssd,256,no secondary memory,0,intel hd,windows,1.6,11.408044834149253,176.23
+876,asus,notebook,4,0,0,0,0,pentium,1.1,intel,hdd,1024,no secondary memory,0,intel hd,linux,2.0,9.964497511865233,100.45
+877,others,ultrabook,8,1,1,0,0,core i5,2.3,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,1.28,10.816107555520821,165.63
+878,dell,notebook,4,1,0,0,0,core i5,2.5,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.18,10.79174911168878,141.21
+879,hp,notebook,4,1,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,2.04,10.70777173269934,141.21
+880,hp,2 in 1 convertible,4,1,0,1,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.28,11.41394455627644,165.63
+881,hp,2 in 1 convertible,4,0,0,1,0,core i5,2.5,intel,hdd,500,no secondary memory,0,intel hd,windows,2.3,10.504687741429,100.45
+882,asus,notebook,4,0,0,0,0,celeron,1.1,intel,flash storage,32,no secondary memory,0,intel hd,windows,1.65,9.827763506006608,111.14
+883,lenovo,notebook,8,1,1,0,0,core i7,2.5,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,2.2,10.481345086360362,141.21
+884,dell,notebook,4,0,0,0,0,pentium,1.6,intel,hdd,500,no secondary memory,0,intel hd,windows,2.2,9.88635767027266,100.45
+885,hp,2 in 1 convertible,4,1,0,1,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.28,11.470547260182666,165.63
+886,dell,notebook,4,0,0,0,0,core i3,2.0,intel,hdd,1024,no secondary memory,0,amd radeon,linux,2.18,10.097395889248666,100.45
+887,asus,gaming,12,1,0,0,0,core i5,2.5,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.2,11.198054022287815,127.34
+888,acer,netbook,4,0,1,0,0,celeron,1.6,intel,flash storage,32,no secondary memory,0,intel hd,chrome os,1.25,9.669293165034833,135.09
+889,lenovo,notebook,4,0,0,0,0,a series,2.2,amd,hdd,500,no secondary memory,0,amd radeon,windows,2.8,9.913097231314559,106.11
+890,hp,notebook,4,1,0,0,0,core i5,2.5,intel,ssd,128,no secondary memory,0,intel hd,windows,1.95,11.118388427393754,157.35
+891,hp,2 in 1 convertible,16,0,0,1,0,core i7,2.7,intel,ssd,256,no secondary memory,0,intel hd,windows,1.42,11.219074000897615,276.05
+892,samsung,ultrabook,8,1,0,0,0,core i7,2.7,intel,ssd,256,no secondary memory,0,intel hd,windows,1.17,11.413356147904066,146.86
+893,lenovo,ultrabook,8,1,1,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.32,11.470547260182666,157.35
+894,msi,gaming,16,0,1,0,1,core i7,2.6,intel,ssd,512,hdd,2048,nvidia geforce,windows,2.43,11.857498515504203,254.67
+895,toshiba,notebook,8,1,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.05,11.271974295006054,165.63
+896,dell,gaming,8,1,0,0,0,core i7,2.8,intel,hdd,1024,no secondary memory,0,nvidia geforce,linux,2.62,10.809669765045973,141.21
+897,hp,notebook,8,1,0,0,0,core i7,2.7,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,2.04,10.777955789556444,141.21
+898,dell,notebook,4,0,0,0,0,core i3,2.0,intel,hdd,1024,no secondary memory,0,amd radeon,windows,2.18,10.395555954379276,100.45
+899,dell,notebook,8,1,0,0,0,core i5,2.6,intel,hdd,500,no secondary memory,0,intel hd,windows,1.9,10.816107555520821,141.21
+900,dell,2 in 1 convertible,8,0,0,1,0,core i7,1.3,intel,ssd,512,no secondary memory,0,intel hd,windows,1.24,11.58299214638355,276.05
+901,asus,gaming,32,1,1,0,0,core i7,2.7,intel,ssd,256,ssd,256,nvidia geforce,windows,3.58,11.129394827810977,127.34
+902,dell,2 in 1 convertible,16,1,0,1,0,core i7,1.3,intel,ssd,256,no secondary memory,0,intel hd,windows,1.22,11.383485348791732,165.63
+903,lenovo,ultrabook,8,1,1,0,0,core i7,2.7,intel,flash storage,256,no secondary memory,0,intel hd,windows,1.13,11.600668174471034,157.35
+904,lenovo,notebook,8,1,1,0,0,core i5,2.5,intel,ssd,512,no secondary memory,0,intel hd,windows,1.95,11.5577851530238,141.21
+905,others,ultrabook,16,1,1,1,0,core i7,2.7,intel,ssd,512,no secondary memory,0,intel hd,windows,1.08,11.624777346052767,141.21
+906,hp,netbook,8,1,0,0,0,core i7,2.7,intel,ssd,512,no secondary memory,0,intel hd,windows,1.26,11.277383368370065,176.23
+907,acer,notebook,4,1,1,0,0,celeron,1.5,intel,flash storage,16,no secondary memory,0,intel hd,chrome os,2.2,9.858883414720413,141.21
+908,lenovo,notebook,8,1,1,0,0,core i5,2.3,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.6,10.646327347078008,141.21
+909,others,ultrabook,8,1,1,1,0,core i7,2.7,intel,ssd,512,no secondary memory,0,intel hd,windows,0.98,11.52464373704442,157.35
+910,dell,notebook,8,1,0,0,0,core i5,2.8,intel,ssd,256,no secondary memory,0,intel hd,windows,1.6,11.06979587215689,157.35
+911,hp,ultrabook,8,0,0,1,1,others,1.2,intel,ssd,240,no secondary memory,0,intel hd,windows,1.09,12.01471841670537,352.47
+912,lenovo,notebook,6,1,0,0,0,core i7,2.7,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,2.2,10.646327347078008,141.21
+913,hp,notebook,8,1,0,0,0,core i7,2.7,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,2.04,10.902128297437192,141.21
+914,acer,notebook,4,1,0,0,0,core i3,2.4,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.4,10.188167121983652,141.21
+915,lenovo,notebook,4,1,0,0,0,core i5,2.5,intel,ssd,128,no secondary memory,0,intel hd,windows,1.44,10.756618652168314,165.63
+916,hp,notebook,8,1,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.49,10.842494310694015,165.63
+917,msi,gaming,16,1,0,0,0,core i7,2.8,intel,ssd,256,hdd,1024,nvidia geforce,windows,2.7,11.352694739066088,127.34
+918,dell,gaming,16,1,0,0,0,core i7,2.8,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.6,11.18267988243989,141.21
+919,msi,gaming,8,1,0,0,0,core i5,2.5,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.2,10.99656454970556,141.21
+920,dell,notebook,4,0,0,0,0,core i5,2.5,intel,hdd,1024,no secondary memory,0,amd radeon,windows,2.18,10.504965342567825,100.45
+921,hp,ultrabook,8,1,0,0,0,core i7,2.5,intel,ssd,256,no secondary memory,0,amd radeon,windows,1.84,11.14336254093748,141.21
+922,hp,ultrabook,8,0,0,1,0,core i7,2.7,intel,ssd,256,no secondary memory,0,intel hd,windows,1.39,11.02220830408089,276.05
+923,toshiba,notebook,16,1,1,0,0,core i7,2.6,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,2.4,11.563884703567355,141.21
+924,lenovo,2 in 1 convertible,8,1,1,1,0,core i5,2.5,intel,ssd,512,no secondary memory,0,intel hd,windows,1.37,11.484896292248726,165.63
+925,dell,notebook,4,0,0,0,0,core i5,2.3,intel,hdd,500,no secondary memory,0,intel hd,windows,1.95,10.56846851326139,100.45
+926,lenovo,ultrabook,8,1,1,0,0,core i7,2.7,intel,ssd,256,no secondary memory,0,intel hd,windows,1.36,11.38409159312676,176.23
+927,hp,notebook,8,1,0,0,0,core i5,2.3,intel,ssd,256,no secondary memory,0,intel hd,windows,2.31,11.036037392231934,141.21
+928,dell,notebook,4,0,0,0,0,core i5,2.5,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.18,10.538089946921247,100.45
+929,hp,notebook,4,0,0,0,0,core i5,2.3,intel,hdd,500,no secondary memory,0,intel hd,windows,1.95,11.02220830408089,111.94
+930,lenovo,notebook,4,0,0,0,0,pentium,1.1,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.2,9.708902303129879,100.45
+931,hp,ultrabook,4,1,0,0,0,core i5,2.3,intel,hdd,500,no secondary memory,0,intel hd,windows,1.26,11.340108040487776,176.23
+932,hp,notebook,4,0,0,0,0,celeron,1.6,intel,hdd,1024,no secondary memory,0,intel hd,no os,1.86,9.641641503771682,100.45
+933,lenovo,2 in 1 convertible,16,0,1,1,0,core i7,2.2,intel,ssd,1024,no secondary memory,0,others,windows,1.3,11.470547260182666,276.05
+934,toshiba,notebook,4,1,1,0,0,core i5,2.3,intel,ssd,128,no secondary memory,0,intel hd,windows,1.47,10.983161640183987,157.35
+935,hp,netbook,8,1,0,0,0,core i5,2.3,intel,ssd,256,no secondary memory,0,intel hd,windows,1.26,11.395540949893968,176.23
+936,dell,notebook,4,0,0,0,0,core i3,2.0,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.18,10.300994746942523,100.45
+937,msi,gaming,8,1,0,0,0,core i7,2.8,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.2,11.064804181259648,141.21
+938,dell,ultrabook,8,1,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.36,11.377402604975963,157.35
+939,dell,gaming,16,0,0,0,0,core i7,2.7,intel,ssd,512,hdd,1024,nvidia geforce,windows,4.36,11.89782208458538,169.78
+940,hp,gaming,8,1,1,0,0,core i5,2.3,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.75,11.219074000897615,127.34
+941,asus,notebook,4,0,0,0,0,pentium,1.6,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,2.8,10.248438032778301,106.11
+942,acer,notebook,4,0,0,0,0,core i5,2.5,intel,hdd,500,no secondary memory,0,intel hd,windows,2.23,10.403666298916729,100.45
+943,toshiba,notebook,8,0,0,0,0,core i5,2.3,intel,ssd,256,no secondary memory,0,intel hd,windows,2.2,10.99575173454406,100.45
+944,lenovo,2 in 1 convertible,8,1,1,1,0,others,1.2,intel,ssd,256,no secondary memory,0,intel hd,windows,1.1,11.144911042902732,194.95
+945,lenovo,gaming,16,1,1,0,0,others,2.1,amd,ssd,512,hdd,1024,amd radeon,windows,2.5,10.882315804880687,141.21
+946,dell,ultrabook,8,1,0,1,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.36,11.2700742368519,176.23
+947,lenovo,notebook,8,1,0,0,0,core i7,2.7,intel,hdd,1024,no secondary memory,0,nvidia geforce,no os,2.2,10.50497986449436,141.21
+948,dell,notebook,4,0,0,0,0,core i3,2.0,intel,hdd,1024,no secondary memory,0,amd radeon,windows,2.36,10.46628456073464,106.11
+949,acer,notebook,4,0,0,0,0,celeron,1.6,intel,flash storage,32,no secondary memory,0,intel hd,chrome os,1.68,9.83063294843456,111.94
+950,hp,workstation,8,1,1,0,0,core i7,2.7,intel,ssd,8,no secondary memory,0,nvidia,windows,2.0,11.69380197819145,141.21
+951,dell,ultrabook,8,1,0,0,0,core i7,2.8,intel,ssd,256,no secondary memory,0,intel hd,windows,1.36,11.45711672814165,157.35
+952,toshiba,notebook,8,1,0,0,0,core i5,2.3,intel,ssd,256,no secondary memory,0,intel hd,windows,1.2,11.261752740934515,165.63
+953,asus,2 in 1 convertible,8,1,0,0,0,others,1.2,intel,flash storage,64,no secondary memory,0,intel hd,chrome os,1.2,11.030873869571886,176.23
+954,lenovo,ultrabook,8,1,1,0,0,core i7,2.6,intel,ssd,256,no secondary memory,0,intel hd,windows,1.7,11.281414378270961,157.35
+955,dell,gaming,16,0,1,0,1,core i7,2.8,intel,ssd,512,hdd,1024,nvidia geforce,windows,4.36,12.031987793755118,254.67
+956,dell,2 in 1 convertible,8,1,0,1,0,core i5,1.2,intel,ssd,256,no secondary memory,0,intel hd,windows,1.24,11.52464373704442,165.63
+957,hp,2 in 1 convertible,4,0,0,1,0,pentium,1.1,intel,ssd,256,no secondary memory,0,intel hd,windows,1.45,10.62842405558548,135.09
+958,dell,ultrabook,8,0,0,0,0,core i7,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.3,11.120757161229305,276.05
+959,acer,2 in 1 convertible,4,0,1,1,0,celeron,1.6,intel,flash storage,32,no secondary memory,0,intel hd,chrome os,1.25,9.93914036985058,135.09
+960,toshiba,notebook,8,1,0,0,0,core i5,2.4,intel,ssd,256,no secondary memory,0,intel hd,windows,1.2,11.311846686253432,165.63
+961,lenovo,ultrabook,8,1,1,0,0,core i5,2.6,intel,ssd,256,no secondary memory,0,intel hd,windows,1.36,11.448630114264331,176.23
+962,acer,notebook,12,1,0,0,0,core i5,2.5,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.4,10.892276046585742,141.21
+963,toshiba,ultrabook,8,1,0,1,0,core i7,2.7,intel,ssd,512,no secondary memory,0,intel hd,windows,1.1,11.465531925066934,176.23
+964,hp,notebook,8,0,0,0,0,core i5,2.5,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,2.04,10.716671227805323,100.45
+965,dell,notebook,4,0,0,0,0,core i3,2.0,intel,hdd,1024,no secondary memory,0,amd radeon,linux,2.25,10.118930731940145,100.45
+966,dell,notebook,4,0,0,0,0,core i5,2.5,intel,hdd,500,no secondary memory,0,intel hd,windows,1.9,10.690944412566814,100.45
+967,hp,notebook,4,1,0,0,0,core i3,2.4,intel,hdd,500,no secondary memory,0,intel hd,windows,2.04,10.50497986449436,141.21
+968,dell,gaming,32,1,1,0,0,core i7,2.8,intel,ssd,256,hdd,1024,nvidia geforce,windows,4.42,12.030401247333158,127.34
+969,lenovo,notebook,6,1,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,2.4,10.519472871796927,141.21
+970,dell,2 in 1 convertible,16,0,0,1,0,core i7,1.3,intel,ssd,512,no secondary memory,0,intel hd,windows,1.22,11.52464373704442,276.05
+971,dell,ultrabook,8,0,0,1,0,core i7,2.6,intel,ssd,256,no secondary memory,0,intel hd,windows,1.5,11.557779989899673,209.8
+972,dell,gaming,32,1,0,0,0,core i7,2.6,intel,ssd,256,hdd,1024,nvidia geforce,windows,4.42,11.91293572239543,127.34
+973,toshiba,notebook,8,1,0,0,0,core i5,2.3,intel,ssd,256,no secondary memory,0,intel hd,windows,1.95,11.048830743691845,157.35
+974,asus,gaming,16,1,0,0,0,core i7,2.8,intel,ssd,256,hdd,1024,nvidia geforce,windows,2.73,11.601107298375089,127.34
+975,hp,notebook,8,1,1,0,0,core i5,2.7,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.04,10.862092668762644,141.21
+976,lenovo,notebook,4,0,0,0,0,core i5,2.3,intel,hybrid,508,no secondary memory,0,intel hd,windows,1.7,10.885314307876945,111.94
+977,asus,2 in 1 convertible,16,0,0,1,1,core i7,2.7,intel,ssd,512,hdd,2048,nvidia geforce,windows,2.3,11.470547260182666,282.42
+978,hp,notebook,6,0,0,0,0,core i7,2.7,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.04,10.336863503805128,100.45
+979,asus,gaming,16,1,0,0,0,core i7,2.8,intel,ssd,256,hdd,1024,nvidia geforce,windows,2.99,11.442360501250736,127.34
+980,dell,2 in 1 convertible,12,1,1,1,0,core i7,2.7,intel,ssd,512,no secondary memory,0,intel hd,windows,2.19,11.144911042902732,141.21
+981,toshiba,notebook,4,1,0,0,0,core i5,2.3,intel,ssd,128,no secondary memory,0,intel hd,windows,1.2,11.061462490597744,165.63
+982,lenovo,notebook,6,1,0,0,0,a series,3.6,amd,ssd,256,no secondary memory,0,amd radeon,windows,2.2,10.283659467741664,141.21
+983,others,notebook,4,0,0,0,0,core i5,2.3,intel,ssd,256,no secondary memory,0,intel hd,windows,2.3,10.450993742936223,100.45
+984,toshiba,notebook,4,0,0,0,0,core i5,2.3,intel,hdd,500,no secondary memory,0,intel hd,windows,1.75,10.794485091507655,111.94
+985,dell,notebook,4,0,0,0,0,core i5,2.5,intel,hdd,500,no secondary memory,0,amd radeon,windows,2.25,10.370822624347584,100.45
+986,hp,notebook,8,1,0,0,0,core i5,2.5,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.04,10.667644768738763,141.21
+987,lenovo,gaming,8,1,1,0,0,core i7,2.8,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.5,11.056428922922915,141.21
+988,dell,notebook,8,0,0,0,0,core i7,2.7,intel,hdd,1024,no secondary memory,0,amd radeon,windows,2.36,10.594300009749354,100.45
+989,dell,notebook,8,1,0,0,0,core i5,2.5,intel,ssd,128,no secondary memory,0,intel hd,windows,1.6,10.99575173454406,157.35
+990,hp,netbook,8,1,0,0,0,others,1.2,intel,ssd,512,no secondary memory,0,intel hd,windows,0.97,11.529371878240365,176.23
+991,hp,notebook,4,1,0,0,0,core i3,2.0,intel,ssd,128,hdd,1024,amd radeon,windows,2.1,10.188167121983652,141.21
+992,lenovo,notebook,4,0,0,0,0,celeron,1.1,intel,ssd,128,no secondary memory,0,intel hd,no os,1.9,9.576276399390682,100.45
+993,lenovo,notebook,8,1,0,0,0,core i5,2.3,intel,ssd,256,no secondary memory,0,intel hd,windows,2.3,11.18267988243989,141.21
+994,dell,2 in 1 convertible,8,1,0,1,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.68,10.765658261746038,165.63
+995,asus,notebook,8,0,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.4,11.02307824758943,276.05
+996,hp,ultrabook,8,1,1,1,0,core i7,2.7,intel,ssd,256,no secondary memory,0,intel hd,windows,1.11,11.18267988243989,165.63
+997,acer,notebook,4,0,0,0,0,pentium,1.1,intel,hdd,500,no secondary memory,0,intel hd,windows,2.4,9.915732278952564,100.45
+998,asus,gaming,16,1,0,0,0,core i7,2.8,intel,ssd,256,hdd,1024,nvidia geforce,windows,2.5,11.470547260182666,141.21
+999,hp,ultrabook,8,1,0,0,0,core i7,2.7,intel,ssd,512,no secondary memory,0,intel hd,windows,1.48,11.6200017877887,157.35
+1000,acer,gaming,8,1,1,0,0,core i7,2.8,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.7,11.114428026177658,141.21
+1001,hp,notebook,8,1,1,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.34,11.056428922922915,165.63
+1002,dell,notebook,4,0,0,0,0,core i3,2.4,intel,ssd,128,no secondary memory,0,intel hd,windows,2.18,10.280009828654116,100.45
+1003,hp,notebook,4,0,0,0,0,core i5,2.5,intel,hdd,500,no secondary memory,0,intel hd,windows,1.64,10.633572072102883,111.94
+1004,toshiba,notebook,4,1,0,0,0,core i5,2.3,intel,ssd,128,no secondary memory,0,intel hd,windows,1.2,11.061462490597744,165.63
+1005,hp,notebook,4,0,0,0,0,core i5,2.4,intel,ssd,256,no secondary memory,0,intel hd,windows,1.48,10.978617441843664,111.94
+1006,hp,notebook,4,1,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.95,11.06979587215689,157.35
+1007,hp,ultrabook,8,1,0,0,0,core i7,2.6,intel,ssd,256,no secondary memory,0,intel hd,windows,1.43,11.254189968552817,157.35
+1008,hp,notebook,8,1,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,1.64,10.931401408932176,157.35
+1009,hp,notebook,4,0,0,0,0,core i3,2.4,intel,hdd,500,no secondary memory,0,intel hd,windows,1.64,10.503518943854685,111.94
+1010,dell,gaming,8,1,0,0,0,core i5,2.5,intel,hybrid,1024,no secondary memory,0,nvidia geforce,windows,2.65,10.830969824842061,141.21
+1011,hp,ultrabook,4,1,0,0,0,core i5,2.5,intel,hdd,500,no secondary memory,0,intel hd,windows,1.26,11.314449160071012,176.23
+1012,hp,notebook,4,1,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.48,11.34705032144641,157.35
+1013,hp,ultrabook,8,1,0,0,0,core i7,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.54,11.518415865101304,157.35
+1014,hp,notebook,4,0,0,0,0,core i3,2.4,intel,hdd,500,no secondary memory,0,intel hd,windows,1.49,10.660172753900062,117.83
+1015,toshiba,notebook,8,0,0,0,0,core i5,2.3,intel,ssd,256,no secondary memory,0,intel hd,windows,1.5,11.07393666482292,117.83
+1016,hp,notebook,4,0,0,0,0,core i3,2.4,intel,ssd,256,no secondary memory,0,intel hd,windows,2.04,10.621938622233497,100.45
+1017,lenovo,notebook,16,0,1,0,1,core i7,2.7,intel,ssd,512,no secondary memory,0,nvidia,windows,2.4,11.971204630519404,254.67
+1018,toshiba,notebook,8,1,1,0,0,core i5,2.3,intel,ssd,256,no secondary memory,0,intel hd,windows,1.47,11.282092425171639,157.35
+1019,hp,notebook,8,1,0,0,0,core i7,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.43,11.684869359618002,157.35
+1020,dell,2 in 1 convertible,4,1,1,1,0,core i3,2.3,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.08,10.655147715205155,141.21
+1021,toshiba,ultrabook,8,1,0,0,0,core i5,2.3,intel,ssd,256,no secondary memory,0,intel hd,windows,1.2,11.34705032144641,165.63
+1022,hp,notebook,8,1,1,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.11,11.02220830408089,165.63
+1023,hp,notebook,8,1,0,0,0,core i7,2.7,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,1.64,11.053421876845421,157.35
+1024,dell,notebook,8,1,0,0,0,core i5,2.4,intel,hdd,500,no secondary memory,0,intel hd,windows,2.09,10.9287101751095,141.21
+1025,hp,ultrabook,4,0,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.26,11.32736089528991,125.37
+1026,hp,notebook,4,0,0,0,0,core i5,2.5,intel,hdd,500,no secondary memory,0,intel hd,windows,2.31,11.056428922922915,111.94
+1027,hp,notebook,4,0,0,0,0,core i5,2.5,intel,hdd,500,no secondary memory,0,intel hd,windows,1.95,10.941585213338247,111.94
+1028,dell,ultrabook,8,0,0,1,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.29,11.368208546953756,276.05
+1029,hp,notebook,8,1,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,2.63,10.960277346350399,127.34
+1030,hp,notebook,4,0,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.64,10.855945108418139,111.94
+1031,acer,notebook,6,0,0,0,0,a series,3.0,amd,hdd,1024,no secondary memory,0,amd radeon,windows,2.1,9.989276182274935,100.45
+1032,msi,gaming,8,1,0,0,0,core i7,2.8,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.7,11.058781011551995,127.34
+1033,hp,notebook,8,1,0,0,0,core i5,2.3,intel,ssd,256,no secondary memory,0,intel hd,windows,1.95,11.061462490597744,157.35
+1034,hp,notebook,8,1,0,0,0,core i7,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.84,11.089509041829329,141.21
+1035,hp,ultrabook,8,1,0,0,0,core i7,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.26,11.18267988243989,176.23
+1036,hp,notebook,4,0,0,0,0,core i5,2.5,intel,hdd,500,no secondary memory,0,intel hd,windows,2.04,10.584910269399515,100.45
+1037,toshiba,ultrabook,8,1,1,0,0,core i7,2.6,intel,ssd,256,no secondary memory,0,intel hd,windows,1.47,11.428543355697593,157.35
+1038,dell,notebook,8,1,0,0,0,core i5,2.4,intel,ssd,256,no secondary memory,0,intel hd,windows,2.09,10.944364437408183,141.21
+1039,hp,notebook,8,1,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.64,10.893771407111917,157.35
+1040,lenovo,2 in 1 convertible,4,1,1,1,0,core i7,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.8,10.717261720884188,141.21
+1041,others,notebook,2,0,0,0,0,others,1.44,intel,flash storage,32,no secondary memory,0,intel hd,windows,1.45,9.326470486755658,111.94
+1042,toshiba,notebook,16,1,1,0,0,core i7,2.5,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,2.4,11.237488118934884,141.21
+1043,lenovo,notebook,8,1,0,0,0,core i5,2.3,intel,ssd,256,no secondary memory,0,intel hd,windows,2.3,10.931725480185618,141.21
+1044,hp,notebook,4,1,0,0,0,core i5,2.3,intel,hdd,500,no secondary memory,0,intel hd,windows,1.54,10.88331630521427,157.35
+1045,hp,notebook,8,1,0,0,0,core i5,2.4,intel,ssd,256,hdd,500,intel hd,windows,1.84,11.626842905498286,141.21
+1046,hp,notebook,8,1,0,0,0,core i5,2.3,intel,ssd,256,no secondary memory,0,intel hd,windows,1.43,11.26789820240601,157.35
+1047,msi,gaming,16,1,1,0,0,core i7,2.7,intel,ssd,256,hdd,1024,nvidia geforce,windows,3.78,11.318754378987125,127.34
+1048,lenovo,gaming,16,1,1,0,0,core i7,2.6,intel,ssd,128,hdd,1024,nvidia geforce,windows,4.6,11.711863778907471,127.34
+1049,asus,netbook,4,0,0,0,0,celeron,1.6,intel,flash storage,16,no secondary memory,0,intel hd,chrome os,1.2,9.638174093466311,135.09
+1050,lenovo,notebook,16,0,1,0,0,core i7,2.6,intel,ssd,256,no secondary memory,0,intel hd,windows,1.1,11.846490622987277,209.8
+1051,hp,notebook,8,1,1,0,0,core i7,2.7,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,1.91,10.862092668762644,141.21
+1052,dell,2 in 1 convertible,8,1,1,1,0,core i5,2.7,intel,ssd,256,no secondary memory,0,intel hd,windows,2.3,10.97315700921406,141.21
+1053,hp,notebook,4,0,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,2.04,10.862092668762644,100.45
+1054,dell,ultrabook,16,0,0,1,0,core i7,2.7,intel,ssd,1024,no secondary memory,0,intel hd,windows,1.2,11.696022720831856,276.05
+1055,hp,notebook,4,0,0,0,0,core i3,2.3,intel,hdd,500,no secondary memory,0,intel hd,windows,2.31,10.533971519136974,100.45
+1056,hp,notebook,4,0,0,0,0,core i5,2.5,intel,hdd,500,no secondary memory,0,intel hd,no os,1.96,10.188167121983652,100.45
+1057,acer,notebook,8,0,0,0,0,a series,2.2,amd,hdd,1024,no secondary memory,0,amd radeon,windows,2.4,10.082583913974387,100.45
+1058,dell,2 in 1 convertible,12,1,1,1,0,core i7,2.7,intel,ssd,256,no secondary memory,0,intel hd,windows,1.6,11.144911042902732,165.63
+1059,msi,gaming,16,1,0,0,0,core i7,2.6,intel,ssd,256,hdd,1024,nvidia geforce,windows,2.94,11.481603204750256,141.21
+1060,hp,notebook,8,1,0,0,0,core i7,2.7,intel,ssd,256,no secondary memory,0,intel hd,windows,2.04,10.950974953688085,141.21
+1061,asus,gaming,16,1,1,0,0,core i7,2.6,intel,hdd,1024,no secondary memory,0,nvidia geforce,no os,4.0,10.881314302543597,127.34
+1062,dell,notebook,4,1,0,0,0,core i5,2.5,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.25,10.301710499387234,141.21
+1063,dell,notebook,16,1,0,0,0,core i7,2.7,intel,hdd,2048,no secondary memory,0,amd radeon,windows,2.32,10.873255921383574,141.21
+1064,msi,gaming,16,1,0,0,0,core i7,2.6,intel,ssd,256,hdd,1024,nvidia geforce,windows,1.8,11.540318039137862,141.21
+1065,dell,ultrabook,8,1,0,0,0,core i7,2.7,intel,ssd,256,no secondary memory,0,intel hd,windows,1.29,11.260381938800737,165.63
+1067,dell,2 in 1 convertible,8,1,0,1,0,core i7,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.62,10.657682089077241,165.63
+1068,dell,gaming,16,0,0,0,1,core i7,2.6,intel,ssd,256,hdd,1024,nvidia geforce,windows,3.21,11.167743084945378,282.42
+1069,apple,ultrabook,8,0,1,0,0,others,1.1,intel,flash storage,256,no secondary memory,0,intel hd,mac,0.92,11.145680569681762,226.42
+1070,dell,notebook,4,0,0,0,0,core i3,2.3,intel,hdd,500,no secondary memory,0,intel hd,windows,2.06,10.153463474305626,100.45
+1071,hp,notebook,4,0,0,0,0,core i5,2.3,intel,hdd,500,no secondary memory,0,intel hd,windows,2.31,11.064804181259648,100.45
+1072,hp,ultrabook,8,1,0,0,0,core i5,2.3,intel,ssd,256,no secondary memory,0,intel hd,windows,1.26,11.064804181259648,176.23
+1073,hp,notebook,8,1,0,0,0,core i7,2.7,intel,ssd,256,no secondary memory,0,intel hd,windows,1.49,10.969494001455322,165.63
+1074,lenovo,ultrabook,8,1,1,1,0,core i7,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.3,11.421848562191489,176.23
+1075,lenovo,notebook,8,0,0,0,0,core i5,2.3,intel,hdd,1024,no secondary memory,0,amd radeon,windows,3.0,10.46628456073464,106.11
+1076,lenovo,notebook,4,1,1,0,0,core i5,2.3,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,2.3,10.860047678274917,141.21
+1077,msi,gaming,16,1,0,0,0,core i7,2.8,intel,ssd,256,hdd,1024,nvidia geforce,windows,3.78,11.799206957067087,127.34
+1078,lenovo,notebook,4,0,0,0,0,core i5,2.3,intel,hdd,500,no secondary memory,0,intel hd,windows,2.1,10.267130165790453,100.45
+1079,hp,notebook,4,1,0,0,0,core i5,2.3,intel,hdd,500,no secondary memory,0,intel hd,windows,2.31,10.821440901496183,141.21
+1080,lenovo,ultrabook,8,0,1,1,0,others,1.2,intel,ssd,512,no secondary memory,0,intel hd,windows,0.99,11.219074000897615,234.98
+1081,lenovo,gaming,32,1,1,0,0,core i7,2.7,intel,ssd,512,hybrid,1024,nvidia geforce,windows,4.6,12.05888963501851,127.34
+1082,lenovo,2 in 1 convertible,4,0,1,1,0,others,1.44,intel,flash storage,64,no secondary memory,0,intel hd,windows,0.69,10.446778527134928,224.17
+1083,hp,ultrabook,16,0,1,0,1,core i7,2.7,intel,ssd,512,no secondary memory,0,intel hd,windows,1.3,11.600668174471034,331.26
+1084,dell,notebook,8,1,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,2.18,10.59563423276249,141.21
+1085,hp,notebook,4,1,0,0,0,core i5,2.3,intel,hdd,500,no secondary memory,0,intel hd,windows,1.54,10.913835861853908,157.35
+1086,hp,workstation,8,1,0,0,0,core i7,2.5,intel,ssd,256,no secondary memory,0,others,windows,1.9,11.285442512056921,141.21
+1087,lenovo,notebook,8,1,0,0,0,core i5,2.3,intel,ssd,180,no secondary memory,0,intel hd,windows,1.7,11.064804181259648,157.35
+1088,hp,notebook,4,0,0,0,0,pentium,1.5,intel,flash storage,32,no secondary memory,0,intel hd,chrome os,1.29,10.397183294038651,276.05
+1089,acer,notebook,4,0,0,0,0,a series,2.2,amd,hdd,500,no secondary memory,0,amd radeon,windows,2.4,9.933985719261916,100.45
+1090,dell,notebook,4,0,0,0,0,pentium,1.6,intel,hdd,500,no secondary memory,0,intel hd,linux,2.2,9.950616814361046,100.45
+1091,hp,notebook,4,0,0,0,0,core i3,2.0,intel,hdd,1024,no secondary memory,0,intel hd,no os,1.86,9.82197105102846,100.45
+1092,asus,gaming,8,1,1,0,0,core i7,2.8,intel,ssd,256,hdd,1024,nvidia geforce,windows,2.7,11.352694739066088,127.34
+1093,dell,ultrabook,4,1,1,0,0,core i5,1.6,intel,ssd,256,no secondary memory,0,amd radeon,windows,1.4,10.682851190053809,165.63
+1094,hp,netbook,4,0,0,0,0,core i5,2.3,intel,ssd,128,no secondary memory,0,intel hd,windows,2.4,11.352694739066088,125.37
+1095,acer,notebook,8,1,0,0,0,core i5,2.5,intel,ssd,256,hdd,1024,nvidia geforce,windows,2.4,10.658921971998408,141.21
+1096,dell,notebook,8,1,0,0,0,core i5,2.5,intel,hdd,1024,no secondary memory,0,amd radeon,windows,2.36,10.43515232504782,141.21
+1097,msi,gaming,8,1,0,0,0,core i7,2.6,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,2.6,11.352694739066088,127.34
+1098,hp,notebook,4,0,0,0,0,pentium,1.6,intel,hdd,1024,no secondary memory,0,intel hd,windows,1.96,10.190169124654325,100.45
+1099,asus,gaming,16,1,1,0,0,core i7,2.6,intel,ssd,128,hdd,1024,nvidia geforce,windows,4.3,11.715790550995315,127.34
+1100,dell,ultrabook,4,0,0,0,0,core i3,2.3,intel,hdd,500,no secondary memory,0,intel hd,windows,1.5,11.010081072937417,125.37
+1101,dell,ultrabook,4,0,0,0,0,core i3,2.3,intel,ssd,128,no secondary memory,0,intel hd,windows,1.5,11.03772692551405,125.37
+1102,acer,notebook,4,0,0,0,0,celeron,1.5,intel,ssd,16,no secondary memory,0,intel hd,chrome os,2.2,9.317895278196945,100.45
+1103,hp,workstation,8,1,1,0,0,core i7,2.6,intel,hdd,1024,no secondary memory,0,others,windows,3.0,11.947682155153789,127.34
+1104,lenovo,gaming,16,1,0,0,0,core i7,2.8,intel,ssd,512,no secondary memory,0,nvidia geforce,windows,2.4,11.064804181259648,141.21
+1105,dell,ultrabook,8,0,0,0,0,core i5,2.3,intel,ssd,256,no secondary memory,0,intel hd,windows,1.5,11.229102204384798,125.37
+1106,msi,gaming,8,1,0,0,0,core i7,2.6,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.9,11.296213685396177,127.34
+1107,lenovo,2 in 1 convertible,4,1,1,1,0,core i5,2.3,intel,ssd,256,no secondary memory,0,intel hd,windows,2.1,10.740600003012675,141.21
+1108,hp,notebook,4,1,0,0,0,a series,2.5,amd,hdd,1024,no secondary memory,0,amd radeon,windows,2.1,9.962013031516571,141.21
+1109,asus,gaming,16,1,1,0,0,core i7,2.6,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.59,11.175239371923306,141.21
+1110,hp,notebook,8,0,0,1,0,others,1.1,intel,ssd,256,no secondary memory,0,intel hd,windows,1.16,11.413356147904066,276.05
+1111,dell,notebook,4,0,0,0,0,core i5,2.3,intel,hdd,500,no secondary memory,0,amd radeon,windows,2.24,10.620846986429969,100.45
+1112,lenovo,notebook,4,0,0,0,0,core i3,2.0,intel,ssd,128,no secondary memory,0,intel hd,windows,2.1,10.03701794516015,100.45
+1113,hp,ultrabook,8,1,0,0,0,core i7,2.5,intel,ssd,512,no secondary memory,0,intel hd,windows,1.16,11.56084210487126,165.63
+1114,lenovo,2 in 1 convertible,4,0,1,1,0,others,1.44,intel,flash storage,64,no secondary memory,0,intel hd,windows,0.69,10.283659467741664,224.17
+1115,dell,ultrabook,8,1,0,0,0,core i7,2.4,intel,ssd,256,no secondary memory,0,others,windows,1.23,11.204674904025435,165.63
+1116,lenovo,gaming,16,1,1,0,0,core i7,2.7,intel,ssd,256,hybrid,1024,nvidia geforce,windows,4.6,11.894913599632591,127.34
+1117,razer,ultrabook,8,0,0,1,1,core i7,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.25,10.911903762066183,352.47
+1118,toshiba,ultrabook,16,1,0,0,0,core i7,2.7,intel,ssd,512,no secondary memory,0,intel hd,windows,1.05,11.683522558067624,165.63
+1119,asus,gaming,8,1,0,0,0,core i7,2.6,intel,ssd,128,hdd,1024,nvidia geforce,windows,3.52,11.155242441661613,127.34
+1120,others,notebook,4,1,0,0,0,others,1.44,intel,flash storage,32,no secondary memory,0,intel hd,windows,1.35,9.253675685462651,165.63
+1121,hp,notebook,8,1,0,0,0,core i5,2.3,intel,ssd,256,no secondary memory,0,intel hd,windows,1.16,11.408044834149253,165.63
+1122,hp,notebook,8,1,0,0,0,core i5,2.3,intel,ssd,256,no secondary memory,0,intel hd,windows,1.43,11.29741074002049,157.35
+1123,dell,notebook,4,0,0,0,0,core i5,2.3,intel,hdd,500,no secondary memory,0,intel hd,linux,2.09,10.236346483308921,100.45
+1124,asus,notebook,4,0,0,0,0,core i3,2.4,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.0,10.050907057320817,100.45
+1125,lenovo,2 in 1 convertible,8,1,1,1,0,core i7,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.8,11.395540949893968,157.35
+1126,lenovo,2 in 1 convertible,4,0,1,1,0,others,1.44,intel,flash storage,64,no secondary memory,0,intel hd,windows,0.69,10.147261623643049,224.17
+1127,hp,ultrabook,8,0,0,0,0,core i5,2.4,intel,ssd,256,no secondary memory,0,intel hd,windows,1.26,11.52253514374866,125.37
+1128,lenovo,gaming,8,1,1,0,0,core i5,2.5,intel,ssd,128,hdd,1024,nvidia geforce,no os,2.4,10.872255357854845,141.21
+1129,hp,gaming,8,1,1,0,0,core i5,2.3,intel,ssd,128,hdd,1024,nvidia geforce,windows,3.35,11.004648590381796,127.34
+1130,hp,notebook,8,0,0,0,0,core i7,2.7,intel,hdd,2048,no secondary memory,0,intel hd,windows,2.04,10.419692282932575,100.45
+1131,lenovo,2 in 1 convertible,8,1,1,1,0,core i7,2.6,intel,ssd,512,no secondary memory,0,nvidia,windows,1.8,11.601341479993799,157.35
+1132,asus,notebook,4,0,0,0,0,celeron,1.1,intel,flash storage,32,no secondary memory,0,intel hd,windows,1.5,9.60318213992277,111.94
+1133,hp,ultrabook,8,1,0,0,0,core i7,2.7,intel,ssd,256,no secondary memory,0,intel hd,windows,1.84,10.598297350181973,141.21
+1134,acer,notebook,4,1,0,0,0,core i5,2.5,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,2.23,10.398807989765654,141.21
+1135,lenovo,notebook,16,1,0,0,0,core i7,2.5,intel,hybrid,1024,no secondary memory,0,amd radeon,windows,2.5,10.977716980635755,141.21
+1136,hp,workstation,8,1,1,0,0,core i7,2.6,intel,ssd,256,no secondary memory,0,nvidia,windows,3.0,12.256879964350725,127.34
+1137,dell,notebook,8,0,0,0,0,core i5,2.5,intel,hdd,1024,no secondary memory,0,amd radeon,windows,2.5,10.639970046582542,100.45
+1138,msi,gaming,16,1,0,0,0,core i7,2.7,intel,ssd,256,hdd,1024,nvidia geforce,windows,3.78,11.758368289071829,127.34
+1139,hp,ultrabook,8,1,0,0,0,core i7,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.88,11.658835771704315,141.21
+1140,lenovo,2 in 1 convertible,16,0,1,1,0,core i7,2.6,intel,ssd,512,no secondary memory,0,intel hd,windows,2.8,11.775314344519382,209.8
+1141,msi,gaming,8,1,0,0,0,core i7,2.8,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.4,11.016797630894773,141.21
+1142,hp,2 in 1 convertible,8,1,0,1,0,core i5,2.4,intel,ssd,256,no secondary memory,0,intel hd,windows,1.48,11.371282634834179,165.63
+1143,hp,workstation,8,1,1,0,0,core i7,2.6,intel,ssd,256,no secondary memory,0,nvidia,windows,2.59,11.684869359618002,141.21
+1144,hp,2 in 1 convertible,8,0,0,1,0,core i7,2.6,intel,ssd,256,no secondary memory,0,intel hd,windows,1.48,11.470547260182666,220.84
+1145,hp,workstation,8,1,0,0,0,core i7,2.6,intel,ssd,256,no secondary memory,0,nvidia,windows,2.0,11.52464373704442,141.21
+1146,hp,ultrabook,8,1,0,0,0,core i7,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.26,11.714898493846139,176.23
+1147,dell,notebook,8,1,0,0,0,core i7,2.7,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,2.18,10.893167584095085,141.21
+1148,hp,notebook,8,1,0,0,0,core i5,2.3,intel,ssd,256,no secondary memory,0,intel hd,windows,1.88,11.340108040487776,141.21
+1149,lenovo,2 in 1 convertible,8,0,1,1,0,core i7,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.27,11.733039792816312,209.8
+1150,lenovo,notebook,4,0,0,0,0,core i3,2.0,intel,hdd,1024,no secondary memory,0,intel hd,no os,1.9,9.801561133612584,100.45
+1151,hp,notebook,4,0,0,0,0,others,1.8,amd,hdd,500,no secondary memory,0,amd radeon,windows,1.86,9.669293165034833,100.45
+1152,lenovo,notebook,8,1,0,0,0,core i5,2.3,intel,hdd,1024,no secondary memory,0,amd radeon,no os,2.32,10.370822624347584,141.21
+1153,dell,gaming,8,1,0,0,0,core i7,2.8,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,2.62,11.064804181259648,141.21
+1154,dell,notebook,8,0,1,1,1,core i5,2.3,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,2.04,11.694548694657223,282.42
+1155,hp,notebook,4,1,0,0,0,a series,2.5,amd,ssd,256,no secondary memory,0,amd radeon,windows,1.91,10.147031983530418,141.21
+1156,msi,gaming,16,1,0,0,0,core i7,2.8,intel,ssd,256,hdd,1024,nvidia geforce,windows,2.7,11.283969806033763,127.34
+1157,lenovo,ultrabook,12,1,0,0,0,core i7,2.6,intel,ssd,512,no secondary memory,0,intel hd,windows,1.4,11.715790550995315,157.35
+1158,lenovo,notebook,8,1,0,0,0,core i5,2.3,intel,hybrid,1024,no secondary memory,0,amd radeon,windows,2.5,10.645680816896235,141.21
+1159,hp,2 in 1 convertible,8,0,0,1,0,core i7,2.6,intel,ssd,512,no secondary memory,0,intel hd,windows,1.48,11.596756189041978,220.84
+1160,lenovo,ultrabook,8,1,0,0,0,core i7,2.6,intel,ssd,256,no secondary memory,0,intel hd,windows,1.7,11.288114524334732,157.35
+1161,msi,gaming,16,1,0,0,0,core i7,2.6,intel,ssd,256,hdd,1024,nvidia geforce,windows,1.7,11.453730720391919,157.35
+1162,hp,gaming,8,1,1,0,0,core i7,2.8,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,2.62,10.776844060703754,141.21
+1163,lenovo,notebook,8,0,0,0,0,core i3,2.0,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.2,10.104611236292678,100.45
+1164,hp,notebook,4,0,0,0,0,core i5,2.3,intel,hdd,500,no secondary memory,0,intel hd,no os,2.1,10.143056662715502,100.45
+1165,dell,gaming,8,0,0,0,1,core i7,2.8,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.62,11.2874471903093,282.42
+1166,lenovo,notebook,8,1,1,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.95,11.212620052356872,141.21
+1167,lenovo,notebook,4,1,0,0,0,core i3,2.0,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,2.2,10.12402932214978,141.21
+1168,hp,notebook,2,0,0,0,0,celeron,1.6,intel,flash storage,32,no secondary memory,0,intel hd,windows,1.44,9.493013922696841,111.94
+1169,msi,gaming,8,1,1,0,0,core i7,2.7,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,2.2,10.70777173269934,141.21
+1170,hp,notebook,8,1,0,0,0,core i7,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.96,10.49618215379083,141.21
+1171,hp,notebook,16,1,0,0,0,core i7,1.8,intel,ssd,512,no secondary memory,0,intel uhd,windows,2.1,11.030873869571886,141.21
+1172,asus,notebook,4,0,0,0,0,celeron,1.6,intel,hdd,500,no secondary memory,0,intel hd,windows,2.2,9.88635767027266,100.45
+1173,lenovo,notebook,4,0,0,0,0,core i5,2.3,intel,hdd,500,no secondary memory,0,intel hd,no os,2.1,9.962013031516571,100.45
+1174,lenovo,notebook,8,1,0,0,0,core i7,2.7,intel,hdd,1024,no secondary memory,0,nvidia geforce,no os,2.2,10.53941655276426,141.21
+1175,asus,notebook,4,1,0,0,0,core i3,2.4,intel,ssd,256,no secondary memory,0,intel hd,windows,2.0,10.620651995737777,157.35
+1176,lenovo,notebook,4,1,0,0,0,core i7,2.5,intel,hybrid,1024,no secondary memory,0,intel hd,windows,2.32,10.690944412566814,141.21
+1177,lenovo,gaming,16,1,1,0,0,core i7,2.6,intel,ssd,512,no secondary memory,0,nvidia geforce,windows,3.31,11.149519345988928,141.21
+1178,msi,gaming,16,1,0,0,0,core i7,2.6,intel,ssd,128,hdd,1024,nvidia geforce,windows,1.91,11.650350330681883,141.21
+1179,hp,notebook,4,0,0,0,0,core i3,2.3,intel,hdd,500,no secondary memory,0,intel hd,windows,2.07,10.452533389121816,100.45
+1180,lenovo,2 in 1 convertible,8,0,1,1,0,core i5,2.3,intel,ssd,256,no secondary memory,0,intel hd,windows,1.36,11.37618160360327,209.8
+1181,lenovo,ultrabook,6,1,0,0,0,core i7,2.7,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,1.54,10.698190821087582,141.21
+1182,dell,notebook,8,1,0,0,0,core i7,2.7,intel,ssd,256,no secondary memory,0,nvidia geforce,linux,1.98,10.772395858911645,141.21
+1183,acer,notebook,4,0,0,0,0,celeron,2.0,intel,hdd,500,no secondary memory,0,intel hd,windows,2.1,9.783703516212578,100.45
+1184,hp,notebook,6,1,1,0,0,core i7,2.6,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,2.18,10.658921971998408,141.21
+1185,asus,gaming,8,1,1,0,0,core i7,2.6,intel,ssd,256,hdd,1024,nvidia geforce,windows,2.59,10.787906120409612,141.21
+1186,dell,2 in 1 convertible,16,1,0,1,0,core i7,2.7,intel,ssd,512,no secondary memory,0,intel hd,windows,2.09,11.047982926769505,141.21
+1187,acer,notebook,4,1,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,nvidia geforce,windows,2.23,10.513700849999804,141.21
+1188,dell,ultrabook,8,0,0,1,0,core i5,2.4,intel,ssd,256,no secondary memory,0,intel hd,linux,1.23,10.977716980635755,276.05
+1189,acer,gaming,16,1,1,0,0,core i7,2.8,intel,ssd,256,hdd,1024,nvidia geforce,windows,4.2,11.838443060873624,127.34
+1190,lenovo,gaming,8,1,1,0,0,core i5,2.5,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,2.4,10.683645110085203,141.21
+1191,samsung,2 in 1 convertible,4,0,1,1,0,others,2.0,intel,flash storage,32,no secondary memory,0,others,chrome os,1.15,10.46628456073464,234.51
+1192,hp,notebook,4,0,0,0,0,core i5,2.5,intel,hdd,500,no secondary memory,0,intel hd,windows,1.86,10.159709917169616,100.45
+1193,apple,ultrabook,8,0,1,0,0,others,1.1,intel,flash storage,256,no secondary memory,0,intel hd,mac,0.92,11.034319178750797,226.42
+1194,dell,2 in 1 convertible,8,1,1,1,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.6,11.064804181259648,165.63
+1195,hp,notebook,12,1,1,0,0,core i7,2.8,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.21,11.166237060564342,141.21
+1196,lenovo,notebook,4,0,0,0,0,core i3,2.0,intel,hdd,1024,no secondary memory,0,amd radeon,no os,1.9,9.883643964401065,100.45
+1197,asus,gaming,16,1,1,0,0,core i7,2.6,intel,ssd,512,hdd,1024,nvidia geforce,windows,4.3,11.648784147353842,127.34
+1198,acer,notebook,4,0,0,0,0,celeron,2.0,intel,hdd,1024,no secondary memory,0,intel hd,linux,2.1,9.58136309252813,100.45
+1199,msi,gaming,16,1,0,0,0,core i7,2.8,intel,ssd,256,hdd,1024,nvidia geforce,windows,2.43,11.600619350664463,127.34
+1200,dell,notebook,4,0,0,0,0,core i3,2.0,intel,ssd,128,no secondary memory,0,amd radeon,windows,2.3,10.188167121983652,100.45
+1201,lenovo,notebook,8,0,0,0,0,core i7,2.5,intel,hdd,500,no secondary memory,0,nvidia geforce,no os,2.2,10.419692282932575,100.45
+1202,dell,2 in 1 convertible,16,1,0,1,0,core i7,1.8,intel,ssd,512,no secondary memory,0,intel uhd,windows,2.0,11.134075023561454,141.21
+1203,dell,ultrabook,16,0,0,1,0,core i7,2.7,intel,ssd,512,no secondary memory,0,intel hd,windows,1.2,11.869133099737036,276.05
+1204,asus,gaming,8,1,0,0,0,core i7,2.6,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,2.2,11.039464987704202,141.21
+1205,dell,notebook,8,1,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,amd radeon,windows,2.36,10.765658261746038,141.21
+1206,hp,notebook,8,0,0,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.91,10.336863503805128,100.45
+1207,lenovo,notebook,4,0,0,0,0,others,2.2,amd,hdd,500,no secondary memory,0,amd radeon,windows,2.2,9.67600459962282,100.45
+1208,acer,notebook,8,0,0,0,0,core i3,2.0,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,3.3,10.419692282932575,106.11
+1209,asus,gaming,16,1,0,0,0,core i7,2.8,intel,ssd,256,hdd,1024,nvidia geforce,windows,2.2,11.778996083184301,141.21
+1210,apple,ultrabook,8,0,1,0,0,others,1.2,intel,flash storage,512,no secondary memory,0,intel hd,mac,0.92,11.129394827810977,226.42
+1211,asus,notebook,16,1,0,0,0,core i7,2.8,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.2,11.442360501250736,141.21
+1212,msi,gaming,16,1,1,0,0,core i7,2.6,intel,ssd,256,hdd,1024,nvidia geforce,windows,2.43,11.550627621854199,127.34
+1213,dell,2 in 1 convertible,8,1,1,1,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,2.19,10.882315804880687,141.21
+1214,asus,gaming,16,1,0,0,0,core i7,2.8,intel,ssd,256,hdd,1024,nvidia geforce,windows,2.9,11.550632725739694,127.34
+1215,acer,netbook,2,0,0,0,0,celeron,1.5,intel,ssd,32,no secondary memory,0,intel hd,chrome os,1.3,9.134616325446663,135.09
+1216,acer,notebook,4,0,0,0,0,core i3,2.0,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,3.3,10.369151780182765,106.11
+1217,lenovo,notebook,8,0,0,0,0,core i5,2.5,intel,hdd,1024,no secondary memory,0,intel hd,no os,2.8,10.265276597141131,106.11
+1218,lenovo,gaming,8,1,1,0,0,core i7,2.6,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.6,11.123906770132201,141.21
+1219,acer,2 in 1 convertible,8,1,1,1,0,core i7,1.3,intel,ssd,256,no secondary memory,0,intel hd,windows,1.2,11.02220830408089,157.35
+1220,lenovo,notebook,8,1,1,0,0,core i7,2.6,intel,ssd,256,no secondary memory,0,intel hd,windows,2.3,11.307930232161196,141.21
+1221,msi,gaming,8,1,0,0,0,core i7,2.6,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.2,11.272726544188886,141.21
+1222,hp,notebook,6,1,0,0,0,a series,2.7,amd,hdd,1024,no secondary memory,0,amd radeon,windows,2.1,10.246549458090433,141.21
+1223,dell,ultrabook,8,1,0,1,0,core i5,2.4,intel,ssd,256,no secondary memory,0,intel hd,windows,1.26,11.42177845712697,176.23
+1224,dell,2 in 1 convertible,4,1,0,1,0,core i3,2.4,intel,hdd,500,no secondary memory,0,intel hd,windows,2.08,10.208009042782656,146.86
+1225,asus,notebook,4,0,0,0,0,pentium,1.6,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.65,9.708902303129879,100.45
+1226,dell,ultrabook,8,0,0,1,0,core i7,2.7,intel,ssd,256,no secondary memory,0,intel hd,windows,1.29,11.273329308763513,276.05
+1227,dell,notebook,4,0,0,0,0,core i5,2.5,intel,hdd,1024,no secondary memory,0,intel hd,linux,2.18,10.232960350137096,100.45
+1228,lenovo,gaming,16,1,1,1,0,core i7,2.6,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.6,10.911903762066183,141.21
+1229,msi,gaming,8,1,0,0,0,core i7,2.8,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.2,11.02220830408089,141.21
+1230,lenovo,netbook,16,1,1,1,0,core i7,2.5,intel,ssd,512,no secondary memory,0,intel hd,windows,1.3,11.38409159312676,176.23
+1231,razer,gaming,16,1,0,0,0,core i7,2.8,intel,ssd,1024,no secondary memory,0,nvidia geforce,windows,1.95,12.135793518599822,157.35
+1232,dell,notebook,8,0,0,1,0,core i3,2.4,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.3,10.126185004362755,100.45
+1233,msi,gaming,16,1,0,0,0,core i7,2.8,intel,ssd,256,hdd,1024,nvidia geforce,windows,2.7,11.352069152558354,127.34
+1234,apple,ultrabook,4,0,0,0,0,core i5,1.6,intel,flash storage,256,no secondary memory,0,intel hd,mac,1.08,10.841452101115571,135.09
+1235,hp,notebook,4,1,0,0,0,core i3,2.0,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.1,10.14517175872359,141.21
+1236,hp,ultrabook,8,0,0,0,0,core i7,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.54,11.67095057235748,209.8
+1237,dell,notebook,4,0,0,0,0,core i5,2.3,intel,hdd,500,no secondary memory,0,intel hd,windows,2.24,10.578148918421471,100.45
+1238,msi,gaming,8,1,0,0,0,core i7,2.6,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.3,11.039464987704202,141.21
+1239,lenovo,notebook,16,1,1,0,0,core i7,2.7,intel,ssd,512,no secondary memory,0,intel hd,windows,1.4,11.288114524334732,165.63
+1240,lenovo,notebook,6,1,0,0,0,a series,3.6,amd,ssd,256,no secondary memory,0,amd radeon,windows,2.2,10.36843247055082,141.21
+1241,asus,ultrabook,8,1,0,0,0,core i7,2.5,intel,ssd,256,no secondary memory,0,intel hd,windows,1.45,11.130176383145796,165.63
+1242,acer,notebook,4,0,0,0,0,core i3,2.0,intel,hdd,500,no secondary memory,0,intel hd,linux,2.4,9.866652391688953,100.45
+1243,dell,2 in 1 convertible,16,1,0,1,0,core i7,2.7,intel,ssd,512,no secondary memory,0,nvidia geforce,windows,2.77,11.470547260182666,127.34
+1244,hp,notebook,4,1,0,0,0,core i5,2.3,intel,ssd,256,no secondary memory,0,intel hd,windows,1.54,10.978617441843664,157.35
+1245,asus,gaming,16,1,1,0,0,core i7,2.8,intel,ssd,256,hdd,1024,nvidia geforce,windows,2.5,11.353319934460007,141.21
+1246,dell,notebook,4,0,0,0,0,core i5,2.5,intel,hdd,500,no secondary memory,0,intel hd,windows,1.6,10.749784912589748,111.94
+1247,asus,gaming,16,1,1,0,0,core i7,2.6,intel,ssd,256,hdd,1024,nvidia geforce,windows,2.34,11.727036344253591,141.21
+1248,lenovo,notebook,8,1,1,0,0,core i5,2.5,intel,ssd,256,no secondary memory,0,intel hd,no os,2.3,10.326446742946873,141.21
+1249,dell,2 in 1 convertible,8,0,0,1,0,core i5,1.2,intel,ssd,256,no secondary memory,0,intel hd,windows,1.24,11.478299236986985,276.05
+1250,dell,notebook,4,0,0,0,0,pentium,1.6,intel,hdd,500,no secondary memory,0,intel hd,linux,2.2,9.756304542024463,100.45
+1251,hp,notebook,4,0,0,0,0,a series,2.5,amd,hdd,500,no secondary memory,0,amd radeon,windows,1.86,9.964522443121997,100.45
+1252,lenovo,notebook,6,1,0,0,0,core i3,2.3,intel,ssd,128,no secondary memory,0,nvidia geforce,windows,2.4,10.319441460358465,141.21
+1253,lenovo,notebook,8,1,1,0,0,core i5,2.3,intel,ssd,256,no secondary memory,0,intel hd,windows,1.9,10.952842367862882,157.35
+1254,dell,notebook,4,0,0,0,0,pentium,1.6,intel,hdd,500,no secondary memory,0,intel hd,windows,2.2,10.071363184252464,100.45
+1255,asus,notebook,4,0,0,0,0,celeron,1.1,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.0,9.801561133612584,100.45
+1256,asus,gaming,16,1,1,0,0,core i7,2.6,intel,ssd,128,hdd,1024,nvidia geforce,windows,4.0,11.525170191386666,127.34
+1257,dell,notebook,4,0,0,0,0,core i3,2.0,intel,hdd,500,no secondary memory,0,intel hd,windows,2.29,10.169966417336806,100.45
+1258,lenovo,notebook,8,1,0,0,0,core i7,2.5,intel,hybrid,1024,no secondary memory,0,amd radeon,windows,2.32,10.772384744506988,141.21
+1259,msi,gaming,8,1,0,0,0,core i7,2.6,intel,ssd,128,hdd,1024,nvidia geforce,windows,2.4,11.089517135798168,141.21
+1260,lenovo,2 in 1 convertible,4,1,0,1,0,core i5,2.3,intel,ssd,128,no secondary memory,0,intel hd,windows,1.8,10.700606610041296,157.35
+1261,asus,ultrabook,8,1,1,0,0,others,0.9,intel,ssd,512,no secondary memory,0,intel hd,windows,1.2,10.567234758240792,165.63
+1262,dell,notebook,6,0,0,0,0,core i3,2.4,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.3,10.104611236292678,100.45
+1263,acer,notebook,4,0,0,0,0,celeron,1.6,intel,hdd,500,no secondary memory,0,intel hd,linux,2.4,9.641987714344566,100.45
+1264,dell,notebook,2,0,0,0,0,celeron,1.6,intel,hdd,500,no secondary memory,0,intel hd,windows,2.2,9.913097231314559,100.45
+1265,lenovo,notebook,8,1,1,0,0,core i7,2.6,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,2.6,10.776844060703754,141.21
+1266,hp,notebook,6,1,0,0,0,a series,2.9,amd,hybrid,1024,no secondary memory,0,amd radeon,windows,2.04,10.285461218027006,141.21
+1267,dell,notebook,8,0,0,0,0,core i7,2.7,intel,hdd,1024,no secondary memory,0,amd radeon,linux,2.3,10.66763242691639,100.45
+1268,hp,netbook,2,0,0,0,0,celeron,1.6,intel,flash storage,32,no secondary memory,0,intel hd,windows,1.17,9.317895278196945,135.09
+1269,asus,notebook,4,0,0,0,0,core i7,2.5,intel,hdd,500,no secondary memory,0,nvidia geforce,windows,2.2,10.555256594372963,100.45
+1270,lenovo,2 in 1 convertible,4,1,1,1,0,core i7,2.5,intel,ssd,128,no secondary memory,0,intel hd,windows,1.8,10.433899309576924,157.35
+1271,lenovo,2 in 1 convertible,16,0,1,1,0,core i7,2.5,intel,ssd,512,no secondary memory,0,intel hd,windows,1.3,11.288114524334732,276.05
+1272,lenovo,notebook,2,0,0,0,0,celeron,1.6,intel,flash storage,64,no secondary memory,0,intel hd,windows,1.5,9.409283029786373,111.94
+1273,hp,notebook,6,0,0,0,0,core i7,2.5,intel,hdd,1024,no secondary memory,0,amd radeon,windows,2.19,10.614128815398654,100.45
+1274,asus,notebook,4,0,0,0,0,celeron,1.6,intel,hdd,500,no secondary memory,0,intel hd,windows,2.2,9.88635767027266,100.45
+1275,asus,ultrabook,8,1,1,0,0,others,0.9,intel,ssd,512,no secondary memory,0,intel hd,windows,1.2,10.567234758240792,165.63
+1276,dell,notebook,6,0,0,0,0,core i3,2.4,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.3,10.104611236292678,100.45
+1277,acer,notebook,4,0,0,0,0,celeron,1.6,intel,hdd,500,no secondary memory,0,intel hd,linux,2.4,9.641987714344566,100.45
+1278,dell,notebook,2,0,0,0,0,celeron,1.6,intel,hdd,500,no secondary memory,0,intel hd,windows,2.2,9.913097231314559,100.45
+1279,lenovo,notebook,8,1,1,0,0,core i7,2.6,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,2.6,10.776844060703754,141.21
+1280,hp,notebook,6,1,0,0,0,a series,2.9,amd,hybrid,1024,no secondary memory,0,amd radeon,windows,2.04,10.285461218027006,141.21
+1281,dell,notebook,8,0,0,0,0,core i7,2.7,intel,hdd,1024,no secondary memory,0,amd radeon,linux,2.3,10.66763242691639,100.45
+1282,hp,netbook,2,0,0,0,0,celeron,1.6,intel,flash storage,32,no secondary memory,0,intel hd,windows,1.17,9.317895278196945,135.09
+1283,asus,notebook,4,0,0,0,0,core i7,2.5,intel,hdd,500,no secondary memory,0,nvidia geforce,windows,2.2,10.555256594372963,100.45
+1284,lenovo,2 in 1 convertible,4,1,1,1,0,core i7,2.5,intel,ssd,128,no secondary memory,0,intel hd,windows,1.8,10.433899309576924,157.35
+1285,lenovo,2 in 1 convertible,16,0,1,1,0,core i7,2.5,intel,ssd,512,no secondary memory,0,intel hd,windows,1.3,11.288114524334732,276.05
+1286,lenovo,notebook,2,0,0,0,0,celeron,1.6,intel,flash storage,64,no secondary memory,0,intel hd,windows,1.5,9.409283029786373,111.94
+1287,hp,notebook,6,0,0,0,0,core i7,2.5,intel,hdd,1024,no secondary memory,0,amd radeon,windows,2.19,10.614128815398654,100.45
+1288,asus,notebook,4,0,0,0,0,celeron,1.6,intel,hdd,500,no secondary memory,0,intel hd,windows,2.2,9.88635767027266,100.45
+1289,asus,ultrabook,8,1,1,0,0,others,0.9,intel,ssd,512,no secondary memory,0,intel hd,windows,1.2,10.567234758240792,165.63
+1290,dell,notebook,6,0,0,0,0,core i3,2.4,intel,hdd,1024,no secondary memory,0,intel hd,windows,2.3,10.104611236292678,100.45
+1291,acer,notebook,4,0,0,0,0,celeron,1.6,intel,hdd,500,no secondary memory,0,intel hd,linux,2.4,9.641987714344566,100.45
+1292,dell,notebook,2,0,0,0,0,celeron,1.6,intel,hdd,500,no secondary memory,0,intel hd,windows,2.2,9.913097231314559,100.45
+1293,lenovo,notebook,8,1,1,0,0,core i7,2.6,intel,hdd,1024,no secondary memory,0,nvidia geforce,windows,2.6,10.776844060703754,141.21
+1294,hp,notebook,6,1,0,0,0,a series,2.9,amd,hybrid,1024,no secondary memory,0,amd radeon,windows,2.04,10.285461218027006,141.21
+1295,dell,notebook,8,0,0,0,0,core i7,2.7,intel,hdd,1024,no secondary memory,0,amd radeon,linux,2.3,10.66763242691639,100.45
+1296,hp,netbook,2,0,0,0,0,celeron,1.6,intel,flash storage,32,no secondary memory,0,intel hd,windows,1.17,9.317895278196945,135.09
+1297,asus,notebook,4,0,0,0,0,core i7,2.5,intel,hdd,500,no secondary memory,0,nvidia geforce,windows,2.2,10.555256594372963,100.45
+1298,lenovo,2 in 1 convertible,4,1,1,1,0,core i7,2.5,intel,ssd,128,no secondary memory,0,intel hd,windows,1.8,10.433899309576924,157.35
+1299,lenovo,2 in 1 convertible,16,0,1,1,0,core i7,2.5,intel,ssd,512,no secondary memory,0,intel hd,windows,1.3,11.288114524334732,276.05
+1300,lenovo,notebook,2,0,0,0,0,celeron,1.6,intel,flash storage,64,no secondary memory,0,intel hd,windows,1.5,9.409283029786373,111.94
+1301,hp,notebook,6,0,0,0,0,core i7,2.5,intel,hdd,1024,no secondary memory,0,amd radeon,windows,2.19,10.614128815398654,100.45
+1302,asus,notebook,4,0,0,0,0,celeron,1.6,intel,hdd,500,no secondary memory,0,intel hd,windows,2.2,9.88635767027266,100.45
