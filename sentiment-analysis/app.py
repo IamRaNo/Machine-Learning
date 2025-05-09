@@ -1,9 +1,9 @@
-
 import contractions
 import re
 import dill
 import pickle
 import spacy
+import sklearn
 
 import streamlit as st
 
@@ -12,7 +12,7 @@ st.title('Sentiment Analysis')
 
 def pre_processing(text):
     text = text.lower()
-    url_regex = re.compile(r"http[s]?://\S+|www\.\S+")
+    url_regex = re.compile(r"https?://\S+|www\.\S+")
     text = url_regex.sub('', text)
     text = text.replace('`', "'").strip()
     text = text.strip()
